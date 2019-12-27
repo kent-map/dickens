@@ -3,8 +3,9 @@ Ken Moffat and Carolyn W. de la L. Oulton
 
 <figure class="image">
   <img src="https://kg.jstor.org/w/images/3/39/Rochester_1828.jpg" alt="West View of the City of Rochester">
- <figcaption><i>West View of the City of Rochester.</i> Engraved by W.Smith after a drawing by G.F.Robson. 
-Source: https://www.ancestryimages.com/index.html. REF F5519. </figcaption>
+ <figcaption>
+   <i>West View of the City of Rochester.</i> Engraved by W.Smith after a drawing by G.F.Robson. Source: [Ancestry Images](https://www.ancestryimages.com/index.html) REF F5519.
+  </figcaption>
 </figure>
 
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this 
