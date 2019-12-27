@@ -8,7 +8,7 @@ Source: https://www.ancestryimages.com/index.html. REF F5519.
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this 
 tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be 
 pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to 
-him, ‘life is made of ever so many partings’.[^1]
+him, ‘life is made of ever so many partings’.<sup id="a1">[1](#f1)</sup>
 
 But the novel insists that Pip does have choices. He keeps his encounter with Magwitch a secret. He accepts the offer of a 
 mysterious benefactor to transform him into a gentleman, largely in hopes of winning Estella. He puts up at the Blue Boar 
@@ -63,7 +63,7 @@ On a visit to the town after his succession to fortune Pip will be taunted by th
 out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with 
 crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final 
 triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, 
-and was, so to speak, ejected by it into the open country’.[^2]
+and was, so to speak, ejected by it into the open country’.<sup id="a2">[2](#f2)</sup>
 
 Later events will force Pip to reassess his own past and what it means to be a ‘gentleman’. Thackeray famously said that it 
 took three generations ‘to make a gentleman’; Magwitch believes that through his hard work and self-denial he has ‘made a 
@@ -76,11 +76,15 @@ Towards the end of the novel he is not far from this point when he and his frien
 article 16, Ship and Lobster] at the end of their abortive attempt to smuggle him out of the country. While Pip has never 
 before seen this stretch of river he recognises at once that ‘It was like my own marsh country, flat and monotonous, and with 
 a dim horizon; while the winding river turned and turned, and the great floating buoys upon it turned and turned, and 
-everything else seemed stranded and still.’[^3] But his final return 
+everything else seemed stranded and still.’<sup id="a3">[3](#f)</sup> But his final return 
 is thwarted when Magwitch is hunted down by Compeyson and dies of his injuries, possibly compounded by a river infection 
 [Link Heidi’s article on sewage and tidal rivers, when it comes in]. Pip finally realises what Joe was trying to tell him 
 years before - there is no way back save in the imagination.
 
-[^1]: http://www.literaturepage.com/read/greatexpectations-250.html
-[^2]: http://www.literaturepage.com/read/greatexpectations-273.html
-[^3]: http://www.literaturepage.com/read/greatexpectations-490.html
+### References
+
+<b id="f1">1</b> http://www.literaturepage.com/read/greatexpectations-250.html [↩](#a1)
+
+<b id="f2">2</b> http://www.literaturepage.com/read/greatexpectations-273.html [↩](#a2)
+
+<b id="f3">3</b> http://www.literaturepage.com/read/greatexpectations-490.html [↩](#a3)
