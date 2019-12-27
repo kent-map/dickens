@@ -1,7 +1,6 @@
-Great Expectations: curated walk
+## Great Expectations: curated walk
 Ken Moffat and Carolyn W. de la L. Oulton
 
- 
 
 "West View of the City of Rochester". Engraved by W.Smith after a drawing by G.F.Robson. 
 Source: https://www.ancestryimages.com/index.html. REF F5519.
@@ -9,23 +8,22 @@ Source: https://www.ancestryimages.com/index.html. REF F5519.
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this 
 tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be 
 pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to 
-him, ‘life is made of ever so many partings’. http://www.literaturepage.com/read/greatexpectations-250.html
+him, ‘life is made of ever so many partings’.[^1]
 
 But the novel insists that Pip does have choices. He keeps his encounter with Magwitch a secret. He accepts the offer of a 
 mysterious benefactor to transform him into a gentleman, largely in hopes of winning Estella. He puts up at the Blue Boar 
 [link article 12, Rochester and https://charlesdickenspage.com/charles_dickens_rochester-chatham_map.html] on his return from 
-London rather than staying with Joe at the forge. The starkness of these choices is symbolised by the accusatory finger post at 
-the end of the village. Pointing both towards town and in the opposite direction towards the marshes and the church [map ref 1] 
-[link article 15, Cooling churchyard], this signpost offers two mutually exclusive paths for Pip to take whenever he leaves 
-the village. This road does not exist on maps of the time, or at least there is no road that obviously leads in both directions 
-in the direct way that Pip suggests. The moral imperatives, which he will increasingly ignore, are symbolically mapped by the 
-guilty character himself.
+London rather than staying with Joe at the forge. The starkness of these choices is symbolised by the accusatory finger post at the end of the village. Pointing both towards town and in the opposite direction towards the marshes and the church 
+[map ref 1] [link article 15, Cooling churchyard], this signpost offers two mutually exclusive paths for Pip to take whenever 
+he leaves the village. This road does not exist on maps of the time, or at least there is no road that obviously leads in both 
+directions in the direct way that Pip suggests. The moral imperatives, which he will increasingly ignore, are symbolically 
+mapped by the guilty character himself.
 
 But even the village is an ambiguous and largely unprotected space. Going through it means passing the Jolly Bargeman, the pub 
 where Joe enjoys an occasional glass of beer, but also where Magwitch’s  mysterious emissary has ostentatiously shown Pip the 
 blacksmith’s file; he must also go past the ‘school’ run by Mr Wopsle’s superannuated great aunt, who has taught him nothing 
-at all, although it is the unlikely setting for his early relationship with the saintly Biddy (another of Pip’s poor choices is 
-failing to fall in love with her).
+at all, although it is the unlikely setting for his early relationship with the saintly Biddy (another of Pip’s poor choices 
+is failing to fall in love with her).
  
 ‘Pip at the finger post.’ © The British Library Board. ktc28b20f001r 
 
@@ -65,7 +63,7 @@ On a visit to the town after his succession to fortune Pip will be taunted by th
 out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with 
 crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final 
 triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, 
-and was, so to speak, ejected by it into the open country’. http://www.literaturepage.com/read/greatexpectations-273.html
+and was, so to speak, ejected by it into the open country’.[^2]
 
 Later events will force Pip to reassess his own past and what it means to be a ‘gentleman’. Thackeray famously said that it 
 took three generations ‘to make a gentleman’; Magwitch believes that through his hard work and self-denial he has ‘made a 
@@ -78,7 +76,11 @@ Towards the end of the novel he is not far from this point when he and his frien
 article 16, Ship and Lobster] at the end of their abortive attempt to smuggle him out of the country. While Pip has never 
 before seen this stretch of river he recognises at once that ‘It was like my own marsh country, flat and monotonous, and with 
 a dim horizon; while the winding river turned and turned, and the great floating buoys upon it turned and turned, and 
-everything else seemed stranded and still.’ http://www.literaturepage.com/read/greatexpectations-490.html But his final return 
+everything else seemed stranded and still.’[^3] But his final return 
 is thwarted when Magwitch is hunted down by Compeyson and dies of his injuries, possibly compounded by a river infection 
 [Link Heidi’s article on sewage and tidal rivers, when it comes in]. Pip finally realises what Joe was trying to tell him 
 years before - there is no way back save in the imagination.
+
+[^1]: http://www.literaturepage.com/read/greatexpectations-250.html
+[^2]: http://www.literaturepage.com/read/greatexpectations-273.html
+[^3]: http://www.literaturepage.com/read/greatexpectations-490.html
