@@ -1,4 +1,4 @@
-<var data-essay title="Mobile Landscapes" data-banner="https://kg.jstor.org/w/images/c/cc/Viking_Bay%2C_Broadstairs.jpg"></var>
+<var data-essay title="Mobile Landscapes" data-banner="/images/Viking_Bay_Broadstairs.jpg"></var>
 
 ## Finding Kent Dickensian in David Copperfield and Great Expectations
 

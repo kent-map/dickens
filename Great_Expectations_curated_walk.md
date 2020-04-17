@@ -60,7 +60,7 @@ The landscape [[Pip]] describes seems to alter as he moves across it. In his nig
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks [[Pip]] describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows [[Pip]]’s progress on a map, the fascination of these ‘[[Kent:Mobile Landscapes|mobile landscapes]]’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
 
 <p align="center">
-  <img src="/static/images/Rochester_1828.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="/images/Rochester_1828.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">West View of the City of Rochester</span>
 </p>
 
