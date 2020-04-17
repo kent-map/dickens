@@ -50,7 +50,7 @@
      data-url="https://ithaka.github.io/labs-ph-essays/geojson/maya-region.json"
      data-active="true"></var>
 
-## Great Expections - a curated walk
+## Great Expections - a curated walk (updated)
 
 by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
 
