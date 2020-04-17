@@ -50,11 +50,9 @@
      data-url="https://ithaka.github.io/labs-ph-essays/geojson/maya-region.json"
      data-active="true"></var>
 
-## Great Expections - a curated walk (updated)
+## Great Expections - a curated walk
 
 by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
-
-https://editions.covecollective.org/place/medway
 
 The landscape [[Pip]] describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to [[Magwitch]] in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <var data-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent"></var> 
@@ -62,16 +60,10 @@ The landscape [[Pip]] describes seems to alter as he moves across it. In his nig
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks [[Pip]] describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows [[Pip]]’s progress on a map, the fascination of these ‘[[Kent:Mobile Landscapes|mobile landscapes]]’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
 
 <p align="center">
-  <img src="https://kg.jstor.org/w/images/3/39/Rochester_1828.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="/static/images/Rochester_1828.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">West View of the City of Rochester</span>
 </p>
 
-<figure class="image">
-  <img src="https://kg.jstor.org/w/images/3/39/Rochester_1828.jpg" alt="West View of the City of Rochester">
- <figcaption>
-   <em>West View of the City of Rochester.</em> Engraved by W.Smith after a drawing by G.F.Robson. Source: <a href="https://www.ancestryimages.com/index.html">Ancestry Images</a> REF F5519.
-  </figcaption>
-</figure>
 
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to him, ‘life is made of ever so many partings’[^ref1]. 
 
@@ -113,7 +105,7 @@ was bought and restored in the 1980s by entertainer Rod Hull and his irrepressib
      data-mapwarper-id="38872" 
      data-active="true"></var>
 
-On a visit to the town after his succession to fortune [[Pip]] will be taunted by the unimpressed [[Trabb’s boy]], who ducks in and out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, and was, so to speak, ejected by it into the open country’[^ref3].  
+On a visit to the town after his succession to fortune [[Pip]] will be taunted by the unimpressed [[Trabb’s boy]], who ducks in and out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, and was, so to speak, ejected by it into the open country’[^ref2].  
 <var data-map data-center="Q5132831" data-zoom="12"></var>
 
 Later events will force [[Pip]] to reassess his own past and what it means to be a ‘gentleman’. Thackeray famously said that it took three generations ‘to make a gentleman’; [[Magwitch]] believes that through his hard work and self-denial he has ‘made a gentleman’; [[Pip]]’s unlikely counterpart Estella is the most obviously constructed character in the novel and herself has to be ‘educated for a lady’. A mature [[Pip]] will provide the only possible answer to this conundrum when he describes [[Joe]] as ‘this gentle Christian man’.
