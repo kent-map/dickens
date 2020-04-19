@@ -1,5 +1,7 @@
 <a href="https://visual-essay-atjcn6za6q-uc.a.run.app/kent-map/dickens/Mobile-landscapes"><img src="https://jstor-labs.github.io/visual-essays/ve-button.png"/></a>
 
+<a href="https://visual-essay-atjcn6za6q-uc.a.run.app/kent-map/dickens/Mobile-landscapes" rel="View as visual essay">![Visual essay](https://jstor-labs.github.io/visual-essays/ve-button.png)</a>
+
 <var data-essay title="Mobile Landscapes"
      data-banner="/static/images/Viking_Bay_Broadstairs.jpg"
      layout="hc"></var>
