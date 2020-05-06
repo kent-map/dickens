@@ -1,0 +1,10 @@
+{
+    "title": "Dickens",
+    "banner": "/images/Charles_Dickens_signature_1838.png",
+    "tagline": "Dickens site tagline...",
+    "showFooter": true,
+    "customComponents": {
+        "essayHeader": "/components/EssayHeader.vue",
+        "siteFooter": "/components/SiteFooter.vue"
+    }
+}
