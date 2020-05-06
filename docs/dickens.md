@@ -1,7 +1,6 @@
 <var data-essay
     title="Charles Dickens"
-    data-layout="vtl"
-></var>
+    data-layout="vtl"></var>
 <var data-map></var>
 <var title="Charles Dickens" data-qid="Q5686"></var>
 <var title="The Pickwick Papers" data-qid="Q460583"></var>
