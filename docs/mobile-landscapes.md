@@ -1,7 +1,8 @@
 <a href="https://dickens.kent-maps.online/mobile-landscapes"><img src="/images/ve-button.png"/></a>
 
 <var data-essay title="Mobile Landscapes"
-     data-banner="/static/images/Viking_Bay_Broadstairs.jpg"
+     data-banner="/images/Viking_Bay_Broadstairs.jpg"
+     data-author="Ken Moffat and Carolyn W. de la L. Oulton"
      layout="hc"></var>
 
 ## Finding Kent Dickensian in David Copperfield and Great Expectations
