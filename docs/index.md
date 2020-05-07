@@ -1,6 +1,6 @@
 ## Home page for Dickens site
 
-[Dickens sample essay](/dickens) with text from [Wikipedia](https://en.wikipedia.org/wiki/Charles_Dickens)
+[Dickens sample essay](/sample) with text from [Wikipedia](https://en.wikipedia.org/wiki/Charles_Dickens)
 
 ### In-process work
 

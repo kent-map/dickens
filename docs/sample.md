@@ -2,9 +2,6 @@
     title="Charles Dickens"
     data-banner="/images/Viking_Bay_Broadstairs.jpg"
     data-layout="vtl"></var>
-<var data-map
-    data-basemap="Esri_WorldPhysical"
-    center="Q72259" zoom="7"></var>
 <var title="Charles Dickens" data-qid="Q5686"></var>
 <var title="The Pickwick Papers" data-qid="Q460583"></var>
 <var title="Portsmouth" data-qid="Q72259" data-prefer-geojson="true"></var>
@@ -16,6 +13,7 @@ Charles John Huffam Dickens (7 February 1812 – 9 June 1870) was an English wri
 <var data-image data-url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg"></var>
 
 Born in Portsmouth, Dickens left school to work in a factory when his father was incarcerated in a debtors' prison. Despite his lack of formal education, he edited a weekly journal for 20 years, wrote 15 novels, five novellas, hundreds of short stories and non-fiction articles, lectured and performed readings extensively, was an indefatigable letter writer, and campaigned vigorously for children's rights, education, and other social reforms.
+<var data-map data-basemap="Esri_WorldPhysical" center="Q72259" zoom="7"></var>
 
 Dickens's literary success began with the 1836 serial publication of The Pickwick Papers. Within a few years he had become an international literary celebrity, famous for his humour, satire, and keen observation of character and society. His novels, most published in monthly or weekly instalments, pioneered the serial publication of narrative fiction, which became the dominant Victorian mode for novel publication. Cliffhanger endings in his serial publications kept readers in suspense.  The installment format allowed Dickens to evaluate his audience's reaction, and he often modified his plot and character development based on such feedback. For example, when his wife's chiropodist expressed distress at the way Miss Mowcher in David Copperfield seemed to reflect her disabilities, Dickens improved the character with positive features.  His plots were carefully constructed, and he often wove elements from topical events into his narratives.  Masses of the illiterate poor chipped in ha'pennies to have each new monthly episode read to them, opening up and inspiring a new class of readers.
 <var data-primary="image"></var>
