@@ -1,7 +1,7 @@
-<a href="https://dickens.kent-maps.online/mobile-landscapes"><img src="/images/ve-button.png"/></a>
+<a href="https://dickens.kent-maps.online/mobile-landscapes"><img src="images/ve-button.png"/></a>
 
 <var data-essay title="Mobile Landscapes"
-     data-banner="/images/Viking_Bay_Broadstairs.jpg"
+     data-banner="images/Viking_Bay_Broadstairs.jpg"
      data-author="Ken Moffat and Carolyn W. de la L. Oulton"
      layout="hc"></var>
 
@@ -16,7 +16,7 @@ You’ll need a map because there are no signposts. There are witnesses of cours
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? Broadstairs or Dover, it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 
 <p align="center">
-  <img src="/images/Dickens_Land_books.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/Dickens_Land_books.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Dickens Land books</span>
 </p>
 
@@ -49,7 +49,7 @@ We parked the car half a mile out of town to avoid the Pay and Display, trusted 
 All three buildings are within sight of each other, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'  https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm (Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 
 <p align="center">
-  <img src="/images/Dickens_House.jpg" style="width:100%;max-width:500px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/Dickens_House.jpg" style="width:100%;max-width:500px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Dicken's House</span>
 </p>
 
