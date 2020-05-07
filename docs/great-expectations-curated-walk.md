@@ -59,7 +59,7 @@ The landscape Pip describes seems to alter as he moves across it. In his nightma
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes](/Mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
 
 <p align="center">
-  <img src="/static/images/Rochester_1828.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="/images/Rochester_1828.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">West View of the City of Rochester</span>
 </p>
 
@@ -74,7 +74,7 @@ But the novel insists that Pip does have choices. He keeps his encounter with Ma
      data-active="true"></var>
 
 <p align="center">
-  <img src="/static/images/Pip.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="/images/Pip.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Pip at the finger post</span>
 </p>
 
@@ -88,7 +88,7 @@ conveys a huge expanse. When he first meets the convict Magwitch in the churchya
      data-type="geojson"
      title="Marshes"
      data-aliases="marshes"
-     data-url="https://raw.githubusercontent.com/kent-map/geojson/master/marshes.json"
+     data-url="/geojson/marshes.json"
      data-active="true"></var>
 
 Little wonder that the route into Rochester seems more appealing. But here too there are obstacles and pitfalls. To reach Miss Havisham’s Satis House ‘up town’, Pip must first navigate the High Street. This means passing Pumblechook’s houseand the provincial majesty of the Guildhall where he will feel like a convict himself when he is formally apprenticed to Joe, as well as the many watchful eyes of the town dwellers.
