@@ -1,7 +1,8 @@
 <var data-essay
     title="Charles Dickens"
+    data-banner="/images/Viking_Bay_Broadstairs.jpg"
     data-layout="vtl"></var>
-<var data-map></var>
+<var data-map data-basemap="Esri_WorldPhysical" center="Q72259" zoom="6"></var>
 <var title="Charles Dickens" data-qid="Q5686"></var>
 <var title="The Pickwick Papers" data-qid="Q460583"></var>
 <var title="Portsmouth" data-qid="Q72259"></var>
@@ -9,7 +10,7 @@
 ## Charles Dickens
 
 Charles John Huffam Dickens (7 February 1812 – 9 June 1870) was an English writer and social critic. He created some of the world's best-known fictional characters and is regarded by many as the greatest novelist of the Victorian era. His works enjoyed unprecedented popularity during his lifetime, and by the 20th century, critics and scholars had recognised him as a literary genius. His novels and short stories are still widely read today.
-<var data-image data-url="/images/HassamHIGHRES.jpg"></var>
+<var data-image id="hires-image" data-url="/images/HassamHIGHRES.jpg"></var>
 
 Born in Portsmouth, Dickens left school to work in a factory when his father was incarcerated in a debtors' prison. Despite his lack of formal education, he edited a weekly journal for 20 years, wrote 15 novels, five novellas, hundreds of short stories and non-fiction articles, lectured and performed readings extensively, was an indefatigable letter writer, and campaigned vigorously for children's rights, education, and other social reforms.
 
