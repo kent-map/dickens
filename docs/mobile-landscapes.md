@@ -1,4 +1,4 @@
-<a href="https://visual-essays.app/essay/kent-map/dickens/Mobile-landscapes"><img src="/static/images/ve-button.png"/></a>
+<a href="https://dickens.kent-maps.online/mobile-landscapes"><img src="/images/ve-button.png"/></a>
 
 <var data-essay title="Mobile Landscapes"
      data-banner="/static/images/Viking_Bay_Broadstairs.jpg"
@@ -15,11 +15,11 @@ You’ll need a map because there are no signposts. There are witnesses of cours
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? Broadstairs or Dover, it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 
 <p align="center">
-  <img src="/static/images/Dickens_Land_books.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="/images/Dickens_Land_books.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Dickens Land books</span>
 </p>
 
-**The adventure begins**
+## The adventure begins
 
 The study where parts of ''David Copperfield'' were written. The view from the Swiss chalet where [[Kent:Dickens/Charles_Dickens|Dickens]] was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of [[Kent:Dickens/Charles_Dickens|Dickens]]’s novels, including  David Copperfield – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
  
