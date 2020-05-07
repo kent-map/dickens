@@ -1,4 +1,4 @@
-<a href="https://dickens.kent-maps.online/mobile-landscapes"><img src="/images/ve-button.png"/></a>
+<a href="https://dickens.kent-maps.online/mobile-landscapes"><img src="images/ve-button.png"/></a>
 
 <var data-essay title="Mobile Landscapes"
      data-banner="/images/Viking_Bay_Broadstairs.jpg"
