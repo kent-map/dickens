@@ -4,11 +4,10 @@
     data-layout="vtl"></var>
 <var data-map
     data-basemap="Esri_WorldPhysical"
-    center="Q72259" zoom="8"
-    data-prefer-geojson="true"></var>
+    center="Q72259" zoom="8"></var>
 <var title="Charles Dickens" data-qid="Q5686"></var>
 <var title="The Pickwick Papers" data-qid="Q460583"></var>
-<var title="Portsmouth" data-qid="Q72259"></var>
+<var title="Portsmouth" data-qid="Q72259" data-prefer-geojson="true"></var>
 
 ## Charles Dickens
 
