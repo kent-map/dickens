@@ -70,7 +70,7 @@ But the novel insists that Pip does have choices. He keeps his encounter with Ma
      data-type="geojson"
      title="Pips choice of routes"
      data-aliases="pip does have choices"
-     data-url="https://raw.githubusercontent.com/kent-map/geojson/master/chalk1.json" 
+     data-url="/geojson/chalk1.json" 
      data-active="true"></var>
 
 <p align="center">
