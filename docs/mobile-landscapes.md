@@ -40,16 +40,16 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
-***David Copperfield***
+### David Copperfield
 
-What we are calling ''[[Kent:Dickens/David_Copperfield/Curated_walk|David Copperfield: a curated walk]]'' is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been [[Dickens]]'s idea of a good time. It had never been ours. So we took the softer option and began in '''[[Broadstairs.]]'''
+What we are calling _[David Copperfield: a curated walk](/david-copperfield-curated-walk)_ is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been [[Dickens]]'s idea of a good time. It had never been ours. So we took the softer option and began in '''[[Broadstairs.]]'''
 
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [[Fort House]]), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like Aunt Betsey’s cottage [[Kent:Dickens/2 Nuckell’s Place]] (Dickens House)] (it’s meant to be in [[Dover]], but who’s counting?) - but why a later owner reinvented Fort House as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
  
 All three buildings are within sight of each other, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'  https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm (Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 
 <p align="center">
-  <img src="/static/images/Dickens_House.jpg" style="width:100%;max-width:500px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="/images/Dickens_House.jpg" style="width:100%;max-width:500px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Dicken's House</span>
 </p>
 
@@ -98,7 +98,7 @@ Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbur
 
 '''''Great Expectations''''' '''Part 1'''
 
-[Great Expectations: A curated walk](/Great-Expectations-curated-walk)
+[Great Expectations: A curated walk](/Great-expectations-curated-walk)
 
 '''Chalk
 
