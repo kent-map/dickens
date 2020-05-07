@@ -1,8 +1,7 @@
 <var data-essay 
      title="Great Expectations - a curated walk" 
-     data-banner="/static/images/Viking_Bay_Broadstairs.jpg"
-     data-layout="vtl"
-     ></var>
+     data-banner="/images/Viking_Bay_Broadstairs.jpg"
+     data-layout="vtl"></var>
 
 <var title="Charles Dickens" id="Q5686"></var>
 <var title="Chatham" id="Q729006"></var>
