@@ -9,7 +9,7 @@
 
 by <big><span class="author">Ken Moffat</span> (Simon Langton Boys' Grammar School) and <span class="author">Carolyn W. de la L. Oulton</span> (Canterbury Christ Church University).</big>
 
-**<big>Welcome to Dickens Land!</big>**
+### Welcome to Dickens Land!
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
 
@@ -22,27 +22,27 @@ Of course at this point you don’t exactly know where you are, let alone where 
 
 ## The adventure begins
 
-The study where parts of ''David Copperfield'' were written. The view from the Swiss chalet where [[Kent:Dickens/Charles_Dickens|Dickens]] was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of [[Kent:Dickens/Charles_Dickens|Dickens]]’s novels, including  David Copperfield – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
+The study where parts of _David Copperfield_ were written. The view from the Swiss chalet where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  David Copperfield – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
  
-Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to [[Kent:Dickens/Charles_Dickens|Dickens]]’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 ''Rambles in Dickens-Land'', even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after [[Kent:Dickens/Charles_Dickens|Dickens]]’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
+Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 ''Rambles in Dickens-Land'', even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
 
-Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for [[Kent:Dickens/Charles_Dickens|Dickens]] Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.
+Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.
  
 In this frame of mind it was inevitable that we should see Dickens everywhere. And it is only fitting that comestibles should have featured prominently – he invented ‘the fat boy’, we did not. What we had not foreseen was how these forays would transform not us alone, but the landscape itself. Landladies and local officials, unimpressed toddlers and workers on the roads – all were co-opted into our imaginative panorama, flickering across the scene at the oddest moments. ‘Like something from Dickens’ became a key marker of approbation for our more eccentric encounters.  And the places where these things befell us somehow became different, hyper real. No longer small country towns, but focused stage sets, where anything might happen. Leaving Rochester one autumn afternoon we finally got it.
 
-''Did the High Street look like this when we arrived this morning?
-
-'' No, definitely different. 
-
-''Thought so. What have we done to it?
-
-''Dickensed it of course.
+> Did the High Street look like this when we arrived this morning?
+>
+> No, definitely different. 
+>
+> Thought so. What have we done to it?
+>
+> Dickensed it of course.
 
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
 ### David Copperfield
 
-What we are calling _[David Copperfield: a curated walk](/david-copperfield-curated-walk)_ is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been [[Dickens]]'s idea of a good time. It had never been ours. So we took the softer option and began in '''[[Broadstairs.]]'''
+What we are calling _[David Copperfield: a curated walk](/david-copperfield-curated-walk)_ is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in *[Broadstairs.](/broadstairs)*
 
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [[Fort House]]), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like Aunt Betsey’s cottage [[Kent:Dickens/2 Nuckell’s Place]] (Dickens House)] (it’s meant to be in [[Dover]], but who’s counting?) - but why a later owner reinvented Fort House as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
  
