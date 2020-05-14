@@ -1,4 +1,6 @@
-https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/
+[Carolyns poem](https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/)
+
+[Internal link](/mobile-landscapes)
 
 **Event with dates** Holiday. 1837, 1840-43, 1845, 1847, 1849-51.
 
