@@ -8,7 +8,10 @@ https://thanetwriters.com/poem/watering-place-by-carolyn-oulton/
   The place seems to respond. Sky, sea, beach, and village, lie as still before us as if they were sitting for the picture. It is dead low-water. A ripple plays among the ripening corn upon the cliff, as if it were faintly trying from recollection to imitate the sea; and the world of butterflies hovering over the crop of radish-seed are as restless in their little way as the gulls are in their larger manner when the wind blows.’
 ‘Our Watering Place’. ''Household Words'' 1851.
 
-  [[File:BBH.JPG]]
+<p align="center">
+  <img src="images/Broadstairs from Bleak House.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Placeholder for caption</span>
+</p>
 
 # Abstract
 Dickens holidayed in [[Broadstairs]] regularly between 1837 and 1851. While ‘organs, fiddles, bells, or glee-singers’ could be distracting and the [[Goodwin Sands]] were perilous in bad weather, he wrote in 1849 ‘I am still of opinion that Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. 
