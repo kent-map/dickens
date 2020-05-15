@@ -14,7 +14,7 @@ The Swiss Chalet owned by Dickens was a somewhat extravagant Christmas present f
 
 ## Bibliography
 
-Dickens, Charle. _David Copperfield_. Oxford: Oxford World’s Classics, 1997.
+Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics, 1997.
 
 Forster, John. _The Life of Charles Dickens_. 3 vols. Vol 3. 1852-1870. Cambridge: Cambridge Library Collection: Literary Studies, 2011.
 
