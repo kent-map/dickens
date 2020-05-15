@@ -1,0 +1,36 @@
+'''Publication(s) of local interest''' '''''David Copperfield''''' (1850).
+
+‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’ 
+'''''David Copperfield'''''
+
+The_Little_Inn,_Canterbury.JPG
+
+## Abstract
+When the eponymous David Copperfield makes his journey on foot to Dover, his route takes him through Canterbury. He will soon revisit the city under very different conditions, as the guest of Mr Wickfield and a pupil at Dr Strong’s school (based on the King’s School).
+
+
+When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
+very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below. FOOTNOTE 1: /''David Copperfield''. Chapter 15./
+  
+It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, based on the King’s School. A great relief after Salem House, David describes it as:
+a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot… FOOTNOTE 2: /''David Copperfield''. Chapter 15./
+
+Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’ FOOTNOTE 3: / Wilson 16.
+
+David's first impression though is of ‘the sunny street [Sun Street?] of Canterbury, dozing as it were in the hot light’. FOOTNOTE 3: //''David Copperfield''. Chapter 13./ Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little Inn’ it is more likely that the real progenitor of this is actually The Three Tuns by Castle St. And while we are on the subject of pubs, it is pleasant to imagine David passing the Bat and Ball [http://www.dover-kent.com/Bat-and-Ball-Canterbury.html] by the cricket ground on his thankless walk [link shoe leather article: E W-S] along the Dover Road [link Dover Road article: E W-S].
+ 
+Dickens’ relationship with Canterbury was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of ''David Copperfield'' would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham ([[Rochester]]) in '''''The Mystery of Edwin Drood''''' ), but that is never repeated in his letters or other writings. While he took a friend 'in tow to Canterbury' in 1848 [FOOTNOTE Letter to John Forster [early October 1849]. Pilgrim 5. 620-1.] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869 [FOOTNOTE LETTER To George Dolby. 1 June 1869. 362-3. 363] the only other affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall , in a letter to his daughter from the now destroyed Fountain Hotel.
+ 
+Other landmarks still recognisable in the city include '''The Abode Hotel''', (see [[Mobile Landscapes]]) almost certainly the hotel Mr Dick stays in on his frequent visits to the city.
+
+## Bibliography'''
+
+Dickens, Charles. ''David Copperfield.'' Oxford: World’s Classics, 1997.
+
+Storey, Graham, ed. The Pilgrim Edition: ''The Letters of Charles Dickens.'' Volume 12: 1868-1870. Oxford: Clarendon Press, 1999.
+
+--. and and K. J. Fielding, eds. The Pilgrim Edition: ''The Letters of Charles Dickens.'' Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.
+
+Turley, A. C. ‘Charles Dickens and Canterbury’. [from] East Kent Scientific and Natural History Society's 'Report and transactions for the year ending September 30th, 1907. Series II. Vol. VII'.
+
+Wilson, Stanley Gordon Francis. ''Canterbury and Charles Dickens: a Little Guide for Pilgrims.'' Canterbury: Canterbury & District Chamber of Trade, 1928.
