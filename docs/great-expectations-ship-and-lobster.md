@@ -10,7 +10,10 @@ The Ship and Lobster in Gravesend is the most likely prototype of ‘The Ship’
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Ship and Lobster</span>
 </p> © Ken Moffat
 
-kent-map/dickens/master/docs/images/Ship%20and%20Lobster.JPG
+p align="center">
+  <img src="kent-map/dickens/master/docs/images/Ship%20and%20Lobster.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Ship and Lobster</span>
+
 
 ## Abstract
 
