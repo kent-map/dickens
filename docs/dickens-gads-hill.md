@@ -1,7 +1,4 @@
-'''Note for Ron: I can't change these images from TIF to JPEG so can't upload them. But all should go here - maybe photo at house and plans nearer the bottom? Maps CC.5.C.2. Plate 1. Ground Plan. Maps CC.5.C.2. Plate 2. Ground Plan. Maps CC.5.C.2.plate opp. p.3 Gad's Hill South View.'''
-
-
-
+#Note for Ron: I can't change these images from TIF to JPEG so can't upload them. But all should go here - maybe photo at house and plans nearer the bottom? Maps CC.5.C.2. Plate 1. Ground Plan. Maps CC.5.C.2. Plate 2. Ground Plan. Maps CC.5.C.2.plate opp. p.3 Gad's Hill South View.'''
 
 # Event - Purchase of Gad’s Hill, Higham by Dickens in 1856, followed by residence until death in 1870.
 
