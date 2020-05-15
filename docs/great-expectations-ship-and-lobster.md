@@ -1,7 +1,7 @@
 The Ship and Lobster in Gravesend is the most likely prototype of ‘The Ship’ where Magwitch spends his last night of freedom in _Great Expectations_.
 
 
->‘Leaving the rest in the boat, I stepped ashore, and found the light to be in a window of a public-house. It was a dirty place enough, and I dare say not unknown to smuggling adventures; but there was a good fire in the kitchen, and there were eggs and bacon to eat, and >various liquors to drink. Also, there were two double-bedded rooms – “such as they were”, the landlord said. No other company was in >the house than the landlord, his wife, and a grizzled male creature, the “Jack” of the little causeway, who was as slimy and smeary as >if he had been at low-water mark too.’ _Great Expectations_.
+>‘Leaving the rest in the boat, I stepped ashore, and found the light to be in a window of a public-house. It was a dirty place enough, and I dare say not unknown to smuggling adventures; but there was a good fire in the kitchen, and there were eggs and bacon to eat, and various liquors to drink. Also, there were two double-bedded rooms – “such as they were”, the landlord said. No other company was in the house than the landlord, his wife, and a grizzled male creature, the “Jack” of the little causeway, who was as slimy and smeary as >if he had been at low-water mark too.’ _Great Expectations_.
 
 [[File:Ship and Lobster.jpg]] © Ken Moffat
 
