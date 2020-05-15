@@ -35,7 +35,7 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
 
-'''''David Copperfield'''''
+### David Copperfield
 
 What we are calling ''[[Kent:Dickens/David_Copperfield/Curated_walk|David Copperfield: a curated walk]]'' is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been [[Dickens]]'s idea of a good time. It had never been ours. So we took the softer option and began in '''[[Broadstairs.]]'''
 
@@ -53,7 +53,7 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408
 
 
-'''[[Canterbury]]'''
+### [[Canterbury]]
 
 [[File:Little_Inn.JPG|thumb|500px|left|Little Inn]]
 
@@ -114,7 +114,7 @@ Pies. We’d been opting for them consistently since [[Broadstairs]]. ‘I’m s
 
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were: 
 
-''Hurrah, a fjord – I love fjords!
+### Hurrah, a fjord – I love fjords!
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.
 
@@ -204,7 +204,7 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like '''David Copperfield''' before us, made our way back towards the '''Dover Road.'''
 
 
-## onclusion: in which we justify all this gadding about by insisting that it was serious work.
+## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 
