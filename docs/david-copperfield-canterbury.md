@@ -1,6 +1,8 @@
+# Canterbury
+
 **Publication(s) of local interest** _David Copperfield_ (1850).
 
-‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’ 
+>‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’ 
 _David Copperfield_
 
 The_Little_Inn,_Canterbury.JPG
