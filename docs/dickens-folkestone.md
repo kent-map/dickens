@@ -2,11 +2,11 @@
 
 **Event** Holidays 1852, 1855.
 
-**Pavilion Hotel / 3 Albion Villas, Folkestone.
+**Pavilion Hotel / 3 Albion Villas, Folkestone.**
 
-**Publication/s''' Out of Town’, _Household Words_, 1855.
+**Publication/s** Out of Town’, _Household Words_, 1855.
 
-‘At low water, we are a heap of mud, with an empty channel in it, where a couple of men in big boots always shovel and scoop, with what exact object I am unable to say. At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters; the colliers and other shipping stick disconsolate in the mud; the steamers look as if their white chimneys would never turn again; the green sea-slime and weed upon the rough stones of obsolete high tides never more to flow; the flagstaff-halyards droop; the very little wooden lighthouse shrinks in the idle glare of the sun.’ (‘Out of Town’, ''Household Words'', 29 September 1855) http://www.djo.org.uk/household-words/volume-xii/page-193.html
+>‘At low water, we are a heap of mud, with an empty channel in it, where a couple of men in big boots always shovel and scoop, with what exact object I am unable to say. At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters; the colliers and other shipping stick disconsolate in the mud; the steamers look as if their white chimneys would never turn again; the green sea-slime and weed upon the rough stones of obsolete high tides never more to flow; the flagstaff-halyards droop; the very little wooden lighthouse shrinks in the idle glare of the sun.’ (‘Out of Town’, ''Household Words'', 29 September 1855) http://www.djo.org.uk/household-words/volume-xii/page-193.html
 
 [[File:Pavilionstone1.JPG]] Publsihed by the Frederick Hotels Group, 1902.
 
