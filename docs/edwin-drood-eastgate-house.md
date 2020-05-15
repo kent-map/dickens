@@ -1,4 +1,6 @@
-‘In the midst of Cloisterham stands the Nuns' House: a venerable brick edifice, whose present appellation is doubtless derived from the legend of its conventual uses. On the trim gate enclosing its old courtyard is a resplendent brass plate flashing forth the legend: “Seminary for Young Ladies. Miss Twinkleton.” The house-front is so old and worn, and the brass plate is so shining and staring, that the general result has reminded imaginative strangers of a battered old beau with a large modern eye-glass stuck in his blind eye.’ _The Mystery of Edwin Drood_ (1870). 
+# Eastgate House, Rochester
+
+>‘In the midst of Cloisterham stands the Nuns' House: a venerable brick edifice, whose present appellation is doubtless derived from the legend of its conventual uses. On the trim gate enclosing its old courtyard is a resplendent brass plate flashing forth the legend: “Seminary for Young Ladies. Miss Twinkleton.” The house-front is so old and worn, and the brass plate is so shining and staring, that the general result has reminded imaginative strangers of a battered old beau with a large modern eye-glass stuck in his blind eye.’ _The Mystery of Edwin Drood_ (1870). 
 
 
 '''Abstract
@@ -6,7 +8,7 @@
 Eastgate House is the original of the Nun’s House in _The Mystery of Edwin Drood_, the ladies’ seminary attended by Rosa Budd. Like the '''Blue Boar''' and Satis House [[Restoration House]] in _Great Expectations_, its homely associations are belied by the vulnerability of the young Rosa when the school is infiltrated by an unscrupulous man.
 
 
-Eastgate House in Rochester https://www.visitmedway.org/attractions/eastgate-house-1805/ is an obvious setting for Miss Twinkleton’s exemplary establishment in the unfinished novel _The Mystery of Edwin Drood_ Set discreetly back from the road, it has its own walled garden in the middle of the town.
+[Eastgate House](https://www.visitmedway.org/attractions/eastgate-house-1805/) in Rochester  is an obvious setting for Miss Twinkleton’s exemplary establishment in the unfinished novel _The Mystery of Edwin Drood_ Set discreetly back from the road, it has its own walled garden in the middle of the town.
 
 But like other buildings in the town (most obviously [[Restoration House]] in _Great Expectations_) it fails to protect a vulnerable young person within its walls. Looking out of its windows Rosa Budd would be able to see the High Street where a young Pip suffers public humiliation at the hands of Trabb’s boy while showing off his new clothes. At the other end of the street is the Bull Inn, otherwise the Blue Boar where Pip is outraged to learn that the odious Pumblechook is credited with having been his first friend and mentor. 
 
