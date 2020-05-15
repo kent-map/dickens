@@ -1,8 +1,8 @@
-‘Within a quarter of an hour we came to Miss Havisham's house, which was of old brick, and dismal, and had a great many iron bars to it. Some of the windows had been walled up; of those that remained, all the lower were rustily barred. There was a court-yard in front, and that was barred; so, we had to wait, after ringing the bell, until some one should come to open it.’ ''Great Expectations'' (1861).
+‘Within a quarter of an hour we came to Miss Havisham's house, which was of old brick, and dismal, and had a great many iron bars to it. Some of the windows had been walled up; of those that remained, all the lower were rustily barred. There was a court-yard in front, and that was barred; so, we had to wait, after ringing the bell, until some one should come to open it.’ _Great Expectations_ (1861).
 
 [[File:RestorationHouse.JPG]] ©Carolyn Oulton
 
-'''Abstract
+## Abstract
 
 Satis House in ''Great Expectations'' takes its name from an actual mansion in Rochester, but somewhat confusingly it is based on Restoration House in a different part of the town. Its dark interior provides the perfect imaginative setting for Miss Havisham’s self-immolation.
 
@@ -19,4 +19,4 @@ See also [[Mobile Landscapes]]
 
 ### Bibliography
 
-Dickens, Charles. ''Great Expectations''. Oxford: Oxford World’s Classics, 1993.
+Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.
