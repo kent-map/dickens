@@ -1,10 +1,10 @@
-'''Leather Bottle, The Street, Cobham, Gravesend.
+# Leather Bottle, The Street, Cobham, Gravesend.
 
 
-‘”And really”, added Mr Pickwick, after half an hour’s walking had brought them to the village, “really for a misanthrope’s choice, this is one of the prettiest and most desirable places of residence, I ever met with.”
-In this opinion also, both Mr Winkle and Mr Snodgrass expressed their concurrence; and having been directed to the Leather Bottle, a clean and commodious village ale-house, the three travellers entered, and at once inquired for a gentleman of the name of Tupman.
-“Show the gentlemen into the parlour, Tom,” said the landlady.
-A stout country lad opened a door at the end of the passage, and the three friends entered a long, low-roofed room, furnished with a large number of high-backed leather-cushioned chairs, of fantastic shapes, and embellished with a great variety of old portraits and roughly-coloured prints of some antiquity. At the upper end of the room was a table, with a white cloth upon it, well covered with a roast fowl, bacon, ale, and et ceteras; and at the table sat Mr. Tupman, looking as unlike a man who had taken his leave of the world, as possible.’ _The Pickwick Papers_.
+>‘”And really”, added Mr Pickwick, after half an hour’s walking had brought them to the village, “really for a misanthrope’s choice, >this is one of the prettiest and most desirable places of residence, I ever met with.”
+>In this opinion also, both Mr Winkle and Mr Snodgrass expressed their concurrence; and having been directed to the Leather Bottle, a >clean and commodious village ale-house, the three travellers entered, and at once inquired for a gentleman of the name of Tupman.
+>“Show the gentlemen into the parlour, Tom,” said the landlady.
+>A stout country lad opened a door at the end of the passage, and the three friends entered a long, low-roofed room, furnished with a >large number of high-backed leather-cushioned chairs, of fantastic shapes, and embellished with a great variety of old portraits and >roughly-coloured prints of some antiquity. At the upper end of the room was a table, with a white cloth upon it, well covered with a >roast fowl, bacon, ale, and et ceteras; and at the table sat Mr. Tupman, looking as unlike a man who had taken his leave of the world, >as possible.’ _The Pickwick Papers_.
 
 
 http://www.victorianweb.org/painting/haslehust/27.html Scan by Philip V. Allingham. 
