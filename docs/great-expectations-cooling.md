@@ -27,6 +27,6 @@ See also [Mobile Landscapes](/mobile-landscapes)
 
 Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.
 
-http://www.coolingchurch.org.uk/page9.htm. Accessed 28 November 2018.
+St James' Church http://coolingchurch.org.uk/about/. Accessed 28 November 2018.
 
 Shlicke, Paul, ed. _The Oxford Companion to Charles Dickens: Anniversary edition_. Oxford: Oxford University Press, 2011.
