@@ -12,7 +12,7 @@
 ‘Kent, Sir – Every body knows Kent – apples, cherries, hops, and women.’ ''The Pickwick Papers.''
 
 ## Abstract
-Born in Portsmouth in 1912, Dickens spent much of his childhood in [[Chatham]] and later spent holidays in [[Broadstairs]] and [[Folkestone]], before returning to Kent after buying [[Gad's Hill]] Place near Rochester in 1856. After his death a number of guides to Dickens Country or Dickens Land appeared. 
+Born in Portsmouth in 1912, Dickens spent much of his childhood in [[Chatham]] and later spent holidays in [[Broadstairs]] and [[Folkestone]], before returning to Kent after buying [/dickens-gads-hill] Place near Rochester in 1856. After his death a number of guides to Dickens Country or Dickens Land appeared. 
 
 
 Often seen as the greatest of the Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822 when his father was working in the Naval Pay Office at [[Chatham Dockyard]], and again from 1856 to his death in 1870 (at Gad’s Hill, Higham). He spent many summers in [[Broadstairs]] 
