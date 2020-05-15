@@ -9,7 +9,7 @@
 
 **Publication(s) with a Kent significance** _Pickwick Papers_, _David Copperfield_, _A Tale of Two Cities_, _Great Expectations_, ‘Our English Watering Place’, ‘Out of Town’.
 
-‘Kent, Sir – Every body knows Kent – apples, cherries, hops, and women.’ _The Pickwick Papers_.
+>‘Kent, Sir – Every body knows Kent – apples, cherries, hops, and women.’ _The Pickwick Papers_.
 
 ## Abstract
 Born in Portsmouth in 1912, Dickens spent much of his childhood in [Chatham](/dickens-chatham) and later spent holidays in [Broadstairs](/broadstairs) and [Folkestone](/dickens-folkestone), before returning to Kent after buying [Gad's Hill](/dickens-gads-hill) Place near Rochester in 1856. After his death a number of guides to Dickens Country or Dickens Land appeared. 
