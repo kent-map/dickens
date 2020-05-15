@@ -1,7 +1,7 @@
-'''Publication(s) of local interest''' '''''David Copperfield''''' (1850).
+**Publication(s) of local interest** _David Copperfield_ (1850).
 
 ‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’ 
-'''''David Copperfield'''''
+_David Copperfield_
 
 The_Little_Inn,_Canterbury.JPG
 
@@ -10,10 +10,10 @@ When the eponymous David Copperfield makes his journey on foot to Dover, his rou
 
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
-very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below. FOOTNOTE 1: /''David Copperfield''. Chapter 15./
+very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below. FOOTNOTE 1: /_David Copperfield_. Chapter 15./
   
 It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, based on the King’s School. A great relief after Salem House, David describes it as:
-a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot… FOOTNOTE 2: /''David Copperfield''. Chapter 15./
+a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot… FOOTNOTE 2: /_David Copperfield_. Chapter 15./
 
 Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’ FOOTNOTE 3: / Wilson 16.
 
@@ -23,9 +23,9 @@ Dickens’ relationship with Canterbury was the basis of calls from locals such 
  
 Other landmarks still recognisable in the city include '''The Abode Hotel''', (see [[Mobile Landscapes]]) almost certainly the hotel Mr Dick stays in on his frequent visits to the city.
 
-## Bibliography'''
+## Bibliography
 
-Dickens, Charles. ''David Copperfield.'' Oxford: World’s Classics, 1997.
+Dickens, Charles. _David Copperfield_. Oxford: World’s Classics, 1997.
 
 Storey, Graham, ed. The Pilgrim Edition: ''The Letters of Charles Dickens.'' Volume 12: 1868-1870. Oxford: Clarendon Press, 1999.
 
@@ -33,4 +33,4 @@ Storey, Graham, ed. The Pilgrim Edition: ''The Letters of Charles Dickens.'' Vol
 
 Turley, A. C. ‘Charles Dickens and Canterbury’. [from] East Kent Scientific and Natural History Society's 'Report and transactions for the year ending September 30th, 1907. Series II. Vol. VII'.
 
-Wilson, Stanley Gordon Francis. ''Canterbury and Charles Dickens: a Little Guide for Pilgrims.'' Canterbury: Canterbury & District Chamber of Trade, 1928.
+Wilson, Stanley Gordon Francis. _Canterbury and Charles Dickens: a Little Guide for Pilgrims_. Canterbury: Canterbury & District Chamber of Trade, 1928.
