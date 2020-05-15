@@ -1,4 +1,6 @@
-‘Within a quarter of an hour we came to Miss Havisham's house, which was of old brick, and dismal, and had a great many iron bars to it. Some of the windows had been walled up; of those that remained, all the lower were rustily barred. There was a court-yard in front, and that was barred; so, we had to wait, after ringing the bell, until some one should come to open it.’ _Great Expectations_ (1861).
+# Restoration House
+
+>‘Within a quarter of an hour we came to Miss Havisham's house, which was of old brick, and dismal, and had a great many iron bars to it. Some of the windows had been walled up; of those that remained, all the lower were rustily barred. There was a court-yard in front, and that was barred; so, we had to wait, after ringing the bell, until some one should come to open it.’ _Great Expectations_ (1861).
 
 [[File:RestorationHouse.JPG]] ©Carolyn Oulton
 
