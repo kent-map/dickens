@@ -1,4 +1,4 @@
-# 2 Nuckell’s Place, Victoria Parade, Broadstairs.''' The model for Betsey Trotwood’s cottage in _David Copperfield_.
+# 2 Nuckell’s Place, Victoria Parade, Broadstairs. The model for Betsey Trotwood’s cottage in _David Copperfield_.
 
 **Publication** _David Copperfield_ (1848-50).
 
