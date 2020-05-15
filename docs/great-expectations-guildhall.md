@@ -1,4 +1,6 @@
-‘The Hall was a queer place, I thought, with higher pews in it than a church - and with people hanging over the pews looking on - and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers - and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaister. Here, in a corner, my indentures were duly signed and attested, and I was "bound;" Mr. Pumblechook holding me all the while as if we had looked in on our way to the scaffold, to have those little preliminaries disposed of.’ _Great Expectations_. Chapter 13.
+# The Guidhall
+
+>‘The Hall was a queer place, I thought, with higher pews in it than a church - and with people hanging over the pews looking on - and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers - and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaister. Here, in a corner, my indentures were duly signed and attested, and I was "bound;" Mr. Pumblechook holding me all the while as if we had looked in on our way to the scaffold, to have those little preliminaries disposed of.’ _Great Expectations_. Chapter 13.
 
 [[File: File:Guildhall.JPG]] Reproduced from an original F. Frith & Co postcard.
 
@@ -16,7 +18,7 @@ This scene anticipates a moment much later in the novel, when Pip will release h
 The Guildhall itself does not feature again in the novel, but Pip would have to pass it on his many journeys through the town, when staying at the '''Blue Boar''' inn, paying his respects to Miss Havisham at Satis House or making his less frequent visits to Joe at the '''forge'''.
 
 
-See also [[Mobile Landscapes]]
+See also [Mobile Landscapes](/mobile-landscapes)
 
 
 ## Bibliography
