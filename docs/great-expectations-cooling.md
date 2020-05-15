@@ -6,7 +6,10 @@ Children’s tombstones and high mortality rates are memorably invoked in the op
 
 In the opening scene of _Great Expectations_ (published in 1861 but apparently set around the 1820s), a young Pip is famously terrified by a convict in leg irons while visiting the grave of his parents and five siblings. In fact the ‘five little stone lozenges’ recalled by Pip are derived from thirteen gravestones in the thirteenth century St James’s Church, Cooling, and appertain to two separate families. Nonetheless the church’s website notes that the children’s graves referenced in the novel are ‘now inevitably referred to as ''Pip's graves.'' St Mary’s, Higham, from which it is possible to see a beacon, a gibbet and a battery, has been suggested as an additional model. FOOTNOTE 1: / Shlicke 319. / 
 
-![Cooling](docs/images/Cooling.jpg)
+<p align="center">
+  <img src="images/Cooling.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Cooling</span>
+</p>
 
 ©The British Library Board ktc28b20f001r.
 ©The British Library Board. ktc28b20f002r 
