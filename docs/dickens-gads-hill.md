@@ -7,7 +7,7 @@
 'You admire that house?' said I.
 'Bless you, sir,' said the very queer small boy, 'when I was not more than half as old as nine, it used to be a treat for me to be brought to look at it. And now, I am nine, I come by myself to look at it. And ever since I can recollect, my father, seeing me so fond of it, has often said to me, "If you were to be very persevering and were to work hard, you might some day come to live in it." Though that's impossible!' said the very queer small boy, drawing a low breath, and now staring at the house out of window with all his might.
 I was rather amazed to be told this by the very queer small boy; for that house happens to be MY house, and I have reason to believe that what he said was true.
-‘Travelling Abroad’. ''All the Year Round.''. 7 April 1860.
+‘Travelling Abroad’. _All the Year Round_. 7 April 1860.
 
 [[File:Gad’s_c._1864.jpg]] ©The British Library Board. 67463. 
 
