@@ -1,8 +1,10 @@
-'''Event:''' Dickens staying at Ship Inn 29 April – 2 May 1856.
+# Dover
+
+**Event:** Dickens staying at Ship Inn 29 April – 2 May 1856.
 
 
 
-‘It fell to my lot, this last bleak Spring, to find myself in a watering-place out of the Season. A vicious north-east squall blew me into it from foreign parts, and I tarried in it alone for three days, resolved to be exceedingly busy. On the first day, I began business by looking for two hours at the sea, and staring the Foreign Militia out of countenance. Having disposed of these important engagements, I sat down at one of the two windows of my room, intent on doing something desperate in the way of literary composition, and writing a chapter of unheard-of excellence...’ ‘Out of the Season’. _Household Words_ (1856).
+>‘It fell to my lot, this last bleak Spring, to find myself in a watering-place out of the Season. A vicious north-east squall blew me into it from foreign parts, and I tarried in it alone for three days, resolved to be exceedingly busy. On the first day, I began business by looking for two hours at the sea, and staring the Foreign Militia out of countenance. Having disposed of these important engagements, I sat down at one of the two windows of my room, intent on doing something desperate in the way of literary composition, and writing a chapter of unheard-of excellence...’ ‘Out of the Season’. _Household Words_ (1856).
 
 
 [[File:Dover_postcard.JPG]] The shop where David buys bread? 
