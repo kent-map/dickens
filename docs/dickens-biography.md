@@ -1,13 +1,13 @@
 # Charles Dickens
-### B(M)D'''  Born 7.2.1812. Married Catherine Hogarth 1836. Died 9 June 1870.
+** B(M)D'''  Born 7.2.1812. Married Catherine Hogarth 1836. Died 9 June 1870.
 
-### Occupation / significance''' Novelist, editor and journalist. 
+** Occupation / significance''' Novelist, editor and journalist. 
 
-### Events''' Childhood (Chatham), Honeymoon (Chalk), Holiday (Broadstairs, Folkestone), Public reading (Canterbury), Residence (Rochester).
+** Events''' Childhood (Chatham), Honeymoon (Chalk), Holiday (Broadstairs, Folkestone), Public reading (Canterbury), Residence (Rochester).
 
-### Place''' Chatham, Chalk, Cooling, Rochester, Staplehurst, Broadstairs, Folkestone, Canterbury. 
+** Place''' Chatham, Chalk, Cooling, Rochester, Staplehurst, Broadstairs, Folkestone, Canterbury. 
 
-### Publication(s) with a Kent significance''' ''Pickwick Papers, David Copperfield, A Tale of Two Cities, Great Expectations'', ‘Our English Watering Place’, ‘Out of Town’.
+** Publication(s) with a Kent significance''' ''Pickwick Papers, David Copperfield, A Tale of Two Cities, Great Expectations'', ‘Our English Watering Place’, ‘Out of Town’.
 
 ‘Kent, Sir – Every body knows Kent – apples, cherries, hops, and women.’ ''The Pickwick Papers.''
 
