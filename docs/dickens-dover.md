@@ -23,7 +23,8 @@ In 1859 one writer saw nothing but ‘Bathing-machines – ugliest of objects, d
 
 Dickens, Charles. ‘Out of the Season’. 28 June 1856. _Household Words_. 
 
-http://www.djo.org.uk/media/downloads/articles/3239_Out%20of%20the%20Season.pdf Accessed 2 January 2019.
+Dickens, Charles. `Out of the Season' 
+_Household Words_, Volume XIII, Magazine No. 327, 28 June 1856, Pages: 553-556http://www.djo.org.uk/media/downloads/articles/3239_Out%20of%20the%20Season.pdf Accessed 2 January 2019.
 
 Fowler, Frank. _The Dottings of a Lounger_. London: Routledge Warne & Routledge, 1859.
 
