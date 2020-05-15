@@ -5,7 +5,10 @@ The Ship and Lobster in Gravesend is the most likely prototype of ‘The Ship’
 
 >‘Leaving the rest in the boat, I stepped ashore, and found the light to be in a window of a public-house. It was a dirty place enough, and I dare say not unknown to smuggling adventures; but there was a good fire in the kitchen, and there were eggs and bacon to eat, and various liquors to drink. Also, there were two double-bedded rooms – “such as they were”, the landlord said. No other company was in the house than the landlord, his wife, and a grizzled male creature, the “Jack” of the little causeway, who was as slimy and smeary as if he had been at low-water mark too.’ _Great Expectations_.
 
-![Ship and Lobster](Ship and Lobster.jpg) © Ken Moffat
+<p align="center">
+  <img src="images/Ship and Lobster.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Ship and Lobster</span>
+</p> © Ken Moffat
 
 
 ## Abstract
