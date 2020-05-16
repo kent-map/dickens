@@ -23,7 +23,7 @@ In October 1855 Dickens read _A Christmas Carol_ to the local Harveian Literary 
 
 Writing in 1914 Charles G. Harper commented that ‘the people who made holiday at Folkestone in his time were frankly people who “went to the seaside” and descended to the beach, and sometimes even paddled in the sea, and did the like undignified things.’  Now, he complained, visitors to the Leas had nothing to do with the working class trippers who stayed in lodgings near the beach. ‘The very bands understand to a nicety the differences of ideals and outlook, and render Grieg, Wagner and classical music above, while to the Lower Road audiences they discourse strains of a simpler and more popular kind.’[^ref5] FOOTNOTE 5: / ''The Kentish Coast''. 40. [^ref6] FOOTNOTE 6: /''The Kentish Coast'' 41./
 
-In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [[Kent:Dickens/Staplehurst]].
+In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](/Dickens/Staplehurst).
 
 ## Bibliography
 
@@ -39,9 +39,9 @@ Harper, Charles G. _The Kentish Coast_. [London: Chapman & Hall, 1914]. Classic 
 
 Storey, Graham and K. J. Fielding, eds. ''The Pilgrim Edition: The Letters of Charles Dickens.'' Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.
 
-Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. ''The Pilgrim Edition: The Letters of Charles Dickens.'' Volume 6: 1850-1852. Oxford: Clarendon Press, 1988.
+Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.
 
-Storey, Graham, Kathleen Tillotson and Angus Easson, eds. ''The Pilgrim Edition: The Letters of Charles Dickens.'' Volume 7: 1853-1855. Oxford: Clarendon Press, 1993.
+Storey, Graham, Kathleen Tillotson and Angus Easson, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 7: 1853-1855_. Oxford: Clarendon Press, 1993.
 
-Unattributed. ‘The Rise of the Pavilion Hotel’. ''Holbein Visitors’ List and Folkestone Journal.''   29 April 1891. 13, 15.albio.
-''
+Unattributed. ‘The Rise of the Pavilion Hotel’. _Holbein Visitors’ List and Folkestone Journal._   29 April 1891. 13, 15.albio.
+
