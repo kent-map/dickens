@@ -24,6 +24,6 @@ The Leather Bottle is still recognisable both from the description in _The Pickw
 
 See also [Mobile Landscapes](/mobile-landscape)
 
-## Bibliography'''
+## Bibliography
 
 [^ref1]: Kitton, Frederick G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905].
