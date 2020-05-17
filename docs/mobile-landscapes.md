@@ -230,3 +230,4 @@ Dickens is prone to moving places around; as a successful London author David te
 
 ## Bibliography
 
+Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_. 
