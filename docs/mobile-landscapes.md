@@ -230,4 +230,7 @@ Dickens is prone to moving places around; as a successful London author David te
 
 ## Bibliography
 
+Allbutt, R. (1886) _Rambles in Dickens land_
 Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_. 
+Hughes, W. (   ) _A week's tramp in Dickens land_
+Kitton, F. (   ) _The Dickens Country_
