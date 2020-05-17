@@ -16,6 +16,10 @@ IMAGE BELOW JUST PRACTICING
 </p>
 
 
+<p align="center">
+  <img src="images/dOVER_POSTCARD.jpg" >Dover Postcard</span>
+</p>
+
 Dickens stayed in Dover (near [Deal](/dickens-deal) on a number of occasions while travelling from London to the continent and he includes it in both _David Copperfield_ and _Little Dorrit_. During one visit to the town even Dickens suffered from writer’s block – sometimes known as procrastination, as he makes clear in an article of 1856.
 
 
