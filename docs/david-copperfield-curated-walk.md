@@ -20,9 +20,9 @@ On his arrival in '''Dover''' on the sixth day of his journey, David is immediat
 
 I inquired about my aunt among the boatmen first, and received various answers. One said she lived in the South Foreland Light, and had singed her whiskers by doing so; another, that she was made fast to the great buoy outside the harbour, and could only be visited at half-tide; a third, that she was locked up in Maidstone jail for child-stealing; a fourth, that she was seen to mount a broom in the last high wind, and make direct for Calais. The fly-drivers, among whom I inquired next, were equally jocose and equally disrespectful; and the shopkeepers, not liking my appearance, generally replied, without hearing what I had to say, that they had got nothing for me.
  
-Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread.[^ref1]
+Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread[^ref1].
  
-Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child.[^ref2] 
+Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child[^ref2]. 
 
 At this point David is assimilated into the Kent landscape, moving between '''Dover''' and '''Canterbury,''' where he is put to school with     '''Dr Strong'''and develops romantic attachments to a succession of young woman like the eldest Miss Larkins. [[File:Eldest_Miss_Larkins.JPG]]
 
