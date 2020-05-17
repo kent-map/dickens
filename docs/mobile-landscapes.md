@@ -142,7 +142,7 @@ The temporal gap between lunch at the [Ship and Lobster] and a substantial cream
 
 As so often in Dickens, Magwitch’s sousing in the [[River Medway]] carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
-So for our next foray we carefully avoided the river and set off in search of Estella via the '''Blue Boar''' (otherwise the [Bull Inn](https://www.rvbhotel.com/).  
+So for our next foray we carefully avoided the river and set off in search of Estella via the '''Blue Boar''' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
 
 [[File:Bull_Inn.JPG|thumb|500px|right|Bull Inn]]
 
@@ -158,7 +158,7 @@ Pip detected guiltily looking at his feet. Distracted glance in our direction fr
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/  in the very [Guildhall](/great-expectations-guildhall) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
 
-Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise ([Eastgate House])) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët. 
+Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](/edwin-drood-eastgate-house)) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët. 
 ‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’
 ‘Drink it yourself’ suggested Pip promptly.
 Her expression as she poured it down the sink would have shaken anyone but a born teacher.
@@ -189,9 +189,9 @@ Honestly. Parents.
 
 ''Maybe there really is a secret tunnel in your bedroom cupboard.
 
-''If you work hard perhaps you will even live at [Gad’s Hill] one day. 
+''If you work hard perhaps you will even live at [Gad’s Hill](/dickens-gads-hill) one day. 
 
-If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill] School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
+If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 
@@ -220,7 +220,7 @@ But we also started to understand that the Victorians read aloud to each other �
 
 To add to that, looking for the ‘original’ place known only from a novel – an activity that was until recently much derided by academics – can throw up exciting questions about the fictional world, sometimes even the nature of creativity itself. Sometimes the topography doesn’t match up but the symbolism does, as when Pip makes his stark choice between decency and status (village or town). Or the reading experience is intensified by seeing what a character sees – just try being alone with someone on an isolated marsh while they growl something about ripping out your liver. Really, there’s nothing quite like it.
 
-Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover] again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other. 
+Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover](/dickens-dover) again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other. 
 
 
 (1) 'One that is more tiring than one might imagine, and requires regular support in the shape of pies.']
