@@ -38,5 +38,5 @@ Only once, in a desperate bid to avoid a tête á tête with Uriah, does David s
 
 ### References
 
-[1ref1]: (https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm)
-[2ref2]: (https://literatureproject.com/david-copperfield/david-copperfield_chapter_14_-_my.htm)
+[^ref1]: (https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm)
+[^ref2]: (https://literatureproject.com/david-copperfield/david-copperfield_chapter_14_-_my.htm)
