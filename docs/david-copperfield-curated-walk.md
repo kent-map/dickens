@@ -20,10 +20,10 @@ On his arrival in '''Dover''' on the sixth day of his journey, David is immediat
 
 I inquired about my aunt among the boatmen first, and received various answers. One said she lived in the South Foreland Light, and had singed her whiskers by doing so; another, that she was made fast to the great buoy outside the harbour, and could only be visited at half-tide; a third, that she was locked up in Maidstone jail for child-stealing; a fourth, that she was seen to mount a broom in the last high wind, and make direct for Calais. The fly-drivers, among whom I inquired next, were equally jocose and equally disrespectful; and the shopkeepers, not liking my appearance, generally replied, without hearing what I had to say, that they had got nothing for me.
  
-Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread.
-https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm
+Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread.[^ref1]
  
-Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child. https://literatureproject.com/david-copperfield/david-copperfield_chapter_14_-_my.htm
+Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child.[^ref2] 
+
 At this point David is assimilated into the Kent landscape, moving between '''Dover''' and '''Canterbury,''' where he is put to school with     '''Dr Strong'''and develops romantic attachments to a succession of young woman like the eldest Miss Larkins. [[File:Eldest_Miss_Larkins.JPG]]
 
 As a young man David will return triumphantly to London, where he duly engages in other rites of passage such as getting drunk with social superiors, failing to keep his lodgings in order and falling in love with his employer’s daughter. Like Pip he takes the coach on his visits to 
@@ -33,5 +33,10 @@ As a young man David will return triumphantly to London, where he duly engages i
 
 Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to '''Gravesend.'''The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
 
-Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the '''Ramsgate'''road. His failure to reference Thanet seems peculiar given its accessibility from '''Canterbury'''and Dickens’s own love of the sea – indeed parts of the novel were written in [Fort House](/dickens-fort-house) in [Broadstairs](/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in '''Dover''', the inspiration for her cottage is to be found in [2 Nuckell’s Place](/great-expectations-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/) in 
+Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the '''Ramsgate'''road. His failure to reference Thanet seems peculiar given its accessibility from '''Canterbury'''and Dickens’s own love of the sea – indeed parts of the novel were written in [Fort House](/dickens-fort-house) in [Broadstairs](/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/great-expectations-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/) in 
 [Broadstairs](/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
+
+### References
+
+[1ref1]: (https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm)
+[2ref2]: (https://literatureproject.com/david-copperfield/david-copperfield_chapter_14_-_my.htm)
