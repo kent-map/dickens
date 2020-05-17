@@ -69,13 +69,13 @@ Our next adventure began in the Canterbury Christ Church University library, whe
 
 At this point the narrative is interrupted while a brief debate ensues:
 
-''I have wasp spray. Show me the place.
+> I have wasp spray. Show me the place.
 
-''I’m not taking my trousers off.
+> I’m not taking my trousers off.
 
-''Don’t be so wet.
+> Don’t be so wet.
 
-''We’re in the middle of a library, for [unprintable epithet] sake.
+> We’re in the middle of a library, for [unprintable epithet] sake.
 
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
 
@@ -111,7 +111,7 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
 
 [[File:Forge.jpeg|thumb|300px|left|Forge]]
 
-'''Cooling
+## Cooling
 
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](/dickens-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
  
@@ -121,13 +121,13 @@ Pies. We’d been opting for them consistently since [Broadstairs]. ‘I’m sor
 
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were: 
 
-''Hurrah, a fjord – I love fjords!
+> Hurrah, a fjord – I love fjords!
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.
 
-''So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?
+> So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?
 
-''Never mind that, does either of us have a toothbrush?
+> Never mind that, does either of us have a toothbrush?
 
 Nothing if not practical, that’s us.
 
@@ -138,7 +138,7 @@ The next half hour was spent in restrained disagreement over whether to rev the 
 The temporal gap between lunch at the [Ship and Lobster] and a substantial cream tea at the [Leather Bottle] in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle] is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
 
 
-''' Great Expectations Part 2. Rochester.
+## Great Expectations Part 2. Rochester.
 
 As so often in Dickens, Magwitch’s sousing in the [[River Medway]] carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
@@ -197,13 +197,13 @@ It was October half term when we found ourselves gazing over the very lawn where
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 
-''You’re a head teacher. If we’re caught that will make it all right.
+>You’re a head teacher. If we’re caught that will make it all right.
 
-''No it won’t. It will make it worse.
+No it won’t. It will make it worse.
 
-''I could stand on your shoulders and get over the wall.
+I could stand on your shoulders and get over the wall.
 
-''No you couldn’t.
+No you couldn’t.
 
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
