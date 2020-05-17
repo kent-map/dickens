@@ -82,7 +82,7 @@ Spot which one of us went to boarding school as a child (bath nights Wednesday a
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 
-''[Canterbury] and Charles Dickens'', which could have told us that the whole idea was ‘absurd’.
+''[Canterbury](/dickens-canterbury) and Charles Dickens'', which could have told us that the whole idea was ‘absurd’.
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 
@@ -142,7 +142,7 @@ The temporal gap between lunch at the [Ship and Lobster](/great-expectations-shi
 
 As so often in Dickens, Magwitch’s sousing in the [[River Medway]] carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
-So for our next foray we carefully avoided the river and set off in search of Estella via the '''Blue Boar''' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
+So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
 
 [[File:Bull_Inn.JPG|thumb|500px|right|Bull Inn]]
 
@@ -150,7 +150,7 @@ Whenever he leaves the forge Pip is confronted with a choice between the marshy 
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 
-Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [[Restoration House]]. http://www.literatureproject.com/great-expectations/great_8.htm
+Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](/great-expectations-restoration-house). http://www.literatureproject.com/great-expectations/great_8.htm
 ‘He calls the knaves, Jacks, this boy!’ 
 A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.
 ‘And what coarse hands he has! And what thick boots!’ 
@@ -224,3 +224,6 @@ Dickens is prone to moving places around; as a successful London author David te
 
 
 (1) 'One that is more tiring than one might imagine, and requires regular support in the shape of pies.']
+
+## Bibliography
+
