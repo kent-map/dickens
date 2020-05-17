@@ -42,7 +42,7 @@ What follows is our attempt to capture something of this experience, one autobio
 
 ### David Copperfield
 
-What we are calling [David Copperfield: a curated walk](/david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs.](/dickens-broadstairs)
+What we are calling [David Copperfield: a curated walk](/david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs.](/broadstairs)
 
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](/dickens-fort-house), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](/dickens-Nuckells-place) (Dickens House)] (it’s meant to be in [Dover](/dickens-dover), but who’s counting?) - but why a later owner reinvented Fort House as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
  
@@ -61,7 +61,7 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408
 
 
-'''[[Canterbury]]'''
+## Canterbury
 
 [[File:Little_Inn.JPG|thumb|500px|left|Little Inn]]
 
@@ -70,11 +70,11 @@ Our next adventure began in the Canterbury Christ Church University library, whe
 At this point the narrative is interrupted while a brief debate ensues:
 
 > I have wasp spray. Show me the place.
-
+>
 > I’m not taking my trousers off.
-
+>
 > Don’t be so wet.
-
+>
 > We’re in the middle of a library, for [unprintable epithet] sake.
 
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
@@ -91,7 +91,7 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 
 
-'''(In which we don’t go to) [Folkestone](/dickens-folkestone)
+(In which we don’t go to) [Folkestone](/dickens-folkestone)
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. Jerome’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is Broadstairs, been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of Folkestone. Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 
@@ -126,14 +126,14 @@ It was just as well we had refreshed ourselves, because what happened next could
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.
 
 > So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?
-
+>
 > Never mind that, does either of us have a toothbrush?
 
 Nothing if not practical, that’s us.
 
 The next half hour was spent in restrained disagreement over whether to rev the engine and risk flooding it, or sit in a foot of water playing gently with the accelerator from time to time to let the car ‘breathe’. The monotony of these discussions was broken up by a succession of motorists coming the other way. One by one they came alongside, wound down the window and asked if we were all right. 
 
-''We’ve stalled'' we would explain on each occasion, at which point the other driver would say indignantly, ''Well there’s nothing I can do about it'', and spray us with water as they disappeared down the hill.
+'We’ve stalled'' we would explain on each occasion, at which point the other driver would say indignantly, ''Well there’s nothing I can do about it'', and spray us with water as they disappeared down the hill.
 
 The temporal gap between lunch at the [Ship and Lobster](/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
 
@@ -151,9 +151,10 @@ Whenever he leaves the forge Pip is confronted with a choice between the marshy 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](/great-expectations-restoration-house). http://www.literatureproject.com/great-expectations/great_8.htm
-‘He calls the knaves, Jacks, this boy!’ 
+
+>‘He calls the knaves, Jacks, this boy!’ 
 A child on the opposite bench clearly didn’t care what he called them and went on playing with a convenient oak leaf.
-‘And what coarse hands he has! And what thick boots!’ 
+'And what coarse hands he has! And what thick boots!’ 
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/  in the very [Guildhall](/great-expectations-guildhall) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
@@ -167,29 +168,31 @@ Gratifyingly we had a cool half hour in which to show that she didn’t scare ''
 
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.
 
-Revving. ''Has she seen us?
+Revving. 
 
-''Just put your foot down, that way, quick.
-
-''It’s a one way system, we’re not allowed to do this.
-
-''What do you think she’s going to do, chase us?
+> Has she seen us?
+>
+> Just put your foot down, that way, quick.
+>
+> It’s a one way system, we’re not allowed to do this.
+>
+> What do you think she’s going to do, chase us?
 
 And then we got lost again, but at least Estella wasn’t there to see it.
 
 
 
-'''[Gad’s Hill]: Journey’s End.
+## [Gad’s Hill](/dickens-gads-hill): Journey’s End.
 
 [[File:Gadshill_In_Dickens_Land.JPG|thumb|400px|right|Gad's Hill]]
 
 Honestly. Parents.
 
-''Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up.
-
-''Maybe there really is a secret tunnel in your bedroom cupboard.
-
-''If you work hard perhaps you will even live at [Gad’s Hill](/dickens-gads-hill) one day. 
+> Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up.
+>
+> Maybe there really is a secret tunnel in your bedroom cupboard.
+>
+> If you work hard perhaps you will even live at [Gad’s Hill](/dickens-gads-hill) one day. 
 
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
  
@@ -197,13 +200,13 @@ It was October half term when we found ourselves gazing over the very lawn where
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 
->You’re a head teacher. If we’re caught that will make it all right.
-
-No it won’t. It will make it worse.
-
-I could stand on your shoulders and get over the wall.
-
-No you couldn’t.
+> You’re a head teacher. If we’re caught that will make it all right.
+>
+> No it won’t. It will make it worse.
+>
+> I could stand on your shoulders and get over the wall.
+>
+> No you couldn’t.
 
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
@@ -212,7 +215,7 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like _David Copperfield_ before us, made our way back towards the [Dover Road].
 
 
-'''Conclusion: in which we justify all this gadding about by insisting that it was serious work.
+## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
 
