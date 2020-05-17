@@ -10,6 +10,8 @@
 
 [File:Pavilionstone1.JPG](/images/Pavilionstone1.JPG) Published by the Frederick Hotels Group, 1902.
 
+[Folkestone](docs/images/Folkestone.JPG)
+
 Dickens stayed in Folkestone on several occasions, celebrating the Pavilion Hotel in ‘Out of Town’ in 1855, at the same time as beginning ''Little Dorrit'' during a more prolonged stay at 3 Albion Villas on the Leas. The harbour may have provided inspiration for the famous opening passage of the novel.
 
 
