@@ -11,7 +11,7 @@
 [File:Pavilionstone1.JPG](/images/Pavilionstone1.JPG) Published by the Frederick Hotels Group, 1902.
 
 <p align="center">
-  <img src="images/Folkestone.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/Folkestone.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Folkestone</span>
 </p>
 
