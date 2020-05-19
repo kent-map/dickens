@@ -4,9 +4,10 @@
 
 >‘A great to do here. A steamer lost on the Goodwin yesterday, and our men bringing in no end of cattle and sheep. I stood a supper for them last night, to the unbounded gratification of Broadstairs. They came in from the Wreck very wet and tired, and very much disconcerted by the nature of their prize – which I suppose after all will have to be re-committed to the Sea, when the hides and tallow are secured. One lean-faced boatman murmured, when they were all ruminative over the bodies as they lay on the Pier, “Couldn’t sassages be made on it?” -  but retired in confusion shortly afterwards, overwhelmed by the execrations of the bystanders.’ Letter to Henry Austin, 8 September 1851.
 
-[[File:WreckGoodwin.JPG]]
-
-
+<p align="center">
+  <img src="images/the-wreck-on-the-goodwin-sands.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Wreck on the Goodwin Sands</span>
+</p>
 
 George Cruikshank, ‘The Wreck on the Goodwin Sands’. Cruikshank was the original illustrator of _Oliver Twist_. The Goodwin Sands, about 7 miles off the coast of [[Broadstairs]], were notoriously dangerous in stormy weather.
 
