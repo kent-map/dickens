@@ -5,7 +5,10 @@
 >‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’ 
 _David Copperfield_
 
-The_Little_Inn,_Canterbury.JPG
+<p align="center">
+  <img src="images/In_Dickens_Land._The_Little_Inn,_Canterbury.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The Little Inn, Canterbury</span>
+</p>
 
 ## Abstract
 When the eponymous David Copperfield makes his journey on foot to Dover, his route takes him through Canterbury. He will soon revisit the city under very different conditions, as the guest of Mr Wickfield and a pupil at Dr Strong’s school (based on the King’s School).
