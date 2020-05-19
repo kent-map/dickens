@@ -6,7 +6,7 @@
 
 Children’s tombstones and high mortality rates are memorably invoked in the opening scene of _Great Expectations_. An orphaned Pip is menaced where his parents are bodily present but unable to intervene, and runs in terror across a flat and open landscape, where he would remain clearly visible to the watchful Magwitch.
 
-In the opening scene of _Great Expectations_ (published in 1861 but apparently set around the 1820s), a young Pip is famously terrified by a convict in leg irons while visiting the grave of his parents and five siblings. In fact the ‘five little stone lozenges’ recalled by Pip are derived from thirteen gravestones in the thirteenth century St James’s Church, Cooling, and appertain to two separate families. Nonetheless the church’s website notes that the children’s graves referenced in the novel are ‘now inevitably referred to as ''Pip's graves.'' St Mary’s, Higham, from which it is possible to see a beacon, a gibbet and a battery, has been suggested as an additional model. FOOTNOTE 1: / Shlicke 319. / 
+In the opening scene of _Great Expectations_ (published in 1861 but apparently set around the 1820s), a young Pip is famously terrified by a convict in leg irons while visiting the grave of his parents and five siblings. In fact the ‘five little stone lozenges’ recalled by Pip are derived from thirteen gravestones in the thirteenth century St James’s Church, Cooling, and appertain to two separate families. Nonetheless the church’s website notes that the children’s graves referenced in the novel are ‘now inevitably referred to as ''Pip's graves.'' St Mary’s, Higham, from which it is possible to see a beacon, a gibbet and a battery, has been suggested as an additional model.<^ref1>
 
 <p align="center">
   <img src="images/Cooling.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
@@ -30,3 +30,7 @@ Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.
 St James' Church http://coolingchurch.org.uk/about/. Accessed 28 November 2018.
 
 Shlicke, Paul, ed. _The Oxford Companion to Charles Dickens: Anniversary edition_. Oxford: Oxford University Press, 2011.
+
+### References
+
+<^ref1>: Shlicke 319.
