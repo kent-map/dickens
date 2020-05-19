@@ -63,7 +63,10 @@ https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408
 
 ## Canterbury
 
-[[File:Little_Inn.JPG|thumb|500px|left|Little Inn]]
+<p align="center">
+  <img src="images/Little_Inn.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn</span>
+</p>
 
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
 
@@ -184,7 +187,10 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 
 ## [Gad’s Hill](/dickens-gads-hill): Journey’s End.
 
-[[File:Gadshill_In_Dickens_Land.JPG|thumb|400px|right|Gad's Hill]]
+<p align="center">
+  <img src="images/Gadshill_In_Dickens_Land.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill In Dickens Land</span>
+</p>
 
 Honestly. Parents.
 
@@ -210,7 +216,10 @@ To repeat. It was half term. The school was very much closed. Memories of an unf
 
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
-[[File:Gad's.JPG|thumb|400px|left|© Ken Moffat]]
+<p align="center">
+  <img src="images/Gad's.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill © Ken Moffat</span>
+</p>
 
 Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like _David Copperfield_ before us, made our way back towards the [Dover Road].
 
