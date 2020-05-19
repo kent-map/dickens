@@ -9,8 +9,10 @@ Note for Ron: I can't change these images from TIF to JPEG so can't upload them.
 I was rather amazed to be told this by the very queer small boy; for that house happens to be MY house, and I have reason to believe that what he said was true.
 ‘Travelling Abroad’. _All the Year Round_. 7 April 1860.
 
-[[File:Gad’s_c._1864.jpg]] ©The British Library Board. 67463. 
-
+<p align="center">
+  <img src="images/Gad's_c._1864.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill ©The British Library Board. 67463. </span>
+</p>
 
 ## Abstract
 In 1856 Dickens bought a freehold for the first time, and recalled his father telling him that if he worked hard he might eventually live in a house like Gad’s. The vendor was Eliza Lynn Linton, remembered for her ‘Girl of the Period’ articles published in the _Saturday Review_ in the 1860s.
