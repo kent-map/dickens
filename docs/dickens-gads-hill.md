@@ -1,4 +1,4 @@
-#Note for Ron: I can't change these images from TIF to JPEG so can't upload them. But all should go here - maybe photo at house and plans nearer the bottom? Maps CC.5.C.2. Plate 1. Ground Plan. Maps CC.5.C.2. Plate 2. Ground Plan. Maps CC.5.C.2.plate opp. p.3 Gad's Hill South View.'''
+Note for Ron: I can't change these images from TIF to JPEG so can't upload them. But all should go here - maybe photo at house and plans nearer the bottom? Maps CC.5.C.2. Plate 1. Ground Plan. Maps CC.5.C.2. Plate 2. Ground Plan. Maps CC.5.C.2.plate opp. p.3 Gad's Hill South View.'''
 
 # Event - Purchase of Gad’s Hill, Higham by Dickens in 1856, followed by residence until death in 1870.
 
@@ -17,7 +17,7 @@ In 1856 Dickens bought a freehold for the first time, and recalled his father te
 
 
 Dickens bought Gad’s Hill Place in Higham in 1856 from the novelist Eliza Lynn Linton, a contributor to _Household Words_ who would go on to author the notoriously anti-feminst ‘Girl of the Period’ articles for the Saturday Review in the 1860s. 
-While Dickens had admired the house as a child living in '''Chatham''' , he may also have been influenced by its convenient proximity to London. On a self-styled ''''pilgrimage''' in 1888 W. R. Hughes was taken on to the roof by the current owner, Major Budden, and praised the ‘prospect of surpassing beauty. Right away to the westward is the great Metropolis, its presence being marked by the usual pall of greyish smoke. Opening from the town, and becoming wider and wider as the noble river approaches its '''festuary''' , is the Thames, now conspicuous by numerous vessels, showing masts and white and brown sails, and here and there the smoky track of a steamer.’ FOOTNOTE 1: /Hughes 188/. According to Frederick Kitton, another Dickens pilgrim who accompanied Hughes on this trip, Major Budden heroically saved the house from being burned to the ground on one occasion (although his account seems somewhat implausible). ‘It is the old story – a leakage of gas, a naked light, and an explosion; happily, Major Budden’s supply of hand-grenades did their duty and saved the building.’ FOOTNOTE 2: /Kitton 224/.
+While Dickens had admired the house as a child living in '''Chatham''' , he may also have been influenced by its convenient proximity to London. On a self-styled ''''pilgrimage''' in 1888 W. R. Hughes was taken on to the roof by the current owner, Major Budden, and praised the ‘prospect of surpassing beauty. Right away to the westward is the great Metropolis, its presence being marked by the usual pall of greyish smoke. Opening from the town, and becoming wider and wider as the noble river approaches its '''festuary''' , is the Thames, now conspicuous by numerous vessels, showing masts and white and brown sails, and here and there the smoky track of a steamer.’<^ref1> According to Frederick Kitton, another Dickens pilgrim who accompanied Hughes on this trip, Major Budden heroically saved the house from being burned to the ground on one occasion (although his account seems somewhat implausible). ‘It is the old story – a leakage of gas, a naked light, and an explosion; happily, Major Budden’s supply of hand-grenades did their duty and saved the building.’<^ref2>
 
 See also [Mobile Landscapes](/mobile-landscapes)
 
@@ -27,3 +27,8 @@ Dickens, Charles. ‘Travelling Abroad’. http://www.djo.org.uk/all-the-year-ro
 Hughes, William R. _A Week’s Tramp in Dickens Land_. London: Chapman and Hall, 1893 [first published 1891].
 
 Kitton, Frederick G. _The Dickens Country_. London: A. & C. Black, 1925 [first published 1905].
+
+### References
+
+<^ref1>: Hughes 188.
+<^ref2>: Kitton 224.
