@@ -6,6 +6,8 @@
 
 [[File:WreckGoodwin.JPG]]
 
+
+
 George Cruikshank, ‘The Wreck on the Goodwin Sands’. Cruikshank was the original illustrator of _Oliver Twist_. The Goodwin Sands, about 7 miles off the coast of [[Broadstairs]], were notoriously dangerous in stormy weather.
 
 
