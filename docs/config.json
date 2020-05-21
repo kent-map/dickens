@@ -3,7 +3,6 @@
     "banner": "/images/Bleak_house_postcard.jpg",
     "bannerHeight": 400,
     "components": [
-        {"name": "siteHeader", "selectors": [], "src": "/components/Header.vue"},
         {"name": "siteFooter", "selectors": [], "src": "/components/Footer.vue"}
     ]
 }
