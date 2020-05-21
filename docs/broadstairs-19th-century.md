@@ -37,15 +37,15 @@ The next year in 1897 the Broadstairs Pier and Harbour Commissioners complained 
 
 ## Bibliography
 
-Dicks, John. The Beauty of Broadstairs. Bow Bells Novelettes. Seaside number (82). Vol iv.  
+Dicks, John. The Beauty of Broadstairs. Bow Bells Novelettes. _Seaside number_ (82). Vol iv.  
 August 1880. 113-28.
 
-Grandfield, Yvette F. ‘The development of the seaside resort and the striving for `social    tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).
+Grandfield, Yvette F. ‘The development of the seaside resort and the striving for `social tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).
 
-Grossmith, George and Weedon. The Diary of a Nobody. First published 1892.
+Grossmith, George and Weedon. _The Diary of a Nobody_. First published 1892.
 
 Unattributed. How We Did Without Lodgings at the Seaside, Saved Our Money and Doubled 
 Our Pleasure. By the author of How We Managed Without Servants. [Reprint] London: 
 Griffith, Farran, Okeden & Welsh, 1885.
 
-Unattributed. ‘Shrove Tuesday at Broadstairs’. Penny Illustrated Weekly News.  February 1864. 566. British Newspaper Archive.
+Unattributed. ‘Shrove Tuesday at Broadstairs’. _Penny Illustrated Weekly News_.  February 1864. 566. British Newspaper Archive.
