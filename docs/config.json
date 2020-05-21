@@ -1,8 +1,9 @@
 {
     "title": "Dickens",
     "banner": "/images/Bleak_house_postcard.jpg",
-    "customComponents": {
-        "header": "/components/Header.vue",
-        "footer": "/components/Footer.vue"
-    }
+    "bannerHeight": 400,
+    "components": [
+        {"name": "siteHeader", "selectors": [], "src": "/components/Header.vue"},
+        {"name": "siteFooter", "selectors": [], "src": "/components/Footer.vue"}
+    ]
 }
