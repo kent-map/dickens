@@ -64,7 +64,7 @@ https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408
 ## Canterbury
 
 <p align="center">
-  <img src="images/Little_Inn.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/In Dickens Land. The Little Inn, Canterbury.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn</span>
 </p>
 
@@ -108,11 +108,19 @@ In [Broadstairs](/broadstairs) a few weeks earlier it had all been straightforwa
  
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
 
-[[File:Chalk_Church.png|thumb|300px|right|Chalk Church]]
+
+<p align="center">
+  <img src="images/Chalk Church.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Chalk Church</span>
+</p>
+
 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
 
-[[File:Forge.jpeg|thumb|300px|left|Forge]]
+<p align="center">
+  <img src="images/Forge Cottage Chalk.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Forge Cottage, Chalk</span>
+</p>
 
 ## Cooling
 
@@ -147,7 +155,10 @@ As so often in Dickens, Magwitch’s sousing in the [[River Medway]] carries ove
 
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
 
-[[File:Bull_Inn.JPG|thumb|500px|right|Bull Inn]]
+<p align="center">
+  <img src="images/Bull-Hotel-postcard-Rochester.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Bull Inn</span>
+</p>
 
 Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the ''Blue Boar'' on his visits from London, rather than stay with Joe at the forge. 
 
