@@ -2,7 +2,12 @@
 
 >‘Within a quarter of an hour we came to Miss Havisham's house, which was of old brick, and dismal, and had a great many iron bars to it. Some of the windows had been walled up; of those that remained, all the lower were rustily barred. There was a court-yard in front, and that was barred; so, we had to wait, after ringing the bell, until some one should come to open it.’ _Great Expectations_ (1861).
 
-[[File:RestorationHouse.JPG]] ©Carolyn Oulton
+<p align="center">
+  <img src="images/RestorationHouse.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Restoration House </span>
+</p>
+
+
 
 ## Abstract
 
