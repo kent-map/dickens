@@ -15,12 +15,6 @@
 ## Abstract
 Dickens entertained numerous friends, including writers such as Wilkie Collins, at Fort House. The house was informally known as ‘Bleak House’ from at least 1864, officially changing its name somewhere between 1879 and 1885. Frederick Kitton, who saw it in 1889, deplored its subsequent conversion ‘into a pretentious-looking mansion of Tudor design, with castellated eaves.’ 
 
-
-<p align="center">
-  <img src="images/Postcard of Bleak House.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">‘Bleak House’ (Fort House) as Dickens would have known it. ©Elgate Postcards, Margate.</span>
-</p>
-
 Postcard of Bleak House in the early 20th century.
 
 Fort House in Fort Road, like Dickens House ([2 Nuckell's Place](/david-copperfield-nuckells-place)) was the source of considerable confusion both during and after Dickens’s lifetime. It was his '''holiday''' house of choice in [Broadstairs](/dickens-broadstairs) for many years and it was here that he entertained a succession of literary and artist friends including the novelist Wilkie Collins. Parts of _David Copperfield_ were written here, including the ending. By 1864 it was sometimes informally known as Bleak House, leading many visitors to assume that this novel too had been written in the town. But the name was formally changed to Bleak House only after Dickens’s death (somewhere between 1879  and 1885).
