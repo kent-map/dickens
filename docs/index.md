@@ -6,4 +6,4 @@
 
 [Mobile Landscapes](/mobile-landscapes)  
 [Curated walk - Great Expectations](/great-expectations-curated-walk)  
-[Curated walk - David Copperfield](/gdavid-copperfield-curated-walk)  
+[Curated walk - David Copperfield](/david-copperfield-curated-walk)  
