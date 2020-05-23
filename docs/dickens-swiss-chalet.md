@@ -1,4 +1,4 @@
- # Swiss Chalet
+# Swiss Chalet
 
 **Event**  Arrival of Swiss Chalet at Gad's Hill in 1864.
 
