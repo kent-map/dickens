@@ -1,6 +1,7 @@
 <var data-essay title="David Copperfield - a curated walk" data-banner="https://kg.jstor.org/w/images/4/44/Traddles%2C_Micawber_and_David_from_David_Copperfield_art_by_Frank_Reynolds.jpg"></var>
 
-## David Copperfield - a curated walk
+
+# David Copperfield - a curated walk
 
 by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
 
