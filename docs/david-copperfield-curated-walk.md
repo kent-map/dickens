@@ -1,7 +1,7 @@
 <var data-essay title="David Copperfield - a curated walk" data-banner="https://kg.jstor.org/w/images/4/44/Traddles%2C_Micawber_and_David_from_David_Copperfield_art_by_Frank_Reynolds.jpg"></var>
 
 
-# David Copperfield - a curated walk
+## David Copperfield - a curated walk
 
 by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
 
@@ -28,7 +28,7 @@ Even when he finally finds the cottage his aunt’s servant, assuming that he is
 At this point David is assimilated into the Kent landscape, moving between '''Dover''' and '''Canterbury,''' where he is put to school with     '''Dr Strong'''and develops romantic attachments to a succession of young woman like the eldest Miss Larkins. 
 
 <p align="center">
-  <img src="images/The_Eldest_Miss_Larkins_T00072_-_21.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/The Eldest Miss Larkins T00072 - 21.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The Eldest Miss Larkins</span>
 </p>
 
