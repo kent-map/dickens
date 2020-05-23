@@ -100,7 +100,7 @@ Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbur
 
 _Great Expectations Part 1_
 
-[Great Expectations: A curated walk](/Great-expectations-curated-walk)
+[Great Expectations: A curated walk](/great-expectations-curated-walk)
 
 ## Chalk
 
