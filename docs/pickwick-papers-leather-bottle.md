@@ -5,9 +5,10 @@ In this opinion also, both Mr Winkle and Mr Snodgrass expressed their concurrenc
 “Show the gentlemen into the parlour, Tom,” said the landlady.
 A stout country lad opened a door at the end of the passage, and the three friends entered a long, low-roofed room, furnished with a large number of high-backed leather-cushioned chairs, of fantastic shapes, and embellished with a great variety of old portraits and roughly-coloured prints of some antiquity. At the upper end of the room was a table, with a white cloth upon it, well covered with a roast fowl, bacon, ale, and et ceteras; and at the table sat Mr. Tupman, looking as unlike a man who had taken his leave of the world, as possible.’ _The Pickwick Papers_.
 
-
-http://www.victorianweb.org/painting/haslehust/27.html Scan by Philip V. Allingham. 
-
+<p align="center">
+  <img src="images/leather-bottle.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Leather Bottle http://www.victorianweb.org/painting/haslehust/27.html Scan by Philip V. Allingham. </span>
+</p>
 
 ## Abstract
 
