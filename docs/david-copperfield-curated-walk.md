@@ -25,12 +25,20 @@ Symbolically David is sitting on the doorstep of an empty shop at the corner of 
  
 Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child[^ref2]. 
 
-At this point David is assimilated into the Kent landscape, moving between '''Dover''' and '''Canterbury,''' where he is put to school with     '''Dr Strong'''and develops romantic attachments to a succession of young woman like the eldest Miss Larkins. [[File:Eldest_Miss_Larkins.JPG]]
+At this point David is assimilated into the Kent landscape, moving between '''Dover''' and '''Canterbury,''' where he is put to school with     '''Dr Strong'''and develops romantic attachments to a succession of young woman like the eldest Miss Larkins. 
+
+<p align="center">
+  <img src="images/The_Eldest_Miss_Larkins_T00072_-_21.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The Eldest Miss Larkins</span>
+</p>
 
 As a young man David will return triumphantly to London, where he duly engages in other rites of passage such as getting drunk with social superiors, failing to keep his lodgings in order and falling in love with his employer’s daughter. Like Pip he takes the coach on his visits to 
 [Canterbury](/david-copperfield-canterbury) to visit Agnes Wickfield, for whose sake he will triumphantly denounce Uriah Heep with the aid of Traddles and Mr Micawber. 
 
-[[File:Heep.JPG]]
+<p align="center">
+  <img src="images/Heep_of_Infamy_M00002_-_10.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Uriah Heep</span>
+</p>
 
 Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to '''Gravesend.'''The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
 
