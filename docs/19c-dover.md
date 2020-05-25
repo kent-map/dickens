@@ -12,7 +12,7 @@ Like [Ramsgate] Dover considered itself to be among the more genteel of the 19th
 
 <p align="center">
   <img src="images/FortAmherst.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Folkestone</span>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Fort Amherst</span>
 </p>
 ©The British Library Board maps_k_top_16_48_g
 
