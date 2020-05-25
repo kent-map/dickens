@@ -8,14 +8,17 @@
 ‘Our Watering Place’. _Household Words_ 1851.
 
 <p align="center">
-  <img src="images/Bleak_house_postcard.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/Bleak House in the time of Dickens.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">‘Bleak House’ (Fort House) as Dickens would have known it. ©Elgate Postcards, Margate.</span>
 </p>
 
 ## Abstract
 Dickens entertained numerous friends, including writers such as Wilkie Collins, at Fort House. The house was informally known as ‘Bleak House’ from at least 1864, officially changing its name somewhere between 1879 and 1885. Frederick Kitton, who saw it in 1889, deplored its subsequent conversion ‘into a pretentious-looking mansion of Tudor design, with castellated eaves.’ 
 
-Postcard of Bleak House in the early 20th century.
+<p align="center">
+  <img src="images/Bleak_house_postcard.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">‘Bleak House’ (Fort House) as Dickens would have known it. ©Elgate Postcards, Margate.</span>
+</p>
 
 Fort House in Fort Road, like Dickens House ([2 Nuckell's Place](/david-copperfield-nuckells-place)) was the source of considerable confusion both during and after Dickens’s lifetime. It was his '''holiday''' house of choice in [Broadstairs](/dickens-broadstairs) for many years and it was here that he entertained a succession of literary and artist friends including the novelist Wilkie Collins. Parts of _David Copperfield_ were written here, including the ending. By 1864 it was sometimes informally known as Bleak House, leading many visitors to assume that this novel too had been written in the town. But the name was formally changed to Bleak House only after Dickens’s death (somewhere between 1879  and 1885).
 The original name seems an obvious choice based on the striking appearance of the house as it is today, but ironically in Dickens’s day there was nothing fort-like about it. Dickens scholar Frederick Kitton visited the house in 1889 and was horrified when a later owner ‘thought fit to restore, alter and extend the premises, converting the building into a pretentious-looking mansion of Tudor design, with castellated eaves and other “improvements,” by which it is changed beyond all recognition.’<^ref1>
