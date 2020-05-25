@@ -199,7 +199,7 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 ## [Gad’s Hill](/dickens-gads-hill): Journey’s End.
 
 <p align="center">
-  <img src="images/Gadshill_In_Dickens_Land.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/Gadshill in Dickens Land.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill In Dickens Land</span>
 </p>
 
