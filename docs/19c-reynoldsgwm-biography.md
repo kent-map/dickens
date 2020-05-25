@@ -2,13 +2,11 @@ https://ainsworthandfriends.wordpress.com/2013/02/13/the-man-who-wasnt-dickens/
 
 ## G. W. M. Reynolds (23 July 1814 – 19 June 1879) 
 
-Prolific and popular early Victorian novelist, who is forgotten nowadays but in his day did much to shape the taste of the times. Disliked intensely by [[Dickens]].
+Prolific and popular early Victorian novelist, who is forgotten nowadays but in his day did much to shape the taste of the times. Disliked intensely by [Dickens](/dickens-biography).
 
 '''Events''': Birth in [[Sandwich]]; schooling in [[Ashford]]; serialisation of Kent-based novel Mary Price, 1851–53; purchase of Gothic House in Herne Bay, 1854 (residence 1854–58). '''
 
-## Publications: _The Mysteries of London, '' 1845-50: _Mary Price_, 1851-53. '''
-
-
+**Publications:** _The Mysteries of London,_ 1845-50: _Mary Price_, 1851-53.
 
 ‘I had a couple of hours to dispose of as best I could. So I thought of taking a walk to the Dane John, which I may as well observe, for the benefit of those who are not acquainted with [[Canterbury]], is a beautiful pleasure-ground, laid out in walks with avenues of trees, borders of flowers, and groups of shrubs. One side is bounded by a high rampart belonging to the old city-fortifications, and this is also a favourite promenade with the ladies and gentlemen of [[Canterbury]]. There is a very high mound, with winding walks ascending to the summit, on which stands a sort of monument or obelisk, with seats conveniently arranged round it. From this eminence there is a very beautiful view, not only of the city and its fine old cathedral with its three stately towers and numerous pinnacles, but likewise of the adjacent country for several miles round.’
 
