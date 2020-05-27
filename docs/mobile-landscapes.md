@@ -114,6 +114,8 @@ The day we went to find Pip Pirrip nothing was initially visible from anywhere. 
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Chalk Church</span>
 </p>
 
+©Ken Moffat
+
 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
 
@@ -121,6 +123,8 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
   <img src="images/Forge Cottage Chalk.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Forge Cottage, Chalk</span>
 </p>
+
+©Ken Moffat
 
 ## Cooling
 
