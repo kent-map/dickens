@@ -16,16 +16,21 @@ Despite being the favoured holiday destination of no less a figure than Charles 
 The 1880 ‘[[Seaside]] number’ of Bow Bells Novelettes did its best to liven up the holiday market with ‘The Beauty of Broadstairs’, a story about a beautiful actress, an attempted murder, a stolen will and a tearful reunion. Meanwhile the Assembly Rooms were providing accessible entertainment such as conjuring and thought reading by the last decades of the century. George and Weedon [[Grossmith]]s' Charles Pooter – who is understandably wary of Margate - expects his family to be safe in Broadstairs at least. It is typical of the enterprising Lupin that even in this most decorous of [[seaside]] resorts he quickly discovers the appearance of Polly Presswell, ‘England’s Particular Spark’, at the Assembly Rooms.
 
 
-
-[[File:Evanion.jpg]]
+<p align="center">
+  <img src="images/Evanion.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Evanion</span>
+</p>
 
 ©The British Library Board c04022-09 / Evan.2668 Images Online.
 
 
 
-[[File:AlfredCapper.jpg]]
+<p align="center">
+  <img src="images/AlfredCapper.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">AlfredCapper</span>
+</p>
 
-[1882]
+
 
 ©The British Library Board c02908-08 / Evan.2795.
 
