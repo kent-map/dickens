@@ -7,9 +7,7 @@ Links https://historicengland.org.uk/listing/the-list/list-entry/1085418 https:/
 
 Brief Excerpt: “The streets were ornamented with arches of flowers and flags. The open, free, boundless (to the eye), ocean looked very refreshing. There is nothing between us and France but the sea, here. We have got a small but very nice house, overlooking the sea quite close.” (29th Sept 1835).
 
-Images with location and copyright status: Historic England archive has images available to purchase for £12 per image: https://archive.historicengland.org.uk/SingleResult/Default.aspx?id=405032&t=advanced&cr=Albion&io=false&c=Kent&col=BLACK+AND+WHITE&l=all&page=4
 
-Shared Keywords: Ramsgate Harbour, pier, Canterbury Cathedral, Walmer Castle, Queen Victoria
 
 ## Article
 
