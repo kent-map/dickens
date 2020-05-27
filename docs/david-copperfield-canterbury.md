@@ -6,8 +6,8 @@
 _David Copperfield_
 
 <p align="center">
-  <img src="images/In_Dickens_Land._The_Little_Inn,_Canterbury.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The Little Inn, Canterbury</span>
+  <img src="images/In Dickens Land. The Little Inn, Canterbury.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn, Dickens Land</span>
 </p>
 
 ## Abstract
