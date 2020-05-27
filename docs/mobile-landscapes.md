@@ -50,7 +50,7 @@ All three buildings are within sight of each other, and of the sea where Dickens
 
 <p align="center">
   <img src="images/Dickens_House.jpg" style="width:100%;max-width:500px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Dickens' House</span>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Dickens' House?</span>
 </p>
 
 The museum parlour is a complete reconstruction of the room where David is randomly dosed with a series of bottles from a corner cupboard - we have never been quite sure that we too did not taste ‘aniseed water, anchovy sauce, and salad dressing’. More disturbingly David is later made to confront the Murdstones in this small space, in which there is barely room for the three of them as well as his aunt and Mr Dick.
