@@ -3,7 +3,7 @@
 https://rotunda.upress.virginia.edu/EmilyShore/make-page.xqy?id=jes-intro
 
 
-'''Article NOTE CO TO RS. I DON’T THINK THIS SHOULD BE A TITLE, I’M JUST SIGNALLING THAT IT’S THE MAIN BODY OF TEXT AS V THE ‘TEASER’ AT THE TOP.
+
 Emily’s first impressions of Thanet were not entirely favourable. On 6 July she writes, ‘The country about [[Margate]], [[Broadstairs]], and [[Ramsgate]] is odious. The soil is chalky, scarce a tree is to be seen, and a hill would be a wonder. The cliffs of chalk have not a broken edge anywhere, and are perfectly the same for miles’. But if the countryside was disappointing and the journey ‘very hot, dusty and fatiguing’, [[Broadstairs]] itself offered a more picturesque view and Emily was immediately captivated by the sea, which none of the children had ever seen before, ‘indeed it broke most beautifully on our sight, of the brightest blue, and perfectly calm.’2
  
 The journal includes detailed accounts of flora and fauna, a healthy interest that was actively encouraged among middle class girls of the time despite its scientific basis. Emily enthuses:
