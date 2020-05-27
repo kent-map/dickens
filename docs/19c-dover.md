@@ -27,6 +27,9 @@ Nor did the possibilities for travel end with the offer of a few weeks at the Ke
 ## Bibliography
 
 Harper, Charles G. _The Kent Coast_. London: Chapman and Hall, 1914.
+
 Mackenzie, Walcott. _A Guide to the Coast of Kent, Descriptive of Scenery Historical, Legendary and Archaeological_. London: Edward Stanford, 1859.
+
 Author unknown. _The Illustrated Ramble Book of the London and Dover Railway_. London: J. Mead, date not given.
+
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.
