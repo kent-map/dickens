@@ -1,5 +1,3 @@
-CO to RS: 'Canterbury' (line 2, para 1) should link to Dickens: Canterbury, not 19C Canterbury.
-
 
 David Copperfield's [[Kent:Dickens/David Copperfield/Curated walk]] can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
 
