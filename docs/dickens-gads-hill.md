@@ -1,5 +1,3 @@
-Note for Ron: I can't change these images from TIF to JPEG so can't upload them. But all should go here - maybe photo at house and plans nearer the bottom? Maps CC.5.C.2. Plate 1. Ground Plan. Maps CC.5.C.2. Plate 2. Ground Plan. Maps CC.5.C.2.plate opp. p.3 Gad's Hill South View.'''
-
 # Event - Purchase of Gad’s Hill, Higham by Dickens in 1856, followed by residence until death in 1870.
 
 
@@ -18,6 +16,13 @@ I was rather amazed to be told this by the very queer small boy; for that house 
 
 ## Abstract
 In 1856 Dickens bought a freehold for the first time, and recalled his father telling him that if he worked hard he might eventually live in a house like Gad’s. The vendor was Eliza Lynn Linton, remembered for her ‘Girl of the Period’ articles published in the _Saturday Review_ in the 1860s.
+
+<p align="center">
+  <img src="images/ Gadsgroundplan
+.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> Gadsgroundplan.JPG</span>
+</p>
+
 
 
 Dickens bought Gad’s Hill Place in Higham in 1856 from the novelist Eliza Lynn Linton, a contributor to _Household Words_ who would go on to author the notoriously anti-feminst ‘Girl of the Period’ articles for the Saturday Review in the 1860s. 
