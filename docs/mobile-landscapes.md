@@ -5,7 +5,7 @@
      data-author="Ken Moffat and Carolyn W. de la L. Oulton"
      layout="hc"></var>
 
-## Finding Kent Dickensian in David Copperfield and Great Expectations
+## Mobile Landscapes: Finding Kent Dickensian in David Copperfield and Great Expectations
 
 by <big><span class="author">Ken Moffat</span> (Simon Langton Boys' Grammar School) and <span class="author">Carolyn W. de la L. Oulton</span> (Canterbury Christ Church University).</big>
 
@@ -65,7 +65,7 @@ https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408
 
 <p align="center">
   <img src="images/In Dickens Land. The Little Inn, Canterbury.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn</span>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn, Dickens Land</span>
 </p>
 
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
