@@ -1,7 +1,7 @@
-<var data-essay 
-     title="Great Expectations - a curated walk" 
-     data-banner="images/Viking_Bay_Broadstairs.jpg"
-     data-layout="vtl"></var>
+<param ve-config 
+       title="Great Expectations - a curated walk" 
+       banner="images/Viking_Bay_Broadstairs.jpg"
+       layout="vtl">
 
 <var title="Charles Dickens" id="Q5686"></var>
 <var title="Chatham" id="Q729006"></var>
@@ -20,11 +20,12 @@
 <var title="Satis House" id="Q26377461"></var>
 <var title="Ship Inn" id="Q26377259"></var>
 
+
 <!-- Kent with map centered at Rochester -->
 <var data-map
      title="Kent"
      data-center="Q507517"
-     data-zoom="11"></var>
+     data-zoom="12"></var>
 
 <!-- A few historical map layers -->
 <var data-map-layer
@@ -46,11 +47,12 @@
      title="Kent 1904"
      data-type="mapwarper"
      data-mapwarper-id="45555" 
-     data-active="false"></var>
+     data-active="true"></var>
 
 ## Great Expections - a curated walk
 
 by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
+
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <var data-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent"></var> 

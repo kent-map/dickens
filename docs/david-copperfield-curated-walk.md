@@ -1,9 +1,18 @@
-<var data-essay title="David Copperfield - a curated walk" data-banner="https://kg.jstor.org/w/images/4/44/Traddles%2C_Micawber_and_David_from_David_Copperfield_art_by_Frank_Reynolds.jpg"></var>
-
+<param ve-config
+       title="David Copperfield - a curated walk" 
+       banner="images/david-copperfield-banner.jpg"
+       layout="vtl">
 
 ## David Copperfield - a curated walk
 
 by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
+
+<param ve-map center="Q729006" zoom="12">
+<param data-map-layer
+       title="Kent 1904"
+       type="mapwarper"
+       mapwarper-id="45555" 
+       active="true">
 
 David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past. From the moment of meeting the chilling Mr Murdstone the child David finds it hard to take his eyes off him, and he will later find himself compelled to watch the slumbers of Uriah Heep, as he succumbs to what Dickens memorably termed ‘the fascination of repulsion’. In both cases David emphasises the way in which his home is invaded by these unwelcome figures. But just what home means – and where it is – proves elusive throughout the novel.
  
@@ -25,12 +34,8 @@ Symbolically David is sitting on the doorstep of an empty shop at the corner of 
  
 Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child[^ref2]. 
 
-At this point David is assimilated into the Kent landscape, moving between '''Dover''' and '''Canterbury,''' where he is put to school with     '''Dr Strong'''and develops romantic attachments to a succession of young woman like the eldest Miss Larkins. 
-
-<p align="center">
-  <img src="images/The Eldest Miss Larkins T00072-21.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">The Eldest Miss Larkins</span>
-</p>
+At this point David is assimilated into the Kent landscape, moving between '''Dover''' and '''Canterbury,''' where he is put to school with     '''Dr Strong'''and develops romantic attachments to a succession of young woman like the eldest Miss Larkins.
+<param ve-image url="images/The Eldest Miss Larkins T00072-21.jpg" fit="contain">
 
 As a young man David will return triumphantly to London, where he duly engages in other rites of passage such as getting drunk with social superiors, failing to keep his lodgings in order and falling in love with his employer’s daughter. Like Pip he takes the coach on his visits to 
 [Canterbury](/david-copperfield-canterbury) to visit Agnes Wickfield, for whose sake he will triumphantly denounce Uriah Heep with the aid of Traddles and Mr Micawber. 
