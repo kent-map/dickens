@@ -1,6 +1,7 @@
 <param ve-config 
        title="Great Expectations - a curated walk" 
        banner="images/Viking_Bay_Broadstairs.jpg"
+       author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
 <var title="Charles Dickens" id="Q5686"></var>
@@ -50,9 +51,6 @@
      data-active="true"></var>
 
 ## Great Expections - a curated walk
-
-by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
-
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <var data-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent"></var> 
