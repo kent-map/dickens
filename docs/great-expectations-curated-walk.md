@@ -53,9 +53,12 @@
 ## Great Expections - a curated walk
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
-<var data-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent"></var> 
+<var data-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent"></var>
+<!-- This is a comment -->
 
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes](/Mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
+<param ve-primary="image">
+<param ve-image url="images/Rochester_1828.jpg" fit="contain">
 
 <p align="center">
   <img src="images/Rochester_1828.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
