@@ -230,7 +230,7 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 
 <p align="center">
   <img src="images/Gad's.JPG" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill CO TO RS: COPYRIGHT INFO SHOULD APPEAR JUST BELOW PHOTO - I CAN'T GET THIS TO APPEAR IN THE RIGHT PLACE.       
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill 
        
        
        © Ken Moffat</span>
