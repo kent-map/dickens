@@ -178,7 +178,7 @@ Back in the High Street it was clearly time for further refreshments. With only 
 ‘Drink it yourself’ suggested Pip promptly.
 Her expression as she poured it down the sink would have shaken anyone but a born teacher.
 
-Gratifyingly we had a cool half hour in which to show that she didn’t scare ''us'', before suddenly remembering the meter and making a less dignified exit than we might have chosen. 
+Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen. 
 
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.
 
