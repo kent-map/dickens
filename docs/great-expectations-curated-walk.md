@@ -23,7 +23,7 @@
 <param title="Ship Inn" eid="Q26377259">
 
 <!-- Kent with map centered at Rochester -->
-<param data-map center="Q507517" zoom="9">
+<param data-map center="51.254291, 0.876473" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer mapwarper mapwarper-id="38872" title="Kent 1820">
