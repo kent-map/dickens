@@ -1,11 +1,10 @@
 <param ve-config
        title="David Copperfield - a curated walk" 
        banner="images/david-copperfield-banner.jpg"
+       author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl">
 
 ## David Copperfield - a curated walk
-
-by <big><span class="author">Ken Moffat</span> and <span class="author">Carolyn W. de la L. Oulton</span></big>
 
 <param ve-map center="Q729006" zoom="12">
 <param data-map-layer

@@ -7,10 +7,7 @@
 
 ## Mobile Landscapes: Finding Kent Dickensian in David Copperfield and Great Expectations
 
-by <big><span class="author">Ken Moffat</span> (Simon Langton Boys' Grammar School) and <span class="author">Carolyn W. de la L. Oulton</span> (Canterbury Christ Church University).</big>
-
 ### Welcome to Dickens Land!
-
 
 <div align="center" style="float:left; margin: 24px 18px 6px 0px;">
   <img src="images/Dickens_Land_books.jpg"  style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
@@ -20,7 +17,6 @@ by <big><span class="author">Ken Moffat</span> (Simon Langton Boys' Grammar Scho
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
 
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? Broadstairs or Dover, it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
-
 
 ## The adventure begins
 
