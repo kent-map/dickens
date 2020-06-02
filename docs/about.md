@@ -35,7 +35,7 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 ### Michelle Crowther
 <img src="images/michelle.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
 <p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
-Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Chruch University.
+Michelle Crowther is the Learning and Research Librarian for the School of Humanities at Canterbury Christ Church University.
 </p>
 
 ### JSTOR Labs
