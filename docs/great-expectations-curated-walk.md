@@ -34,7 +34,7 @@
 ## Great Expections - a curated walk
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
-<param ve-map-layer geojson active url="geojson/dickensland.json">
+<param ve-map-layer geojson active url="geojson/dickensland.json" title="Dickensland" fill-opacity="0.1">
 <param ve-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent"></var>
 <!-- This is a comment -->
 

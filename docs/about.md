@@ -1,3 +1,14 @@
+<style>
+    .test {color: red;}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+</style>
+
 ## About the site and project
 
 This site is the product of a collaboration between [JSTOR Labs](https://labs.jstor.org) and a team led by Carolyn Oulton, Professor of Victorian Literature in the School of Humanities, Canterbury Christ Church University.
@@ -8,22 +19,32 @@ The JSTOR Labs team is providing tools and infrastructure for presenting the ess
 
 Framed by the idea of ‘writers and their times’, the project is researching historic, literary and geographical records to create an interactive experience seen through multi-disciplinary lenses. This approach contextualises literature and textual records of historic events through an emphasis on the material conditions in which they were produced and circulated. 
 
-But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that hi_story_ is just that – a story we tell to others and ourselves?
+But rather than simply recreating a historic experience, the research aims to problematise the ways in which we interpret and represent the past. What do we think we know about the history of local landscapes? How do conflicting perspectives and gaps in the record remind us that representation is always selective and that _history_ is just that – a story we tell to others and ourselves?
 
-As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of asking yet.’
+As the map grows so too will the capacity for making unforeseen connections. While the project inevitably reflects the interests of the research team, it is highly collaborative and is not designed to showcase or privilege any one argument over another. Instead it will help you find your own answers to questions you haven’t thought of asking yet.
 
 ## About the collaborators
 
 ### Carolyn Oulton
-[[File:Carolyn_Oulton_Bio_Pic.jpg|300px]]
-
+<img src="images/CO_in_bookshop.jpg" style="float:left; margin:0 18px 0 6px; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Carolyn Oulton is Professor of Victorian Literature and Director of the International Centre for Victorian Women Writers at Canterbury Christ Church University.
+</p>
 
 ### Ken Moffat
-[[File:Bio-pic-placeholder.gif|250px]]
-
+<img src="images/Dickens_House_PH.png"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
 Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
+</p>
+
+### Michelle Crowther
+<img src=""style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+Michelle Crowther is ...
+</p>
 
 ### JSTOR Labs
-
-TODO...
+<img src="images/labs.jpg"style="float:left; margin:0 18px 0 6px; width:100%; width:100%; max-width:300px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;">
+<p class="clearfix" style="font-size: 1.2rem; margin-top:-18px;">
+JSTOR Labs is ...
+</p>
