@@ -1,12 +1,7 @@
+<param ve-config title="Kent Maps Dickens Project: About">
+
 <style>
-    .test {color: red;}
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-
+    .clearfix::after {content: ""; clear: both; display: table;}
 </style>
 
 ## About the site and project
