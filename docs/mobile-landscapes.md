@@ -239,8 +239,8 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill 
        
        
-       © Ken Moffat</span>
-</p>
+      </span>
+</p> © Ken Moffat
 
 Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like _David Copperfield_ before us, made our way back towards the CO TO RS: THIS SHOULD LINK TO  [Dover Road].
 
