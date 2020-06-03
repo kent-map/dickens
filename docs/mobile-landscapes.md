@@ -220,7 +220,7 @@ It was October half term when we found ourselves gazing over the very lawn where
 
 <p align="center">
   <img src="images/Gads1864.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1864</span> Gad's Hill 1864. ©The British Library Board. 67463.
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"></span> Gad's Hill 1864. ©The British Library Board. 67463.
 </p>
 
 
