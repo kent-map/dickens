@@ -217,6 +217,12 @@ If you really feel that your child is destined to become one of the country’s 
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 
+<p align="center">
+  <img src="images/Gadsgroundplan.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> Gads1864 </span> © The British Library Board Maps CC.5.C.2.
+</p>
+
+
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 
 > You’re a head teacher. If we’re caught that will make it all right.
