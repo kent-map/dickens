@@ -43,8 +43,13 @@ Wilson, Stanley Gordon Francis. _Canterbury and Charles Dickens: a Little Guide 
 ### References
 
 <^ref1>: _David Copperfield_. Chapter 15.
+
 <^ref2>: _David Copperfield_. Chapter 15.
+
 <^ref3>: Wilson 16.
+
 <^ref4>: _David Copperfield_. Chapter 13. 
+
 <^ref5>: _Letter to John Forster_ [early October 1849]. Pilgrim 5. 620-1.
+
 <^ref6>: _Letter To George Dolby. 1 June 1869. 362-3. 363.
