@@ -37,4 +37,5 @@ Kitton, Frederick G. _The Dickens Country_. London: A. C. Black, 1925 [first pub
 ### References
 
 <^ref1>: Kitton (195-6).
+
 <^ref2>: 'A Dickens Village at Broadstairs. In Memory of the Great Novelist’. _Pall Mall Gazette_. 8 June 1897. 7. British Newspaper Archive.
