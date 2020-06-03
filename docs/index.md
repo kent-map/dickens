@@ -6,7 +6,7 @@
     a {color: #800000 !important; font-size:1.2em;}
 </style>
 
-<img src="images/Dickens_Gurney_Head.jpg">
+<img src="images/dickens_head.jpg">
 <p class="clearfix" style="margin-top:-18px;">
 **[Mobile Landscapes](mobile-landscapes)** was inspired by the literary pilgrimages made by Victorians themselves. Authors such as William Hughes and Frederick Kitton wrote enthusiastic accounts of their adventures as they tracked Dickens and his characters through Kent. This 21C experiment invites you to accompany two modern day Dickensians on their own journey of discovery, as they read the novels to each other from Broadstairs to Rochester.
 </p>
