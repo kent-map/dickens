@@ -46,10 +46,6 @@ We parked the car half a mile out of town to avoid the Pay and Display, trusted 
  
 All three buildings are within sight of each other, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.' CO TO RS: THIS SHOULD LINK TO https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm (Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 
-<p align="center">
-  <img src="images/Gads1864.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> Gads1864</span>
-</p>
 
 The museum parlour is a complete reconstruction of the room where David is randomly dosed with a series of bottles from a corner cupboard - we have never been quite sure that we too did not taste ‘aniseed water, anchovy sauce, and salad dressing’. More disturbingly David is later made to confront the Murdstones in this small space, in which there is barely room for the three of them as well as his aunt and Mr Dick.
 
@@ -219,10 +215,9 @@ It was October half term when we found ourselves gazing over the very lawn where
 
 
 <p align="center">
-  <img src="images/Gads1864.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"></span> Gad's Hill 1864. ©The British Library Board. 67463.
+  <img src="images/Gads1864.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> Gads1864</span>
 </p>
-
 
 
 
