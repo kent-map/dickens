@@ -9,7 +9,7 @@ I was rather amazed to be told this by the very queer small boy; for that house 
 
 <p align="center">
   <img src="images/Gadssouthview.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gadssouthview</span>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gadssouthview</span> ©The British Library Board Maps CC.5.C.2.
 </p>
 
 
@@ -19,7 +19,7 @@ In 1856 Dickens bought a freehold for the first time, and recalled his father te
 
 <p align="center">
   <img src="images/Gadsgroundplan.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> Gadssouthview </span> © The British Library Board Maps CC.5.C.2.
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> Gadssouthview </span> © The British Library Board Maps CC.5.C.2. Plate 2.
 </p>
 
 
@@ -31,7 +31,7 @@ While Dickens had admired the house as a child living in '''Chatham''' , he may 
 
 <p align="center">
   <img src="images/Gadsplan.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gadsplan</span> © The British Library Board Maps CC.5.C.2.
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gadsplan</span> © The British Library Board Maps CC.5.C.2. Plate 1.
 </p>
 
 
