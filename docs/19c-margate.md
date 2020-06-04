@@ -16,7 +16,7 @@ The ‘modesty hood’, designed to screen naked bathers as they descended the s
 ©The British Library Board c11802-06 / Maps K.Top.17.4.e.
 
 
-In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive’[^ref1]
+In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive.’[^ref1]
 
 The light along this stretch of coast was famously applauded by the painter [[J. M. W. Turner]], who painted a number of pictures in and of the town.
 
