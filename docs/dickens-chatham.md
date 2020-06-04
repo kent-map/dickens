@@ -6,7 +6,7 @@
 toy-like appearance, and the one red-coated sentry on duty over them was a mere toy figure, with a clockwork movement. As the hot sunlight sparkled on him he might have passed for the identical little man who had the little gun, and whose bullets they were made of lead, lead, lead.’ ‘The Uncommercial Traveller’. _All the Year Round_. 29 August 1863.
 
 <p align="center">
-  <img src="images/ChathamDockyard1832.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/ChathamDockyard1832.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> </span>
 </p>
 
