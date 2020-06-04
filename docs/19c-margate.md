@@ -8,7 +8,11 @@
 
 The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable Royal Sea Bathing Infirmary in 1792 for the treatment of scrofula. http://glorious-and-unknown.co.uk/margate-royal-sea-bathing-infirmary/ In 1820 writer Walley Chamberlain Oulton noted that due to the salubrious air ‘The temperate islander may be frequently seen, at the age of ninety, performing his domestic functions with all the activity and bustle of youth.’  https://books.google.com.gh/books?id=ExEHAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false
 
-[[File:Margatefromtheparade.jpg]]
+<p align="center">
+  <img src="images/Margatefromtheparade.JPG" style="width:100%; max-width:700px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> </span>
+</p>
+
 
 ©The British Library Board c11802-06 / Maps K.Top.17.4.e.
 
