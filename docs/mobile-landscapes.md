@@ -260,7 +260,7 @@ Allbutt, R. (1886) _Rambles in Dickens land_
 
 Helliar, A. (1924) _A Most strange and curious guide to Broadstairs_. 
 
-Hughes, W. (1893) _A week's tramp in Dickens land, [first published 1891]
+Hughes, W. (1893) _A week's tramp in Dickens land_, [first published 1891]
 
 Kitton, F. (1925) _The Dickens Country_ London: A. C. Black, [first published 1905]
 
