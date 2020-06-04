@@ -6,8 +6,7 @@
 
 ©The British Library Board maps_k_top_17_4_d
 
-The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable [Royal Sea Bathing Infirmary](http://glorious-and-unknown.co.uk/margate-royal-sea-bathing-infirmary/) in 1792 for the treatment of scrofula. In 1820 writer Walley Chamberlain Oulton noted that due to the salubrious air ‘The temperate islander may be frequently seen, at the age of ninety, performing his domestic functions with all the activity and bustle of youth.’  https://books.google.com.gh/books?id=ExEHAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false
-
+The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable [Royal Sea Bathing Infirmary](http://glorious-and-unknown.co.uk/margate-royal-sea-bathing-infirmary/) in 1792 for the treatment of scrofula. In 1820 writer Walley Chamberlain Oulton noted that due to the salubrious air ‘The temperate islander may be frequently seen, at the age of ninety, performing his domestic functions with all the activity and bustle of youth.’ 
 <p align="center">
   <img src="images/Margatefromtheparade.JPG" style="width:100%; max-width:700px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> </span>
@@ -17,7 +16,7 @@ The ‘modesty hood’, designed to screen naked bathers as they descended the s
 ©The British Library Board c11802-06 / Maps K.Top.17.4.e.
 
 
-In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive’.1.  
+In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive’ 
 
 The light along this stretch of coast was famously applauded by the painter [[J. M. W. Turner]], who painted a number of pictures in and of the town.
 
@@ -47,8 +46,11 @@ This ambivalence is brilliantly captured by 20th century author Pamela Wynne, wh
 
 Dickens, Charles. ‘The Tuggses at Ramsgate’. Dickens’ Journalism. _Sketches by Boz and Other Early Papers 1833-39_. Ed Michael Slater. 327-344.
 
-Oulton, Walley Chamberlain. _A Picture of Margate and Its Vicinity_. First published 1820.
+Oulton, Walley Chamberlain. [_A Picture of Margate and Its Vicinity_.](https://books.google.com.gh/books?id=ExEHAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false) First published 1820.
 
 Surtees, R. S. ''Jorrocks’s Jaunts and Jollities.'' London Routledge: 1838 [1869 edition]. Chapter on ‘Aquatics: Mr Jorrocks at Margate’ 113-42.
 
 Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.
+
+
+
