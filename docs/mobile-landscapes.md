@@ -7,6 +7,8 @@
 
 ## Mobile Landscapes: Finding Kent Dickensian in David Copperfield and Great Expectations
 
+"Ken Moffat and Carolyn W. de la L. Oulton"
+
 ### Welcome to Dickens Land!
 
 <div align="center" style="float:left; margin: 24px 18px 6px 0px;">
