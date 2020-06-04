@@ -15,7 +15,11 @@ Invented by John Loudon McAdam, this was a type of road surface that consisted o
 
 Developments to improve the original invention were to mix water and rock dust, then use it to bind McAdam roads; they would become firmer and less of a problem during extremes of weather or if coal tar was used as a binder it would later improve further. It would take a while to perfect these recipes using resins and other materials (Tar-McAdam or tarmac). Perhaps to us the most surprising was asphalt (bitumen) as a road development, but a reasonably well travelled Victorian might not be surprised at the roads we use today, while many promenades in the 1850s would seem familiar today. Currently we do not know the exact stretches of the [Dover Road](/david-copperfield-dover-road) that might be cob, track or McAdam variants. But due to the previous turnpike system it is a sure bet that they were a mix, especially considering the corruption exposed by McAdam during his career. 
 
-[[File:Macadam.jpg]]
+<p align="center">
+  <img src="images/Macadam.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> </span>
+</p>
+
 
 Photograph of Macadam Road, Nicolaus, 1850S. https://calisphere.org/item/ark:/13030/kt9t1nd641/. Sutter County Library.
 
