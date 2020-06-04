@@ -8,15 +8,12 @@ Like [Ramsgate] Dover considered itself to be among the more genteel of the 19th
 <p align="center">
   <img src="images/DoverfromShakespearsCliff.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Dover from Shakespeare Clife</span>
-</p>
-©The British Library Board c13874-63.
+</p>©The British Library Board c13874-63.
 
 <p align="center">
   <img src="images/FortAmherst.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Fort Amherst [sic] actually Archcliff Fort</span>
-</p>
-
-©The British Library Board maps_k_top_16_48_g
+</p>©The British Library Board maps_k_top_16_48_g
 
 The town had survived many threats over the course of centuries, but it is worth remembering that for all the historic ecstasies offered in guidebooks of the time:
 
