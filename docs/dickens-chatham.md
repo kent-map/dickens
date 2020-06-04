@@ -7,7 +7,7 @@ toy-like appearance, and the one red-coated sentry on duty over them was a mere 
 
 <p align="center">
   <img src="images/ChathamDockyard1832.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> </span>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Chatham Dock Yard, Kent" engraved by R.Roffe after a drawing by G.Shepherd, published in W.H.Ireland's The County of Kent, 1832. </span>
 </p>
 
 
