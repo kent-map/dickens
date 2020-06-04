@@ -19,17 +19,17 @@ But entertainments and distractions that might have attracted day trippers and h
 
 With characteristic irreverence, [[Jerome K. Jerome]] portrays the Leas as a setting for casual encounters of the kind that would have horrified its aristocratic vistors. In his account however it is not the morals of young women but the fate of his own bicycle that is to be lamented.
 
-1.Clunn 303.
+<^ref1> Clunn 303.
 
-2 Grandfield 67.
+<^ref2> Grandfield 67.
 
-3 Arnold 72.
+<^ref3> Arnold 72.
 
-4 ‘A Domestic Experiment’ 17.
+<^ref4> ‘A Domestic Experiment’ 17.
 
-5. Arnold 72.
+<^ref5> Arnold 72.
 
-6. ‘The Kaleidoscope’. 15 August 1888. 
+<^ref6> ‘The Kaleidoscope’. 15 August 1888. 
 
 
 
