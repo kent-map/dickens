@@ -43,12 +43,12 @@ This ambivalence is brilliantly captured by 20th century author Pamela Wynne, wh
  2. Love in a Mist. 101.
 
 
-'''Bibliography
+### Bibliography
 
-Dickens, Charles. ‘The Tuggses at Ramsgate’. Dickens’ Journalism. ''Sketches by Boz and Other Early Papers 1833-39''. Ed Michael Slater. 327-344.
+Dickens, Charles. ‘The Tuggses at Ramsgate’. Dickens’ Journalism. _Sketches by Boz and Other Early Papers 1833-39_. Ed Michael Slater. 327-344.
 
-Oulton, Walley Chamberlain. ''A Picture of Margate and Its Vicinity.'' First published 1820.
+Oulton, Walley Chamberlain. _A Picture of Margate and Its Vicinity_. First published 1820.
 
 Surtees, R. S. ''Jorrocks’s Jaunts and Jollities.'' London Routledge: 1838 [1869 edition]. Chapter on ‘Aquatics: Mr Jorrocks at Margate’ 113-42.
 
-Wynne, Pamela. ''Love in a Mist.'' London: Philip Allen & Co., 1932.
+Wynne, Pamela. _Love in a Mist_. London: Philip Allen & Co., 1932.
