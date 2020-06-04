@@ -5,7 +5,7 @@
 
 '''Abstract
 
-Eastgate House is the original of the Nun’s House in _The Mystery of Edwin Drood_, the ladies’ seminary attended by Rosa Budd. Like the '''Blue Boar''' and [Restoration House](/ great-expectations-restoration-house)
+Eastgate House is the original of the Nun’s House in _The Mystery of Edwin Drood_, the ladies’ seminary attended by Rosa Budd. Like the '''Blue Boar''' and [Restoration House](/great-expectations-restoration-house)
 
 [Restoration House](/ great-expectations-restoration-house), Satis House in _Great Expectations_, its homely associations are belied by the vulnerability of the young Rosa when the school is infiltrated by an unscrupulous man.
 
