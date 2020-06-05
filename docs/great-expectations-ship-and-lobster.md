@@ -1,6 +1,7 @@
 # The Ship and Lobster
 
-The Ship and Lobster in Gravesend is the most likely prototype of ‘The Ship’ where Magwitch spends his last night of freedom in _Great Expectations_.
+The Ship and Lobster in Gravesend is the most likely prototype of ‘The Ship’ where Magwitch spends his last night of freedom in _Great Expectations_. The lonely location and position on a wharf render it ideal for hiding a returned convict, and the setting invokes the first meeting of the characters in a lonely and desolate location. 
+
 
 
 >‘Leaving the rest in the boat, I stepped ashore, and found the light to be in a window of a public-house. It was a dirty place enough, and I dare say not unknown to smuggling adventures; but there was a good fire in the kitchen, and there were eggs and bacon to eat, and various liquors to drink. Also, there were two double-bedded rooms – “such as they were”, the landlord said. No other company was in the house than the landlord, his wife, and a grizzled male creature, the “Jack” of the little causeway, who was as slimy and smeary as if he had been at low-water mark too.’ _Great Expectations_.
@@ -10,9 +11,7 @@ The Ship and Lobster in Gravesend is the most likely prototype of ‘The Ship’
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Ship and Lobster © Ken Moffat</span>
 </p>
 
-## Abstract
 
-In his flight from London Magwitch stops with Pip at an inn with the sign of ‘the Ship’. The lonely location and position on a wharf render it ideal for hiding a returned convict, and the setting invokes the first meeting of the characters in a lonely and desolate location. 
 
 
 Dickens’s _Great Expectations_, like _David Copperfield_, is believed to be set in the 1820s in the last years of the Bloody Code. The brutality of this legal system had reached a peak around 1800, at around the time when Magwitch would have become involved with Compeyson and committed his first serious crime. Although a new Act of 1823 reduced executions from 2000 to 50, as a returned convict Magwitch would still have rendered himself liable to public execution. Having declared himself to Pip, the plan is for him to escape down the river from London to Kent and from there to take ship for Holland. But he is hunted down by his old enemy Compeyson just as he is being rowed down the Thames by Pip and his friends. 
