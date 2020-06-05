@@ -244,6 +244,7 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like _David Copperfield_ before us, made our way back towards the [Dover Road](/david-copperfield-dover-road).
 
 
+
 ## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
 So – as any teacher worth their salt would want to be assured – what did we actually learn from this experience? Well for one thing, that neither of us has missed our vocation in the car industry. 
