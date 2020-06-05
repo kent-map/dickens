@@ -21,7 +21,7 @@ In the early 19th century visitors would have arrived by hoy boat, although this
 The light along this stretch of coast was famously applauded by the painter [[J. M. W. Turner]], who painted a number of pictures in and of the town.
 
 <p align="center">
-  <img src="images/ DistantMargate.jpg" style="width:100%; max-width:700px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <img src="images/distantMargate.jpg" style="width:100%; max-width:700px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> </span>
 </p>
 
