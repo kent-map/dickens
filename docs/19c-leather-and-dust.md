@@ -1,5 +1,5 @@
 
-David Copperfield's [curated walk](Kent:Dickens/David_Copperfield/Curated walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
+David Copperfield's [curated_walk](Kent:Dickens/David_Copperfield/Curated walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
 
 [Sights, Sounds and Smells](/https://vimeo.com/408543370/5eccb2722a)
 
