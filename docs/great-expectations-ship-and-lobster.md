@@ -10,7 +10,6 @@ The Ship and Lobster in Gravesend is the most likely prototype of ‘The Ship’
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Ship and Lobster © Ken Moffat</span>
 </p>
 
-## Abstract
 
 In his flight from London Magwitch stops with Pip at an inn with the sign of ‘the Ship’. The lonely location and position on a wharf render it ideal for hiding a returned convict, and the setting invokes the first meeting of the characters in a lonely and desolate location. 
 
