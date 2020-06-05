@@ -58,7 +58,7 @@ The museum parlour is a complete reconstruction of the room where David is rando
 
 It is a far cry from the grandeur of [Fort House](/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins](/collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
 
-We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [_singing_](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
+singingWe had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [_singing_](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
 
 
 ## Canterbury
