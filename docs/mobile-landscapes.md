@@ -85,7 +85,7 @@ Spot which one of us went to boarding school as a child (bath nights Wednesday a
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 
-_[Canterbury](/dickens-canterbury) and Charles Dickens'_, which could have told us that the whole idea was ‘absurd’.
+_[Canterbury](/dickens-canterbury) and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 
@@ -94,17 +94,16 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 
 
-(In which we don’t go to) [Folkestone](/dickens-folkestone)
+###  (In which we don’t go to) [Folkestone](/dickens-folkestone)
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. Jerome’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is Broadstairs, been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of Folkestone. Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 
-_Great Expectations Part 1_
 
 [Great Expectations: A curated walk](/great-expectations-curated-walk)
 
 ## Chalk
 
-In [Broadstairs](/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens-dover), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
+In [Broadstairs](/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens-dover) ), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
  
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
 
@@ -150,7 +149,7 @@ The temporal gap between lunch at the [Ship and Lobster](/great-expectations-shi
 
 ## Great Expectations Part 2. Rochester.
 
-As so often in Dickens, Magwitch’s sousing in the [[River Medway]] CO TO RS: NOT SHOWING AS LINK carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
+As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
 
@@ -199,8 +198,7 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 
 <p align="center">
   <img src="images/Gadshill In Dickens Land.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill In Dickens Land</span>
-</p>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill In Dickens Land</span></p>
 
 Honestly. Parents.
 
@@ -214,16 +212,6 @@ If you really feel that your child is destined to become one of the country’s 
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 
-
-<p align="center">
-  <img src="images/Gads1864067463.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1864</span> © The British Library Board Maps 67463</p>
-
-
-
-
-
-
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 
 > You’re a head teacher. If we’re caught that will make it all right.
@@ -235,6 +223,20 @@ To repeat. It was half term. The school was very much closed. Memories of an unf
 > No you couldn’t.
 
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
+
+
+
+<p align="center">
+  <img src="images/Gads1864067463.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1864</span> 
+     
+     © The British Library Board Maps 67463</p>
+
+
+
+
+
+
 
 
 
