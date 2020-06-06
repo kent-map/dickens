@@ -18,7 +18,7 @@ The ‘modesty hood’, designed to screen naked bathers as they descended the s
 
 In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive.’[^ref1]
 
-The light along this stretch of coast was famously applauded by the painter [[J. M. W. Turner]], who painted a number of pictures in and of the town.
+The light along this stretch of coast was famously applauded by the painter J. M. W. Turner, who painted a number of pictures in and of the town.
 
 <p align="center">
   <img src="images/distantMargate.jpg" style="width:100%; max-width:700px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
