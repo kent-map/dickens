@@ -10,10 +10,6 @@ A stout country lad opened a door at the end of the passage, and the three frien
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Leather Bottle http://www.victorianweb.org/painting/haslehust/27.html Scan by Philip V. Allingham. </span>
 </p>
 
-## Abstract
-
-The Leather Bottle in Cobham features in Dickens’s first serial novel _The Pickwick Papers_ and remains a self-consciously Dickensian inn replete with framed illustrations and memorabilia, what Frederick Kitton called in 1905 ‘a veritable Dickens museum’. It became an attractive landmark of the ‘Dickens Country’ enjoyed by literary pilgrims after his death.
-
 A few miles away from Dickens’s final home [Gad's Hill](/dickens-gads-hill), the [Leather Bottle](http://www.theleatherbottle.pub/) in Cobham  is a mediaeval timbered building described in _The Pickwick Papers_ as ‘a clean and commodious village ale-house’. After the novelist’s death it became one of the more attractive landmarks of Kentish ‘Dickens Country’ or ‘Dickens Land’, the area associated with Dickens and his characters. From the 1880s onwards a number of guides promoted this topography to literary tourists, urging them by the early twentieth century to walk or cycle in the fresh air for the sake of their health while literally seeing what Dickens had seen before them. 
 
 
