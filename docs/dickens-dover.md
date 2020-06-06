@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="images/Dover postcard.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'I was sitting on the step of an empty shop at a street corner, near the market-place' - _David Copperfield_</span>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'I was sitting on the step of an empty shop at a street corner, near the market-place' - David Copperfield</span>
 </p>
 
 Dickens stayed in Dover (near [Deal](/dickens-deal) on a number of occasions while travelling from London to the continent and he includes it in both _David Copperfield_ and _Little Dorrit_. During one visit to the town even Dickens suffered from writer’s block – sometimes known as procrastination, as he makes clear in an article of 1856.
