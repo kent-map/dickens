@@ -10,10 +10,6 @@ _David Copperfield_
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn, Dickens Land</span>
 </p>
 
-## Abstract
-When the eponymous David Copperfield makes his journey on foot to Dover, his route takes him through Canterbury. He will soon revisit the city under very different conditions, as the guest of Mr Wickfield and a pupil at Dr Strong’s school (based on the King’s School).
-
-
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.,<^ref1>
   
