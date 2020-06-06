@@ -7,10 +7,6 @@
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Reproduced from an original F. Frith & Co postcard.</span>
 </p>
 
-## Abstract
-The Guildhall in Rochester High Street is the setting for a pivotal scene in Great Expectations, where Pip is bound to Joe as his apprentice. Pip’s feelings of vulnerability and shame anticipate are rewritten in the later scene when he accompanies Magwitch to his criminal trial in London.
-
-
 The Guild Hall in Rochester dates back to 1787. An imposing building, it is little wonder that Pip finds it intimidating  when his apprenticeship to Joe is formalised here in _Great Expectations_. His being ‘bound’ to particular characters and places, often against his will, is one of the keynotes of the novel. Ironic connections between himself and Magwitch infiltrate the scene, as a resentful Pip uses images of arrest and incarceration to depict his resignation to becoming a blacksmith:
 
 The Justices were sitting in the Town Hall near at hand, and we at once went over to have me bound apprentice to Joe in the Magisterial presence. I say, we went over, but I was pushed over by Pumblechook, exactly as if I had that moment picked a pocket or fired a rick; indeed, it was the general impression in Court that I had been taken red-handed, for, as Pumblechook shoved me before him through the crowd, I heard some people say, "What's he done?" and others, "He's a young 'un, too, but looks bad, don't he?” One person of mild and benevolent aspect even gave me a tract ornamented with a woodcut of a malevolent young man fitted up with a perfect sausage-shop of fetters, and entitled, TO BE READ IN MY CELL.’
