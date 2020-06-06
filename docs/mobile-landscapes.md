@@ -38,7 +38,7 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 >
 > Dickensed it of course.
 
-What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
+What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to [Broadstairs], it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
 ### David Copperfield
 
@@ -169,7 +169,7 @@ A child on the opposite bench clearly didn’t care what he called them and went
 'And what coarse hands he has! And what thick boots!’ 
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 
-It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/great-expectations-guildhall) (now a [_museum_](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
+It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
 
 Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](/edwin-drood-eastgate-house)) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët. 
 ‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’
