@@ -1,7 +1,7 @@
 # Ramsgate: Albion House 
 Links https://historicengland.org.uk/listing/the-list/list-entry/1085418 https://archive.historicengland.org.uk/SingleResult/Default.aspx?id=390346&t=Quick&l=all&cr=Albion+++ramsgate&io=False
 
-**Events with dates:** 29 Sept 1835 – 11th Jan 1836
+**Events:** 29 Sept 1835 – 11th Jan 1836
 
 **Places:** St Lawrence [Laurence] Church, Ramsgate Pier, Piermont House Broadstairs, Canterbury Cathedral
 
