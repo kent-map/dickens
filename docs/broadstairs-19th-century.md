@@ -23,8 +23,8 @@ The 1880 ‘[seaside](/19c-seaside) number’ of Bow Bells Novelettes did its be
 
 <p align="center">
   <img src="images/AlfredCapper.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">AlfredCapper</span>
-</p>©The British Library Board c02908-08 / Evan.2795.
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Alfred Capper ©The British Library Board c02908-08 / Evan.2795.</span>
+</p>
 
 
 
