@@ -3,13 +3,9 @@
 
 <p align="center">
   <img src="images/c13874-68 Broadstairs.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> c13874-68Broadstairs</span>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> ©The British Library Boardc13874-68 Broadstairs.</span>
 </p>
  
-
-©The British Library Boardc13874-68 Broadstairs.
-
-
 
 Despite being the favoured holiday destination of no less a figure than Charles [Dickens](Dickens), [Broadstairs](/broadstairs) never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate. In 1831 the teengage diarist [Emily Shore](Emily_Shore) recorded her mother's obvious disappointment at the lsack of social amenities and for most of the century it kept out less elegant tourists by the simple expedient of ‘failing to provide facilities which would attract them – no public amusements or music halls. Just a small circulating library with old-fashioned assembly room attached, calculated to attract a steady flow of quiet respectable visitors.’  One journalist commented with patronising approval in 1864 that ‘Broadstairs is a quaint old place, and its inhabitants are still very primitive.’  An 1885 volume on ''How We Did Without Lodgings at the [Seaside](/19c-seaside)'' charts the successful efforts of a family in straitened circumstances to fend for themselves in a rented house in Broadstairs, a feat which the writer claims would have been impossible in a more fashionable resort such as Brighton. 
 
