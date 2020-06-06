@@ -13,17 +13,17 @@ But entertainments and distractions that might have attracted day trippers and h
 
 With characteristic irreverence, [[Jerome K. Jerome]] portrays the Leas as a setting for casual encounters of the kind that would have horrified its aristocratic vistors. In his account however it is not the morals of young women but the fate of his own bicycle that is to be lamented.
 
-<^ref1> Clunn 303.
+[^ref1]: Clunn 303.
 
-<^ref2> Grandfield 67.
+[^ref2]: Grandfield 67.
 
-<^ref3> Arnold 72.
+[^ref3]: Arnold 72.
 
-<^ref4> ‘A Domestic Experiment’ 17.
+[^ref4]: ‘A Domestic Experiment’ 17.
 
-<^ref5> Arnold 72.
+[^ref5]: Arnold 72.
 
-<^ref6> ‘The Kaleidoscope’. 15 August 1888. 
+[^ref6]: ‘The Kaleidoscope’. 15 August 1888. 
 
 
 
@@ -37,6 +37,6 @@ Clunn, Harold. _Famous South Coast Pleasure Resorts Past and Present_. London: T
 
 Grandfield, Yvette F. ‘The development of the seaside resort and the striving for `social tone', 1850-1899, with a particular examination of Margate and Folkestone : dissertation submitted in part fulfilment of the requirements for the degree of Master of Arts of the University of Kent at Canterbury’. (1994).
 
-_The Kaleidoscope_.  15 August 1888. ''Holbein Visitors’ List and Folkestone Journal. '' 1.
+_The Kaleidoscope_.  15 August 1888. _Holbein Visitors’ List and Folkestone Journal._ 1.
 
-Rever, J. C. ‘A domestic experiment’. 19 September 1888. ''Holbein Visitors’ List and Folkestone Journal. '' 17-18.
+Rever, J. C. ‘A domestic experiment’. 19 September 1888. _Holbein Visitors’ List and Folkestone Journal._ 17-18.
