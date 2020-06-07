@@ -18,7 +18,7 @@ The ‘modesty hood’, designed to screen naked bathers as they descended the s
 
 In the early 19th century visitors would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. On arrival from London visitors landed at Jarvis’ Landing Place (erected in 1824), where they might well feel bewildered by ‘the kissings of husbands and wives, the greetings of fathers and sons, the officiousness of porters, the calls of bathing-women, the programmes of librarians, and the rush and push of the inquisitive.’[^ref1]
 
-The light along this stretch of coast was famously applauded by the painter [[J. M. W. Turner]], who painted a number of pictures in and of the town.
+The light along this stretch of coast was famously applauded by the painter J. M. W. Turner, who painted a number of pictures in and of the town.
 
 <p align="center">
   <img src="images/distantMargate.jpg" style="width:100%; max-width:700px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
@@ -30,7 +30,7 @@ Joseph Mallord William Turner, ‘A Distant View of Margate After Sunset’, c.1
 
 
 
-Margate Sands railway station opened in 1846 and Margate West followed in 1863, although ironically the creation of more efficient transport links jeopardised the respectable status of the town as a [[seaside]] resort by making it accessible to a lower class of visitor. As early as 1837, when [[Dickens]]’s Tuggs family come into money they refuse to visit the town on the grounds that there is ‘nobody there, but tradespeople.’  https://www.youtube.com/watch?v=74-HBaXX280 When [[Dante and Christina Rossetti]] visited Kent in 1882 in an abortive attempt to restore the former's health, they went not to Margate but to nearby Birchington.
+Margate Sands railway station opened in 1846 and Margate West followed in 1863, although ironically the creation of more efficient transport links jeopardised the respectable status of the town as a [[seaside]] resort by making it accessible to a lower class of visitor. As early as 1837, when [Dickens](Dickens)’s Tuggs family come into money they refuse to visit the town on the grounds that there is ‘nobody there, but tradespeople.’  https://www.youtube.com/watch?v=74-HBaXX280 When [Dante and Christina Rossetti](Dante_Christina_Rossetti) visited Kent in 1882 in an abortive attempt to restore the former's health, they went not to Margate but to nearby Birchington.
 
 By the end of the century Margate itself had seemingly embraced its populist reputation. The establishment of ‘Lord’ George Sanger’s [Hall by the Sea](http://glorious-and-unknown.co.uk/margate-hall-by-the-sea/) (the origin of Dreamland) https://www.youtube.com/watch?v=461nK7mazNo in the disused Margate Sands railway station in 1874 signalled an investment in entertainment for the masses, at the very time that resorts such as [Folkestone](/19c-folkestone) were insisting on their exclusivity and gentility. 
 

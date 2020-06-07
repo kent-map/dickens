@@ -38,13 +38,13 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 >
 > Dickensed it of course.
 
-What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
+What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to [Broadstairs], it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
 ### David Copperfield
 
 What we are calling [David Copperfield: a curated walk](/david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs.](/broadstairs)
 
-We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](/dickens-fort-house), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](/dickens-Nuckells-place)  (it’s meant to be in [Dover](/dickens-dover), but who’s counting?) - but why a later owner reinvented Fort House as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
+We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](/dickens-fort-house), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](/dickens-Nuckells-place)  (it’s meant to be in [Dover](/dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House](/dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
  
 All three buildings are within sight of each other, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.' https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm (Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 
@@ -58,7 +58,7 @@ The museum parlour is a complete reconstruction of the room where David is rando
 
 It is a far cry from the grandeur of [Fort House](/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins](/collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
 
-We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [_singing_](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
+We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
 
 
 ## Canterbury
@@ -85,7 +85,7 @@ Spot which one of us went to boarding school as a child (bath nights Wednesday a
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 
-_[Canterbury](/dickens-canterbury) and Charles Dickens''_, which could have told us that the whole idea was ‘absurd’.
+_[Canterbury](/dickens-canterbury) and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 
@@ -94,17 +94,16 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 
 
-(In which we don’t go to) [Folkestone](/dickens-folkestone)
+###  (In which we don’t go to) [Folkestone](/dickens-folkestone)
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. Jerome’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is Broadstairs, been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of Folkestone. Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 
-_Great Expectations Part 1_
 
 [Great Expectations: A curated walk](/great-expectations-curated-walk)
 
 ## Chalk
 
-In [Broadstairs](/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens-dover), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
+In [Broadstairs](/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens-dover) ), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
  
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
 
@@ -150,7 +149,7 @@ The temporal gap between lunch at the [Ship and Lobster](/great-expectations-shi
 
 ## Great Expectations Part 2. Rochester.
 
-As so often in Dickens, Magwitch’s sousing in the [[River Medway]] CO TO RS: NOT SHOWING AS LINK carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
+As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday. 
 
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
 
@@ -170,7 +169,7 @@ A child on the opposite bench clearly didn’t care what he called them and went
 'And what coarse hands he has! And what thick boots!’ 
 Pip detected guiltily looking at his feet. Distracted glance in our direction from mother of still indifferent child. Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 
-It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/great-expectations-guildhall) (now a [_museum_](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
+It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
 
 Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](/edwin-drood-eastgate-house)) beloved of Rosa Budd in _The Mystery of Edwin Drood_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët. 
 ‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’
@@ -199,8 +198,7 @@ And then we got lost again, but at least Estella wasn’t there to see it.
 
 <p align="center">
   <img src="images/Gadshill In Dickens Land.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill In Dickens Land</span>
-</p>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill In Dickens Land</span></p>
 
 Honestly. Parents.
 
@@ -215,13 +213,11 @@ If you really feel that your child is destined to become one of the country’s 
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 
 
+
 <p align="center">
-  <img src="images/Gads1864067463.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1864</span> © The British Library Board Maps 67463</p>
-
-
-
-
+  <img src="images/CDMamieKatie.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"></span>    
+     </p>
 
 
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
@@ -238,8 +234,21 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 
 
 
+<p align="center">
+  <img src="images/Gads1864067463.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1866</span>©The British Library Board Maps 67463    
+     </p>
+
+
+
+
+
+
+
+
 
 Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like _David Copperfield_ before us, made our way back towards the [Dover Road](/david-copperfield-dover-road).
+
 
 
 ## Conclusion: in which we justify all this gadding about by insisting that it was serious work.

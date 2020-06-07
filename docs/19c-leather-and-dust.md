@@ -1,5 +1,5 @@
 
-David Copperfield's [Kent:Dickens/David Copperfield/Curated walk] can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
+David Copperfield's [curated walk](David_Copperfield_Curated_walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can smell as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
 
 [Sights, Sounds and Smells](/https://vimeo.com/408543370/5eccb2722a)
 
@@ -37,7 +37,7 @@ From the original illustrations we can see David’s footwear is smooth soled an
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"> </span>
 </p>
 
-The leather in shoes and manufacturing processes would be familiar today. Major differences are the glues and synthetic sole compounds. Victorian soles were mostly leather, construction of sole the attachment might have been either furrow stitched (where you cut a furrow in the sole and the stiches would be inlaid, as shoes wear it’s normally the middle of the sole first) and the finish was variable. Soles were nailed on or sometimes tunnel stitched, and with work or walking boots there would be the addition of hobnails and cleats (like small horseshoes for people’s shoes). Hobs were not found in shoes used for town or house. IMAGE OF CHILD’S SHOES David’s shoes seem likely to be of the type shown here, the heel not much more than layers of nailed or glued leather. No wonder they fell apart and gave him blisters!
+The leather in shoes and manufacturing processes would be familiar today. Major differences are the glues and synthetic sole compounds. Victorian soles were mostly leather, construction of sole the attachment might have been either furrow stitched (where you cut a furrow in the sole and the stiches would be inlaid, as shoes wear it’s normally the middle of the sole first) and the finish was variable. Soles were nailed on or sometimes tunnel stitched, and with work or walking boots there would be the addition of hobnails and cleats (like small horseshoes for people’s shoes). Hobs were not found in shoes used for town or house. David’s shoes seem likely to be of the type shown here [AWAITING COPYRIGHT CLEARANCE], the heel not much more than layers of nailed or glued leather. No wonder they fell apart and gave him blisters!
 
 
 ### Bibliography:

@@ -11,10 +11,6 @@
 
 >‘Kent, Sir – Every body knows Kent – apples, cherries, hops, and women.’ _The Pickwick Papers_.
 
-## Abstract
-Born in Portsmouth in 1912, Dickens spent much of his childhood in [Chatham](/dickens-chatham) and later spent holidays in [Broadstairs](/broadstairs) and [Folkestone](/dickens-folkestone), before returning to Kent after buying [Gad's Hill](/dickens-gads-hill) Place near Rochester in 1856. After his death a number of guides to Dickens Country or Dickens Land appeared. 
-
-
 Often seen as the greatest of the Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822 when his father was working in the Naval Pay Office at [Chatham Dockyard](/dickens/chatham), and again from 1856 to his death in 1870 (at [Gad’s Hill](/dickens-gads-hill), Higham). He spent many summers in [Broadstairs](/Broadstairs) 
 (‘Our Watering Place’) in the 1840s and 1850s, and also wrote affectionately about [Folkestone], (thinly disguised as 'Pavilionstone'), ''where he composed the opening scenes of _Little Dorrit_. _The Pickwick Papers_, published in instalments in 1836-37, recalls the pre-Victorian Kent of Dickens’s childhood, where coaching inns have not been displaced by railways and the practice of duelling can be invoked as a plausible plot device. _A Tale of Two Cities_ (1859), goes further back still, as Jarvis Lorry travels by coach down the '''Dover Road''' on his way to revolutionary Paris.
 

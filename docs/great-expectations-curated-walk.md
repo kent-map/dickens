@@ -32,7 +32,7 @@
 <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808">
 <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904">
 
-## Great Expections - a curated walk
+## Great Expectations - a curated walk
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <param ve-map-layer geojson active url="geojson/dickensland.json" title="Dickensland" fill-opacity="0.2">
