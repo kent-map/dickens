@@ -7,7 +7,9 @@ David Copperfield gives his readers a detailed itinerary [David Copperfield Cura
 
 This part of the Dover Road has been established for quite some time; a well-travelled route it carried trade and workers from the coast to the cities on route to London. To develop a sense of its age, direction, and personality the first point of reference might be maps. 
 
-[[File:Speed.jpg]]
+  <img src="images/Speed.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">.</span>
+
 
 John Speed's England : a coloured facsimile of the maps and text from the theatre of the Empire of Great Britaine, first edition, 1611 / Pt. 2, Kent, Sussex, Surrey, Berkshire, Middlesex, Essex, Suffolk, Norfolk, Hertfordshire, Buckinghamshire. John Arlott, ed. Pheonix, 1953.
  
