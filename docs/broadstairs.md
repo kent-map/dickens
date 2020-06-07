@@ -15,9 +15,6 @@
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Early 20C postcard showing the view from Bleak House</span>
 </p>
 
-## Abstract
-Dickens holidayed in [Broadstairs](/broadstairs-19th-century) regularly between 1837 and 1851. While ‘organs, fiddles, bells, or glee-singers’ could be distracting and the [Goodwin Sands](/david-copperfield-goodwin-sands) were perilous in bad weather, he wrote in 1849 ‘I am still of opinion that Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. 
-
 Dickens was born in Portsmouth in 1812, before his father’s appointment to a post at the [Chatham](/dickens-chatham) Dockyard in 1816. While he spent most of his adult life in London, he was always drawn back to the coast, and in his many letters describing holidays in Kent with his growing family he is notably less interested in historic [Canterbury](/19c-canterbury) than in the sea, which he called ‘that old image of Eternity that I love so much’.[^ref1]: Despite the street music Dickens spent more holidays here than in any other place, enthusing in 1849 that ‘Broadstairs beats all watering places into what the Americans call “sky-blue fits”’. [Broadstairs](/broadstairs-19th-century) is affectionately described as ‘Our Watering Place’ in an 1851 article in [_Household Words._](http://www.djo.org.uk/household-words/volume-iii/page-433.html) 
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 

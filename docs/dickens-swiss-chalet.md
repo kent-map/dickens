@@ -10,7 +10,7 @@
 </p>
 
 
-Given to Dickens by his actor friend Charles Fechter for Christmas 1864, the two-storey wooden chalet was originally positioned at one end of an underground tunnel leading from Gad’s Hill to a small field on the other side of the road outside the house. Dickens wrote the last words of _Edwin Drood_ here.
+Given to Dickens by his actor friend Charles Fechter for Christmas 1864, the two-storey wooden chalet was originally positioned at one end of an underground tunnel leading from [Gad's Hill](/dickens-gads-hill) to a small field on the other side of the road outside the house. Dickens wrote the last words of _Edwin Drood_ here.
 
 
 Summer houses of various kinds featured prominently in the Victorian imagination in much the same way as they do today. In _David Copperfield_ the young David and Dora have their first conversation alone (but for Dora’s dog Jip) in a greenhouse, and David comments that ‘The scent of a geranium leaf, at this day, strikes me with a half comical half serious wonder as to what change has come over me in a moment; and then I see a straw hat and blue ribbons, and a quantity of curls, and a little black dog being held up, in two slender arms, against a bank of blossoms and bright leaves.’[^ref2] In Wilkie Collins's _The Woman in White_ takes Walter Hartright to a summer house for his first sight of Laura Fairlie, with whom he instantly falls in love.
