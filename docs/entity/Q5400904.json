@@ -1,0 +1,10 @@
+{
+    "label": "Estella",
+    "description": "character in the Charles Dickens novel \\“Great Expectations\\”",
+    "aliases": [
+        "Estella Havisham",
+        "Estella Drummle"
+    ],
+    "extends": "wd:Q5400904",
+    "described at URL": "http://kent-maps.github.io/dickens/estella.md"
+}
