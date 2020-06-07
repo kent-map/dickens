@@ -14,7 +14,10 @@ This part of the Dover Road has been established for quite some time; a well-tra
 John Speed's England : a coloured facsimile of the maps and text from the theatre of the Empire of Great Britaine, first edition, 1611 / Pt. 2, Kent, Sussex, Surrey, Berkshire, Middlesex, Essex, Suffolk, Norfolk, Hertfordshire, Buckinghamshire. John Arlott, ed. Pheonix, 1953.
  
 
-[[File:Moule1837.jpg]]
+<p align="center">
+  <img src="images/Moule.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">.</span>
+
 
 
 Moule's County Maps: the East and South-East of England. Bracken Books, 1994.
