@@ -23,7 +23,10 @@ John Speed's England : a coloured facsimile of the maps and text from the theatr
 Moule's County Maps: the East and South-East of England. Bracken Books, 1994.
 
 
-[[File:OS1873.jpg]]
+<p align="center">
+  <img src="images/OS1873.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">.</span>
+
 
 O.S. map of Kent 1873. Reproduced with the permission of the National Library of Scotland.
 
