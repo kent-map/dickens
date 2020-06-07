@@ -2,10 +2,12 @@
 
 
 IMAGE: MARGATE FROM THE PARADE
+
 <p align="center">
-  <img src="images/ Margatefromtheparade.JPG" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">©The British Library Board c11802-06 / Maps K.Top.17.4.e.
-</span>
+  <img src="images/Margatefromtheparade.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">.</span>
+
+
 
 
 
