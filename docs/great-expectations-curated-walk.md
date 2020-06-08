@@ -8,6 +8,7 @@
 <param title="Charles Dickens" eid="Q5686">
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
 <param title="Chatham" eid="Q729006">
+<param title="Cooling Marshes" geojson="geojson/marshes.json" article="Cooling_marshes">
 <param title="Cooling" eid="Q2649453">
 <param title="Compeyson" eid="Q5156367" article="Compeyson">
 <param title="Dover Road" geojson="david-copperfield-dover-road">
