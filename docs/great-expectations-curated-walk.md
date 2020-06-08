@@ -60,7 +60,6 @@ But even the village is an ambiguous and largely unprotected space. Going throug
 But the finger post also conveys the boundaries of Pip’s world. The novel is imprecise about the location of the village, but it must be somewhere between Rochester and Cooling (around six miles to the north). Pip’s description of the marshes
 conveys a huge expanse. When he first meets the convict Magwitch in the churchyard he is both terrified by the open space he must cover to get home, and conscious of the boundary line of the river far behind him. The river curves round to his right, marking the limits of his usual walk to the battery, and metaphorically charting the point beyond which the respectable citizen cannot go - moving East in this direction, an hour’s walk brings Pip and the soldiers, with the unsuspecting Joe, to the landing place where the hulks are stationed.  In terms of mobile landscapes, here we have a prime example, a la Betsy Trotwood’s cottage, of a real landscape giving way to a fictional one. There is no evidence of hulks at Gravesend, though there almost certainly was a battery. The hulks Dickens would have seen would most probably have been at Chatham. He just chooses to move them a few miles westward up-river.
 <param ve-map center="Q5132831" zoom="12">
-<param ve-map-layer geojson active title="Marshes" url="geojson/marshes.json" aliases="marshes">
 
 Little wonder that the route into Rochester seems more appealing. But here too there are obstacles and pitfalls. To reach Miss Havisham’s Satis House ‘up town’, Pip must first navigate the High Street. This means passing Pumblechook’s houseand the provincial majesty of the Guildhall where he will feel like a convict himself when he is formally apprenticed to Joe, as well as the many watchful eyes of the town dwellers.
 <param ve-map center="Q26377461" zoom="14">
@@ -69,6 +68,7 @@ At Satis House itself Pip’s initial reception is humiliating. Mocked by Estell
 was bought and restored in the 1980s by entertainer Rod Hull and his irrepressible puppet Emu.
 <param ve-map center="Q26377461" zoom="13">
 <param ve-map-layer mapwarper active title="Kent 1820" mapwarper-id="38872">
+<param ve-image primary url="images/RestorationHouse.JPG" fit="contain" title="Restoration House">
 
 On a visit to the town after his succession to fortune Pip will be taunted by the unimpressed Trabb’s boy, who ducks in and out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, and was, so to speak, ejected by it into the open country’[^ref2].  
 <param ve-map center="Q5132831" zoom="12">
@@ -76,7 +76,7 @@ On a visit to the town after his succession to fortune Pip will be taunted by th
 Later events will force Pip to reassess his own past and what it means to be a ‘gentleman’. Thackeray famously said that it took three generations ‘to make a gentleman’; Magwitch believes that through his hard work and self-denial he has ‘made a gentleman’; Pip’s unlikely counterpart Estella is the most obviously constructed character in the novel and herself has to be ‘educated for a lady’. A mature Pip will provide the only possible answer to this conundrum when he describes Joe as ‘this gentle Christian man’.
 
 Pip himself seems about to come full circle in returning to the marshes with Magwitch as they row down the river from London. Towards the end of the novel he is from this point when he and his friends stop with Magwitch at the Ship Inn at the end of their abortive attempt to smuggle him out of the country. While Pip has never before seen this stretch of river he recognises at once that ‘It was like my own marsh country, flat and monotonous, and with a dim horizon; while the winding river turned and turned, and the great floating buoys upon it turned and turned, and everything else seemed stranded and still.’[^ref3] But his return is thwarted when Magwitch is hunted down by Compeyson and dies of his injuries, possibly compounded by a river infection. A sadder and wiser Pip finally realises what Joe was trying to tell him years before - there is no way back save in the imagination.
-<param ve-map center="Q26377259" zoom="14">
+<param ve-map center="Q26377259" zoom="12">
 <param ve-image url="images/Ship_and_Lobster.jpg" fit="contain">
 
 ### References
