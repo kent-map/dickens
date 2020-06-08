@@ -8,3 +8,4 @@ does not feature in David Copperfield’s account of a sunny street ‘dozing as
 
 [Canterbury Tales: from the city to the Sea](https://www.youtube.com/watch?v=461nK7mazNo)  
 
+The county's hop picking and farming traditions are invoked by a number of writers including Blackmore (in Alice Lorraine) and Eden Phillpotts. Not surprisingly some of the most detailed (and possibly more realistic) portrayals of Kent farming life are by local authors such as [Bessie Marchant](/19c-marchantb-biography). Rural traditions peculiar to East Kent include hoodening.
