@@ -6,8 +6,12 @@
     a {color: #800000 !important; font-size:1.2em;}
 </style>
 
+## Dickens Land
+
+<img style="width:100%; width:100%; max-width:800px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa; margin-bottom: 24px;" src="images/dickensland.png">
+
 <img class="thumb" src="images/dickens_head.jpg">
-<p class="clearfix" style="margin-top:-18px;">
+<p class="clearfix">
 **[Mobile Landscapes](mobile-landscapes)** was inspired by the literary pilgrimages made by Victorians themselves. Authors such as William Hughes and Frederick Kitton wrote enthusiastic accounts of their adventures as they tracked Dickens and his characters through Kent. This 21C experiment invites you to accompany two modern day Dickensians on their own journey of discovery, as they read the novels to each other from Broadstairs to Rochester.
 </p>
 

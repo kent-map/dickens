@@ -8,7 +8,7 @@
 <param title="Charles Dickens" eid="Q5686">
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
 <param title="Chatham" eid="Q729006">
-<param title="Cooling Marshes" geojson="geojson/marshes.json" article="Cooling_marshes">
+<param title="Cooling Marshes" geojson="geojson/marshes.json" fill-opacity="0.4" article="Cooling_marshes" aliases="the marshes">
 <param title="Cooling" eid="Q2649453">
 <param title="Compeyson" eid="Q5156367" article="Compeyson">
 <param title="Dover Road" geojson="david-copperfield-dover-road">
@@ -40,7 +40,8 @@
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the Hulks’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <param ve-image primary url="images/Cooling_Marshes.jpg" title="The marshes" fit="contain">
-<param ve-map-layer mapwarper enabled mapwarper-id="44832" title="Kent Topo Survey 1860">
+<param data-map center="51.4, 0.50" zoom="11">
+<param ve-map-layer mapwarper active mapwarper-id="38872" title="Kent 1820">
 <param ve-video id="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
 
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes](/mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
