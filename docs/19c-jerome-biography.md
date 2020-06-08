@@ -4,31 +4,25 @@
 
 *Place:* [Folkestone](/19c-folkestone)
 
-
-'''LINKS
-
-https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/
-
-
 >“You’ll find when you get home,” I said, “she has thought of one other thing.”
 
-“What’s that?” said Harris.
+>“What’s that?” said Harris.
 
-“A house at [[Folkestone]] for the season.”
+>“A house at [[Folkestone]] for the season.”
 
-“What should she want a house at [[Folkestone]] for?” said Harris.
+>“What should she want a house at [[Folkestone]] for?” said Harris.
 
-“To live in,” I suggested, “during the summer months.”
+>“To live in,” I suggested, “during the summer months.”
 
-“She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”
+>“She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”
 
-“Possibly,” I said, “she’ll go to Wales before she goes to [[Folkestone]], or maybe she’ll take Wales on her way home; but she’ll want a house at [[Folkestone]] for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am—but I feel a presentiment that I’m not.”
+>“Possibly,” I said, “she’ll go to Wales before she goes to [[Folkestone]], or maybe she’ll take Wales on her way home; but she’ll want a house at [[Folkestone]] for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am—but I feel a presentiment that I’m not.”
 
-“This trip,” said Harris, “is going to be expensive.”
+>“This trip,” said Harris, “is going to be expensive.”
 
-“It was an idiotic suggestion,” I said, “from the beginning.”
+>“It was an idiotic suggestion,” I said, “from the beginning.”
 
-''Three Men on the Bummel''. https://www.gutenberg.org/files/2183/2183-h/2183-h.htm
+[_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
 
 
 ### Article
@@ -59,4 +53,5 @@ By the end of it the hapless owner has lost all hope, and admits to the reader t
 
 ### Bibliography
 
+OUlton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.
 Sharp, Luke [Robert Barr]. ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
