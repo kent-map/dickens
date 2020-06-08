@@ -7,13 +7,11 @@
 
 ## Mobile Landscapes: Finding Kent Dickensian in David Copperfield and Great Expectations
 
-## Ken Moffat and Carolyn W. de la L. Oulton
+## Welcome to Dickens Land!
 
-### Welcome to Dickens Land!
-
-<div align="center" style="float:left; margin: 24px 18px 6px 0px;">
-  <img src="images/Dickens_Land_books.jpg"  style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
-  <p style="padding-top:12px; font-size:1.1em; font-weight:bold;">Dickens Land books</p>
+<div align="center" style="float:left; margin: 32px 24px 6px 0px;">
+  <img src="images/Dickens_Land_books.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em; font-weight:bold;">Dickens Land books</p>
 </div>
 
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
@@ -30,13 +28,10 @@ Much like authors William Hughes and Frederic Kitton, who visited Kent around 18
  
 In this frame of mind it was inevitable that we should see Dickens everywhere. And it is only fitting that comestibles should have featured prominently – he invented ‘the fat boy’, we did not. What we had not foreseen was how these forays would transform not us alone, but the landscape itself. Landladies and local officials, unimpressed toddlers and workers on the roads – all were co-opted into our imaginative panorama, flickering across the scene at the oddest moments. ‘Like something from Dickens’ became a key marker of approbation for our more eccentric encounters.  And the places where these things befell us somehow became different, hyper real. No longer small country towns, but focused stage sets, where anything might happen. Leaving Rochester one autumn afternoon we finally got it.
 
-> Did the High Street look like this when we arrived this morning?
->
-> No, definitely different. 
->
-> Thought so. What have we done to it?
->
-> Dickensed it of course.
+> _Did the High Street look like this when we arrived this morning?_  
+> _No, definitely different._  
+> _Thought so. What have we done to it?_  
+> _Dickensed it of course._  
 
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to [Broadstairs], it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 
@@ -46,15 +41,14 @@ What we are calling [David Copperfield: a curated walk](/david-copperfield-curat
 
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](/dickens-fort-house), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](/dickens-Nuckells-place)  (it’s meant to be in [Dover](/dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House](/dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
  
+<div align="center" style="float:right; margin: 0 0 6px 24px;">
+  <img src="images/Dickens_House_PH.png" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em; font-weight:bold;">Aunt Betsey's parlour  © Carolyn Oulton</p>
+</div>
+
 All three buildings are within sight of each other, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.' https://literatureproject.com/david-copperfield/david-copperfield_chapter_13_-_the.htm (Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 
-
 The museum parlour is a complete reconstruction of the room where David is randomly dosed with a series of bottles from a corner cupboard - we have never been quite sure that we too did not taste ‘aniseed water, anchovy sauce, and salad dressing’. More disturbingly David is later made to confront the Murdstones in this small space, in which there is barely room for the three of them as well as his aunt and Mr Dick.
-
-<p align="center">
-  <img src="images/Dickens_House_PH.png" style="width:100%;max-width:500px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Aunt Betsey's parlour  © Carolyn Oulton</span>
-</p>
 
 It is a far cry from the grandeur of [Fort House](/dickens-fort-house), where Dickens wrote part of the novel and where he had [Wilkie Collins](/collins-biography) and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
 
@@ -63,22 +57,19 @@ We had of course planned to have lunch at the Albion, but like Dickens when the 
 
 ## Canterbury
 
-<p align="center">
-  <img src="images/In Dickens Land. The Little Inn, Canterbury.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Little Inn, Dickens Land</span>
-</p>
+<div align="center" style="float:left; margin: 32px 24px 6px 0;">
+  <img src="images/In Dickens Land. The Little Inn, Canterbury.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em; font-weight:bold;">Little Inn, Dickens Land</p>
+</div>
 
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
 
 At this point the narrative is interrupted while a brief debate ensues:
 
-> I have wasp spray. Show me the place.
->
-> I’m not taking my trousers off.
->
-> Don’t be so wet.
->
-> We’re in the middle of a library, for [unprintable epithet] sake.
+> _I have wasp spray. Show me the place._  
+> _I’m not taking my trousers off._  
+> _Don’t be so wet._  
+> _We’re in the middle of a library, for [unprintable epithet] sake._
 
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
 
@@ -93,32 +84,30 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 
-
-###  [(In which we don’t go to)Folkestone](/dickens-folkestone)
+###  (In which we don’t go to) Folkestone
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. Jerome’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is Broadstairs, been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of Folkestone. Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
-
 
 [Great Expectations: A curated walk](/great-expectations-curated-walk)
 
 ## Chalk
 
+<div align="center" style="float:right; margin: 32px 24px 6px 0;">
+  <img src="images/Chalk Church.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em;"><b>Chalk Church</b> ©Ken Moffat </p>
+</div>
+
+<div align="center" style="float:right; margin: 32px 24px 6px 0;">
+  <img src="images/Forge Cottage Chalk.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em;"><b>Forge Cottage, Chalk</b> ©Ken Moffat </p>
+</div>
+
 In [Broadstairs](/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens-dover) ), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
  
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
 
-
-<p align="center">
-  <img src="images/Chalk Church.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Chalk Church</span> ©Ken Moffat </p> 
-  
-
-
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
-
-<p align="center">
-  <img src="images/Forge Cottage Chalk.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Forge Cottage, Chalk</span> ©Ken Moffat</p> 
+<br>
 
 ## Cooling
 
@@ -130,13 +119,12 @@ Pies. We’d been opting for them consistently since [Broadstairs](/broadstairs)
 
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were: 
 
-> Hurrah, a fjord – I love fjords!
+> _Hurrah, a fjord – I love fjords!_  
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.
 
-> So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?
->
-> Never mind that, does either of us have a toothbrush?
+> _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
+> _Never mind that, does either of us have a toothbrush?_  
 
 Nothing if not practical, that’s us.
 
@@ -153,10 +141,10 @@ As so often in Dickens, Magwitch’s sousing in the River Medway carries overton
 
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' (otherwise the [Bull Inn](https://www.rvbhotel.com/)).  
 
-<p align="center">
-  <img src="images/Bull-Hotel-postcard-Rochester.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Bull Inn</span>
-</p>
+<div align="center" style="float:left; margin: 0 24px 6px 0;">
+  <img src="images/Bull-Hotel-postcard-Rochester.jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em; font-weight:bold;">Bull Inn</p>
+</div>
 
 Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the ''Blue Boar'' on his visits from London, rather than stay with Joe at the forge. 
 
@@ -182,74 +170,51 @@ Technically it still had a minute to run when we saw the traffic warden, but thi
 
 Revving. 
 
-> Has she seen us?
->
-> Just put your foot down, that way, quick.
->
-> It’s a one way system, we’re not allowed to do this.
->
-> What do you think she’s going to do, chase us?
+> _Has she seen us?_  
+> _Just put your foot down, that way, quick._  
+> _It’s a one way system, we’re not allowed to do this._  
+> _What do you think she’s going to do, chase us?_  
 
 And then we got lost again, but at least Estella wasn’t there to see it.
 
+## Gad’s Hill: Journey’s End.
 
-
-## [Gad’s Hill](/dickens-gads-hill): Journey’s End.
-
-<p align="center">
-  <img src="images/Gadshill In Dickens Land.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gad's Hill In Dickens Land</span></p>
+<div align="center" style="float:right; margin: 48px 0 6px 24px;">
+  <img src="images/Gadshill In Dickens Land.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em;"><b>Gad's Hill In Dickens Land</b></p>
+</div>
 
 Honestly. Parents.
 
-> Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up.
->
-> Maybe there really is a secret tunnel in your bedroom cupboard.
->
-> If you work hard perhaps you will even live at [Gad’s Hill](/dickens-gads-hill) one day. 
+> _Of course we’ll keep all the broken china we find in the garden and you can use it to build a house when you grow up._  
+> _Maybe there really is a secret tunnel in your bedroom cupboard._  
+> _If you work hard perhaps you will even live at [Gad’s Hill](/dickens-gads-hill) one day._  
 
 If you really feel that your child is destined to become one of the country’s greatest writers, you might want to try the third of these. It worked for John Dickens, as his son Charles was the first to acknowledge. Anyone currently studying English GCSE at [Gad’s Hill](/dickens-gads-hill) School, you may also be interested to learn that Dickens left formal education by the age of 15. He’s probably on your syllabus now. Funny how life works out.
  
 It was October half term when we found ourselves gazing over the very lawn where Dickens was photographed reading to his daughters Mamie and Katey in the last few years of his life. And if he could do it…
 
 
-
-<p align="center">
-  <img src="images/CDMamieKatie.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;"></span>    
-     </p>
-
-
 To repeat. It was half term. The school was very much closed. Memories of an unfortunate encounter with a geography teacher when late for an outreach meeting and spotted climbing a fence. But still.
 
-> You’re a head teacher. If we’re caught that will make it all right.
->
-> No it won’t. It will make it worse.
->
-> I could stand on your shoulders and get over the wall.
->
-> No you couldn’t.
+> _You’re a head teacher. If we’re caught that will make it all right._  
+> _No it won’t. It will make it worse._  
+> _I could stand on your shoulders and get over the wall._  
+> _No you couldn’t._  
 
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
+Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/david-copperfield-dover-road)
 
+<div align="center" style="float:left; margin: 0 24px 6px 0;">
+  <img src="images/Gads1864067463.jpg" style="width:100%; max-width:600px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em;"><b>Gads1866.</b>©The British Library Board Maps 67463</p>
+</div>
 
-<p align="center">
-  <img src="images/Gads1864067463.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1866. ©The British Library Board Maps 67463</span>    
-     </p>
-
-
-
-
-
-
-
-
-
-Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/david-copperfield-dover-road).
-
-
+<div align="center" style="float:right; margin: 0 24px 6px 0;">
+  <img src="images/CDMamieKatie.jpg" style="width:100%; max-width:600px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em;"></p>
+</div>
 
 ## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
@@ -260,7 +225,6 @@ But we also started to understand that the Victorians read aloud to each other �
 To add to that, looking for the ‘original’ place known only from a novel – an activity that was until recently much derided by academics – can throw up exciting questions about the fictional world, even the nature of creativity itself. Sometimes the topography doesn’t match up but the symbolism does, as when Pip makes his stark choice between decency and status (village or town). Or the reading experience is intensified by seeing what a character sees – just try being alone with someone on an isolated marsh while they growl something about ripping out your liver. Really, there’s nothing quite like it.
 
 Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover](/dickens-dover) again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other. 
-
 
 (1) 'One that is more tiring than one might imagine, and requires regular support in the shape of pies.'
 
