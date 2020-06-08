@@ -21,10 +21,7 @@ Although he stayed in Dover on a number of occasions on his way to the continent
 
 In 1859 one writer saw nothing but ‘Bathing-machines – ugliest of objects, debauching the aspect of all sea-side places – taking slowly to the water like gouty hippopotami. Old rickety sailor with old rickety telescope trudging the beach, looking for Cockneys who pant to see the cliffs of France.’  But in the same year Dickens would begin _A Tale of Two Cities_ by sending Jarvis Lorry down the [Dover Road](/dover-road) and through the town, on his way to revolutionary France, and he included it in his reading tour of November 1861.
 
-[^ref1] To Mary Boyle, 22 July 1852. Pilgrim 6. 720-1. 721. 
-
-
-## Bibliography
+### Bibliography
 
 Dickens, Charles. ‘Out of the Season’. 28 June 1856. _Household Words_. 
 
@@ -34,3 +31,8 @@ _Household Words_, Volume XIII, Magazine No. 327, 28 June 1856, Pages: 553-556. 
 Fowler, Frank. _The Dottings of a Lounger_. London: Routledge Warne & Routledge, 1859.
 
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.
+
+### References
+
+[^ref1]: To Mary Boyle, 22 July 1852. Pilgrim 6. 720-1. 721. 
+
