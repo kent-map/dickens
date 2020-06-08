@@ -1,21 +1,19 @@
 # Folkestone
 
-**Event** Holidays 1852, 1855.
+### Event Holidays 1852, 1855.
 
-**Pavilion Hotel / 3 Albion Villas, Folkestone.**
+### Pavilion Hotel / 3 Albion Villas, Folkestone.
 
-**Publication/s** Out of Town’, _Household Words_, 1855.
+### Publication/s** Out of Town’, _Household Words_, 1855.
 
 >‘At low water, we are a heap of mud, with an empty channel in it, where a couple of men in big boots always shovel and scoop, with what exact object I am unable to say. At that time, all the stranded fishing boats turn on their sides, as if they were dead marine monsters; the colliers and other shipping stick disconsolate in the mud; the steamers look as if their white chimneys would never turn again; the green sea-slime and weed upon the rough stones of obsolete high tides never more to flow; the flagstaff-halyards droop; the very little wooden lighthouse shrinks in the idle glare of the sun.’ - ‘Out of Town’, _Household Words_, 29 September 1855[^ref1]. 
 
-
-<p align="center">
-  <img src="images/smaller pavilionstone.JPG" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Pavilionstone</span>Published by the Frederick Hotels Group, 1902.
-
+<div align="center" style="float:left; margin: 0 24px 6px 0;">
+  <img src="images/smaller pavilionstone.JPG" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:1.2em;"><b>Pavilionstone.</b>&nbsp;Published by the Frederick Hotels Group, 1902.</p>
+</div>
 
 Dickens stayed in Folkestone on several occasions, celebrating the Pavilion Hotel in ‘Out of Town’ in 1855, at the same time as beginning ''Little Dorrit'' during a more prolonged stay at 3 Albion Villas on the Leas. The harbour may have provided inspiration for the famous opening passage of the novel.
-
 
 Whilst he is more often associated with [Broadstairs](/dickens-broadstairs), Dickens wrote warmly about Folkestone in a number of letters from the 1840s. In 1849 he wrote to John Leech suggesting a trip to see the town, telling him that ‘I know the place itself to be a good one, and most accessible’[^ref2]. In a letter to Angela Burdett Coutts in 1852 Dickens told her that he was going to Folkestone for a few days to get away from letters of introduction (a reminder that the Victorian precursor of social media involved physically meeting total strangers based on nothing more than a ‘friend suggestion’). ‘I feel as if I had been thinking my brain into a sort of cabbage net’[^ref3]. 
 
