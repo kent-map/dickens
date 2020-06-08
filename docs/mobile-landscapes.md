@@ -94,7 +94,7 @@ We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old)
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 
 
-###  [(In which we don’t go to)[Folkestone](/dickens-folkestone)
+###  [(In which we don’t go to)Folkestone](/dickens-folkestone)
 
 Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbury. Jerome’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is Broadstairs, been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of Folkestone. Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 
