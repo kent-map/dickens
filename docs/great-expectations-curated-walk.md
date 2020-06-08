@@ -14,6 +14,7 @@
 <param title="Estella" eid="Q5400904" article="Estella">
 <param title="Folkestone" eid="Q375314">
 <param title="Gravesend" eid="Q676689">
+<param title="Joe Gargery" article="Joe" aliases="Joe">
 <param title="Guildhall" eid="Q15272878" aliases="Guildhall">
 <param title="Kent" eid="Q23298">
 <param title="London" eid="Q84" scope="local">
