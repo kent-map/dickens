@@ -1,5 +1,5 @@
-# Gad’s Hill, Higham. Bought by Dickens in 1856, and his home until his death in 1870.
-
+# Gad’s Hill, Higham
+*Bought by Dickens in 1856, and his home until his death in 1870.*
 
 >'I am old (I am nine), and I read all sorts of books. But DO let us stop at the top of the hill, and look at the house there, if you please!'
 'You admire that house?' said I.
