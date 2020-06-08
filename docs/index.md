@@ -20,7 +20,7 @@
 **[Great Expectations: a Curated Walk](great-expectations-curated-walk)** starts with Pip’s fateful encounter with Magwitch in the local churchyard. But what other secrets is he keeping? Meet the characters who shape his destiny or follow him around on a map and learn more about the real ‘marsh country’ of the 1820s. But remember – nothing here is quite what it seems.
 </p>
 
-<img class="thumb" src="images/broadstairs.jpg">
+<img class="thumb" src="images/Broadstairs.jpg">
 <p class="clearfix">
 **[David Copperfield: a Curated Walk](david-copperfield-curated-walk)** takes David through Kent and down the Dover Road to find answers to some vital questions. How do others see us? What does it mean to be in love? Where is home? It may not be obvious at first, but places can move around here, so you must be careful not to get lost.
 </p>
