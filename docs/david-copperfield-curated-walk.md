@@ -22,11 +22,15 @@
 <param title="Kent" eid="Q23298">
 <param title="London" eid="Q84">
 <param title="Maidstone" eid="Q213180">
+<param title="Miss Larkins" article="Miss_Larkins">
+<param title="Magwitch" article="Magwitch">
+<param title="Mr Micawber" article="Mr_Micawber">
 <param title="North Kent Marshes" eid="Q7055769" aliases="Kent Marshes">
 <param title="Philip Pirrip" eid="Q7197170" article="Pip">
 <param title="Rochester" eid="Q507517">
 <param title="South Foreland Lighthouse" eid="Q386221" aliases="South Foreland Light">
-<param title="Uriah Heep" article="Uriah_Heep"
+<param title="Traddles" article="Traddles">
+<param title="Uriah Heep" article="Uriah_Heep">
 
 ## David Copperfield - a curated walk
 
