@@ -9,15 +9,17 @@
 <param title="Chalk" eid="Q5068781" aliases="the village|the town">
 <param title="Chatham" eid="Q729006">
 <param title="Cooling" eid="Q2649453">
-<param title="Compeyson" eid="Q5156367">
-<param title="Estella" eid="Q5400904">
+<param title="Compeyson" eid="Q5156367" article="Compeyson">
+<param title="Dover Road" geojson="david-copperfield-dover-road">
+<param title="Estella" eid="Q5400904" article="Estella">
 <param title="Folkestone" eid="Q375314">
 <param title="Gravesend" eid="Q676689">
 <param title="Guildhall" eid="Q15272878" aliases="Guildhall">
 <param title="Kent" eid="Q23298">
 <param title="London" eid="Q84" scope="local">
-<param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch">
-<param title="Philip Pirrip" eid="Q7197170">
+<param title="Abel Magwitch" eid="Q4666596" aliases="Magwitch" article="Magwitch">
+<param title="Miss Havisham" eid="Q3316519" article="Miss_Havisham">
+<param title="Philip Pirrip" eid="Q7197170" article="Pip">
 <param title="Rochester" eid="Q507517">
 <param title="Rod Hull" eid="Q7356235">
 <param title="Satis House" eid="Q26377461">

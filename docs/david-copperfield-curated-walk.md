@@ -2,6 +2,7 @@
        title="David Copperfield - a curated walk" 
        banner="images/david-copperfield-banner.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
+       prefix-dickens="http://kent-map.github.io/dickens/entity/"
        layout="vtl">
 
 <!-- Global entities -->
@@ -39,7 +40,7 @@ David Copperfield, like Pip in _Great Expectations_, shares the difficult story 
 
 Unlike Pip the blacksmith’s boy, who must learn to challenge what it really means to be a ‘gentleman’, David is born into and then expelled from a secure middle class family. While Pip’s aspirations are bound up with escaping the Kent marshes and reaching London, David is packed off to the metropolis to work in a warehouse after his mother’s death. During this time he will become acquainted with ‘the meanest phases’ of London life, including pawn brokers, cheap lodgings and the debtors’ prison – his enduring sense of shame may even imply a precocious sexual awareness derived from what he sees on his way to and from work.  Both boys feel tainted by association and both are desperate to put as much distance as possible between themselves and the place of their humiliation. But David’s escape plan works in reverse as he makes his way down the [Dover Road](/dover-road) to the coast.
 <param ve-map center="51.2, 0.9" zoom="10" title="Kent Marshes">
-<param ve-map-layer geojson active title="Dover Road" url="geojson/david-copperfield-dover-road.json">
+<param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="geojson/david-copperfield-dover-road.json">
 
 Neither David nor Pip ever quite gets the hang of making journeys without being ripped off at every stage. Young as he is, David has already learned how to budget on the six or seven shillings a week he is paid by his stepfather’s firm of wine merchants. But at the outset of his journey he trusts himself to a boy with a donkey cart who promptly steals his luggage and most of his money. Having pawned his waistcoat for ninepence somewhere near Greenwich, he makes his way on foot to Blackheath and sleeps under a haystack near his old school Salem House. The next morning he ‘crept away from the wall as Mr. Creakle's boys were getting up, and struck into the long dusty track which I had first known to be the [Dover Road](/dover-road) when I was one of them, and when I little expected that any eyes would ever see me the wayfarer I was now, upon it.’
 <param ve-map center="Q179385" zoom="14">
