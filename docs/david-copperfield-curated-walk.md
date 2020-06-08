@@ -22,7 +22,7 @@
 <param title="London" eid="Q84">
 <param title="Maidstone" eid="Q213180">
 <param title="North Kent Marshes" eid="Q7055769" aliases="Kent Marshes">
-<param title="Philip Pirrip" eid="Q7197170">
+<param title="Philip Pirrip" eid="Q7197170" article="Pip">
 <param title="Rochester" eid="Q507517">
 <param title="South Foreland Lighthouse" eid="Q386221" aliases="South Foreland Light">
 
