@@ -1,6 +1,9 @@
+<param ve-config 
+       title="Mapping the Dover Road: David Copperfield’s journey" 
+       author="Elizabeth Waterman-Scrase"
+       layout="vtl">
+       
 # Mapping the Dover Road: David Copperfield’s journey. 
-
-by Elizabeth Waterman-Scrase'''
 
 David Copperfield gives his readers a detailed itinerary [David Copperfield Curated walk](/david-copperfield-curated-walk). But what do we really know about the conditions he would have faced?
 
