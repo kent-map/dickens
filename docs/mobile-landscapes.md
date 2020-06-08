@@ -236,7 +236,7 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 
 <p align="center">
   <img src="images/Gads1864067463.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1866</span>©The British Library Board Maps 67463    
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Gads1866. ©The British Library Board Maps 67463</span>    
      </p>
 
 
@@ -247,7 +247,7 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 
 
 
-Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like _David Copperfield_ before us, made our way back towards the [Dover Road](/david-copperfield-dover-road).
+Oh come on, you didn’t think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/david-copperfield-dover-road).
 
 
 
