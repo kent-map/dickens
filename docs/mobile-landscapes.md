@@ -210,7 +210,8 @@ Teachers. When all’s said and done, they can’t resist a challenge. And so we
 
 <div align="center" style="float:right; margin: 0 24px 6px 0;">
   <img src="images/CDMamieKatie.jpg" style="width:100%; max-width:600px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
-  <p style="padding-top:12px; font-size:1.2em;"></p></div>
+  <p style="padding-top:12px; font-size:1.2em;"></p><
+/div>
 
 
 
