@@ -1,7 +1,7 @@
 # William Harrison Ainsworth (1805-1882)
 *Pseudonyms: ‘Thomas Hall’, ‘H A’, ‘W A’.*
 
-Prolific author William (usually known as Harrison) Ainsworth, born on 4 February 1805, wrote for _The London Magazine_ and had plays and poetry published in numerous journals including _The Edinburgh Magazine_ and _The European Magazine_. His first success, however, came with the 1834 Gothic Romance _Rookwood_ (which invokes [Canterbury](/19c-canterbury)). His literary circle included Samuel Taylor [Coleridge](/coleridge-biography), Robert Southey, William Makepeace [Thackeray(/thackeray-biography)], and many more. He was also close friends with Charles [Dickens](/dickens-biography) in the 1830s. He died on 3 January 1882.
+Prolific author William (usually known as Harrison) Ainsworth, born on 4 February 1805, wrote for _The London Magazine_ and had plays and poetry published in numerous journals including _The Edinburgh Magazine_ and _The European Magazine_. His first success, however, came with the 1834 Gothic Romance _Rookwood_ (which invokes [Canterbury](/19c-canterbury)). His literary circle included Samuel Taylor [Coleridge](/coleridge-biography), Robert Southey, William Makepeace [Thackeray](/thackeray-biography), and many more. He was also close friends with Charles [Dickens](/dickens-biography) in the 1830s. He died on 3 January 1882.
 
 >“THE KNIGHT OF MALTA
 ''A Canterbury Tale''
