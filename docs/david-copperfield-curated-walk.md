@@ -6,6 +6,7 @@
        layout="vtl">
 
 <!-- Global entities -->
+<param title="Agnes Wickfield" article="Agnes_Wickfield">
 <param title="Blackheath" eid="Q880861">
 <param title="Bleak House" eid="Q4925737">
 <param title="Broadstairs" eid="Q922739">
@@ -13,18 +14,23 @@
 <param title="Charles Dickens" eid="Q5686">
 <param title="Chatham" eid="Q729006">
 <param title="David Copperfield" eid="Q189811">
-<param title="David Copperfield" eid="Q5232561" aliases="David">
+<param title="David Copperfield" eid="Q5232561" aliases="David" article="David">
 <param title="Dover" eid="Q179224">
-<param title="Edward Murdstone" eid="Q5344551" aliases="Mr Murdstone">
+<param title="Edward Murdstone" eid="Q5344551" aliases="Mr Murdstone" article="Mr_Murstone">
 <param title="Great Expectations" eid="Q219552">
 <param title="Greenwich" eid="Q179385">
 <param title="Kent" eid="Q23298">
 <param title="London" eid="Q84">
 <param title="Maidstone" eid="Q213180">
+<param title="Miss Larkins" article="Miss_Larkins">
+<param title="Magwitch" article="Magwitch">
+<param title="Mr Micawber" article="Mr_Micawber">
 <param title="North Kent Marshes" eid="Q7055769" aliases="Kent Marshes">
-<param title="Philip Pirrip" eid="Q7197170">
+<param title="Philip Pirrip" eid="Q7197170" article="Pip">
 <param title="Rochester" eid="Q507517">
 <param title="South Foreland Lighthouse" eid="Q386221" aliases="South Foreland Light">
+<param title="Traddles" article="Traddles">
+<param title="Uriah Heep" article="Uriah_Heep">
 
 ## David Copperfield - a curated walk
 

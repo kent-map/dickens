@@ -5,7 +5,7 @@
 >‘Belonging to the house, but unfortunately placed on the other side of the high road, was a shrubbery, well wooded though in desolate condition, in which stood two magnificent cedars; and having obtained, in 1859, the consent of the local authorities for the necessary underground work, Dickens constructed a passage beneath the road from his front lawn; and in the shrubbery thus rendered accessible, and which he then laid out very prettily, he placed afterwards a Swiss chalet presented to him by Mr Fechter, which arrived from Paris in ninety-four pieces fitting like the joints of a puzzle, but which proved to be somewhat costly in setting on its legs by means of a foundation of brickwork.’[^ref1] 
 
 <p align="center">
-  <img src="images/Swiss Chalet.JPG" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
+  <img src="images/Swiss Chalet1.jpg" style="width:100%;max-width:700px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Swiss Chalet</span>
 </p>
 
@@ -18,7 +18,7 @@ Summer houses of various kinds featured prominently in the Victorian imagination
 The Swiss Chalet owned by Dickens was a somewhat extravagant Christmas present from his actor friend Charles Fechter in 1864. It was constructed in a piece of land opposite [Gad's Hill](/dickens-gads-hill) and Dickens used it as a summer study, even having an underground passage built to avoid the necessity of crossing the road every morning. Five mirrors were added that served to ‘reflect and refract in all kinds of ways the leaves that are quivering at the windows, and the great fields of waving corn, and the sail dotted river. My room is up among the branches of the trees; and the birds and the butterflies fly in and out, and the green branches shoot in, at the open windows, and the lights and shadows of the clouds come and go with the rest of the company.’[^ref3] Like others who work from home – and not surprisingly with all this to look at - Dickens complained that on occasion ‘I sit in the chalet, like Mariana in the Moated Grange – and to as much purpose’.[^ref4]
 
 
-## Bibliography
+### Bibliography
 
 Dickens, Charles. _David Copperfield_. Oxford: Oxford World’s Classics, 1997.
 
