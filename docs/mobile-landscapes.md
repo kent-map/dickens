@@ -203,7 +203,7 @@ To repeat. It was half term. The school was very much closed. Memories of an unf
 
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
-Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/david-copperfield-dover-road)
+
 
 <div align="center" style="float:left; margin: 0 24px 6px 0;">
   <img src="images/Gads1864067463.jpg" style="width:100%; max-width:600px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
@@ -214,6 +214,8 @@ Oh come on, you didn't think we - two respectable middle-aged people in broad da
   <img src="images/CDMamieKatie.jpg" style="width:100%; max-width:600px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
   <p style="padding-top:12px; font-size:1.2em;"></p>
 </div>
+
+Oh come on, you didn't think we - two respectable middle-aged people in broad daylight? We looked through the gate, was what we did. There were shadows on the lawn. And then we turned and like David Copperfield before us, made our way back towards the [Dover Road](/david-copperfield-dover-road)
 
 ## Conclusion: in which we justify all this gadding about by insisting that it was serious work.
 
