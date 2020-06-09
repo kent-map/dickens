@@ -201,17 +201,6 @@ To repeat. It was half term. The school was very much closed. Memories of an unf
 > _I could stand on your shoulders and get over the wall._  
 > _No you couldn’t._  
 
-
-
-
-
-
-
-
-
-
-
-
 Teachers. When all’s said and done, they can’t resist a challenge. And so we…
 
 
