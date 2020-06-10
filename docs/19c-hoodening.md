@@ -17,7 +17,7 @@ Photo courtesy of the Friends of Willesborough Windmill Newsletter, Autumn 2019.
 
 **Key dates:** 
 
-1839: a Hooden Horse in [[Broadstairs]] so frightened a lady that she collapsed and died. 
+1839: a Hooden Horse in [Broadstairs] so frightened a lady that she collapsed and died. 
 
 1859: a Hooden Horse in Lower Hardres so frightened a disabled German visitor “that she, who had not put her foot to the ground for seven years, promptly sprang out of her chair, ran indoors, and walked all right for ever afterwards”  FOOTNOTE Maylam 53-54.
 
@@ -39,8 +39,8 @@ May 1807. _European Magazine_: 51 (May 1807) 558.
 7 December 1907, ''Keble’s [[Margate]] and [[Ramsgate]] Gazette.'' 2.
 
 <p align="center">
-  <img src="images/hoodening.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
-  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'This Photo by Unknown Author is licensed under CC BY-SA. Hoodeners are still active in these villages today:  https://www.facebook.com/hoodeners</span> 
+  <img src="images/hoodeners.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'1905, This Photo by Unknown Author is licensed under CC BY-SA. Hoodeners are still active in these villages today:  https://www.facebook.com/hoodeners</span> 
 
 This Photo by Unknown Author is licensed under CC BY-SA. Hoodeners are still active in these villages today:  https://www.facebook.com/hoodeners
 
@@ -51,7 +51,7 @@ Victorian Hoodeners – usually stable hands or farmworkers needing money to see
 The earlier history of the Hooden Horse is a matter of conjecture. It could derive from the fifth century crest of Kent’s first Saxon king, or the Saxon custom of parading animal heads in worship of Odin, whose festival coincides with Christmas. Similar customs took place in East Kent in the seventh century, and links to other ‘Hooding’ and animal-character traditions are plausible.
 
 <p align="center">
-  <img src="images/hoodenhorse.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
+  <img src="images/Hoodenhorse.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">'©Carolyn Oulton</span> 
 
 ### Bibliography
