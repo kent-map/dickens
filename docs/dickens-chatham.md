@@ -30,3 +30,7 @@ Dickens, John. ‘Further Particulars.’ _The Times_. 4 Mar. 1820. ''The Times 
 
 [^ref1]: Tomalin 13.
 [^ref2]: ‘Further Particulars’.
+
+
+### Links
+https://lukemckernan.com/2020/06/08/day-dreams-and-bad-dreams/
