@@ -11,7 +11,6 @@ _The Z.Z.G._
 
 <a title="Frederick Tancock Palmer
  / Public domain" href="https://commons.wikimedia.org/wiki/File:Francis_Burnand.png"><img width="256" alt="Francis Burnand" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Francis_Burnand.png/256px-Francis_Burnand.png"></a>
-
 Frederick Tancock Palmer / Public domain.
 
 Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of ''Punch'' from 1880-1906, serialising the [Grossmiths](/19c-grossmith-biography)’ runaway success _Diary of a Nobody_ in 1888. In 1897 he and _Punch_ artist Phil May adopted the Dickensian personae ‘T’other Guv’nor’ and ‘T’otherst Guv’nor’ for their collaboration on the comic but informative _Z.Z.G., or Zig Zag Guide round and about the bold and beautiful Kentish coast…_. Despite _Punch_’s habitual disdain of _Three Men in a Boat_ and its lower middle class author, May himself also worked with Jerome K. [Jerome](/19c-jerome-biography) (who as editor of _The Idler_ complained bitterly of the illustrator’s shoddy attitude to deadlines).
