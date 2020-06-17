@@ -43,7 +43,6 @@ On Monday [19 May 1845] H. M. sloops Erebus and Terror left Greenhithe, on their
   <img src="images/erebus.jpg" style=" float:left; margin:3px 12px 6px 0px; width:100%; max-width:400px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" ><br/>
   <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Illustration of the ships Erebus and Terror leaving Greenhithe. Published in the Illustrated London News, 24th May 1845, p. 328.</span> 
 
-### Article
 
 Greenhithe, on the shore of the River Thames, is, today, overshadowed by its near neighbours the Queen Elizabeth II Bridge and the Bluewater shopping centre. In the 1840s, however, a pier erected in 1842 attracted Victorian day-trippers aboard pleasure boats from London; a fashion augmented by the opening of a railway link in 1849.
 
