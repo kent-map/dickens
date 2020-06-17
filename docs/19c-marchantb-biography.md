@@ -2,7 +2,7 @@
 (1862-1941)
 
 
-**Place** Born at Debden Court Farm, Petham, [Canterbury] on 12 December 1862.
+**Place** Born at Debden Court Farm, Petham, Canterbury on 12 December 1862.
 
 
 >'The earlier hours of Sunday were always busy ones in the cottages on Bodsam Green, and indeed in surrounding hamlets as well. It was the favourite day for bread-baking, and the making of sufficient pies and puddings to last the week through, whilst any odd bits of washing, or house-cleaning were also got through with at the same time, in order to leave the women free for those out-door avocations of stone-picking, weeding, harvesting, turniping, and fruit-gathering, with which they endeavoured to eke out the scanty wages of their husbands. By dinner-time this activity was at an end; and dinner over, the children were turned out to play on the Green if the weather was favourable, and sometimes when it was not.’
