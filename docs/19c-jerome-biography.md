@@ -17,7 +17,7 @@
 [_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
 
 
-### Article
+
 
 Recalling their holiday in [Folkestone](/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’  
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c-folkestone).
