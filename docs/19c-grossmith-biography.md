@@ -7,10 +7,6 @@
 >AUGUST 20.—I am glad our last day at the seaside was fine, though clouded overhead. We went over to Cummings' (at Margate) in the evening, and as it was cold, we stayed in and played games; Cowing, as usual, overstepping the mark. He suggested we should play "Cutlets," a game we never heard of. He sat on a chair, and asked Carrie to sit on his lap, an invitation which dear Carrie rightly declined. _The Diary of a Nobody_ (1892). 
 
 
-Actor and theatrical manager, producer and director, George Grossmith is perhaps best known today for his comic _Diary of a Nobody_, written with his brother Weedon. He retired to Folkestone in 1909 and died there in 1912. 
-
-
-### Article
 
 George Grossmith was an actor and theatrical manager, producer and director. But his lasting contribution to literature is the comic _Diary of a Nobody_, written with his brother Weedon Grossmith. The book was first published in volume form and with illustrations, in 1892. But the original version was serialised in ”Punch” between 1888 and 1889 under the editorship of [[F. C. Burnand]], making it a direct rival to [Jerome K. Jerome](/19c-jerome-biography)’s 1889 _Three Men in a Boat_. The Grossmiths’ comic creation Charles Pooter (the eponymous ‘nobody’) lives in the London suburbs, but gives a typically methodical account of his holiday in [Broadstairs](/broadstairs) with his wife Caroline and their son the self-named Lupin.
 He begins enthusiastically enough, noting that he has secured ‘Very nice apartments near the station. On the cliffs they would have been double the price. The landlady had a nice five o'clock dinner and tea ready, which we all enjoyed, though Lupin seemed fastidious because there happened to be a fly in the butter.’
