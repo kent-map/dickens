@@ -1,8 +1,11 @@
 # Jane Austen
 **16 December 1775 - 18 July 1817.**  
 **Places:** Ashford, Canterbury, Chilham, Dartford, Eastwell, Godmersham, Goodnestone & Rowling, Ramsgate, Sevenoaks, Tonbridge, Tunbridge Wells 
-<a title="Cassandra Austen (1773-1845) / Public domain" href="https://commons.wikimedia.org/wiki/File:JaneAustenCassandraWatercolour.jpg"><img width="256" alt="JaneAustenCassandraWatercolour" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/JaneAustenCassandraWatercolour.jpg"></a>
-Cassandra Austen (1773-1845) / Public domain.
+
+<div align="center" style="float:right; margin: 64px 0 6px 24px;">
+  <img src="ihttps://commons.wikimedia.org/wiki/File:JaneAustenCassandraWatercolour.jpg"style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:0.9em;"><b>Cassandra Austen (1773-1845) / Public domain</b></p>
+</div>
 
 ‘Are you pleased with Kent?’ 
 Pride and Prejudice
