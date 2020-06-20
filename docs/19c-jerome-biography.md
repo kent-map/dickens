@@ -16,8 +16,11 @@
 
 [_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
 
+<div align="center" style="float:right; margin: 64px 0 6px 24px;">
+  <img src="images/Jerome_K_Jerome_(7893553318).jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
+  <p style="padding-top:12px; font-size:0.9em;"><b>By National Media Museum from UK - Jerome K. Jerome. Uploaded by mrjohncummings, No restrictions</b></p>
+</div>
 
-https://en.wikipedia.org/wiki/Jerome_K._Jerome#/media/File:Jerome_K._Jerome_(7893553318).jpg
 
 Recalling their holiday in [Folkestone](/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around’  
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c-folkestone).
