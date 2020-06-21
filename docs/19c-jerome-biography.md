@@ -49,4 +49,5 @@ By the end of it the hapless owner has lost all hope, and admits to the reader t
 ### Bibliography
 
 Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.
+
 Sharp, Luke [Robert Barr]. ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
