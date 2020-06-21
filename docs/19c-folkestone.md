@@ -12,7 +12,7 @@ Everything that was to be seen, they had seen, and everything that was to be don
 
 But entertainments and distractions that might have attracted day trippers and holidaymakers were resisted’.<^ref5> Ultimately the 4th Earl of Radnor (1869-1889) elected to keep undesirable visitors off the Leas through the offices of a policeman. He might not have been too pleased to learn that this was a favourite spot for young women to read fashionable but not always edifying novels from the circulating libraries. ‘Some of the fair transgressors are very artful and seek to hide the tell-tale wrappers by brown paper covers; others artless do not. This is how we happen to know all about it.’<^ref6>
 
-With characteristic irreverence, [[Jerome K. Jerome]] portrays the Leas as a setting for casual encounters of the kind that would have horrified its aristocratic vistors. In his account however it is not the morals of young women but the fate of his own bicycle that is to be lamented.
+With characteristic irreverence, [Jerome K. Jerome](19c-jerome-biography) portrays the Leas as a setting for casual encounters of the kind that would have horrified its aristocratic vistors. In his account however it is not the morals of young women but the fate of his own bicycle that is to be lamented.
 
 [^ref1]: Clunn 303.
 
