@@ -46,8 +46,10 @@ Nothing daunted, J’s new acquaintance next proposes ‘that while he was about
 
 By the end of it the hapless owner has lost all hope, and admits to the reader that ‘My pride in the machine he had killed.  My only interest lay now in seeing him scratch and bump and pinch himself.’ But his sarcastic comment that ‘It is not only your skill and dexterity that fascinates me, it is your cheery confidence in yourself, your inexplicable hopefulness, that does me good’ is clearly wasted on the author of his misfortunes, and finally the bicycle is sold off at a loss to a local dealer.
 
+https://www.victoriansecrets.co.uk/authors/jerome-k-jerome-1859-1927/
+
 ### Bibliography
 
 Oulton, C. (2012) [Below the fairy city: a life of Jerome K. Jerome](https://www.victoriansecrets.co.uk/book/below-the-fairy-city-a-life-of-jerome-k-jerome/) Victorian Secrets.
 
-Sharp, Luke [Robert Barr]. ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
+Sharp, Luke [Robert Barr](19c-barr-biography). ‘A search for a half-crown’. _Folkestone Visitors’ List and Society Journal_. 27 May 1891. 9-11.
