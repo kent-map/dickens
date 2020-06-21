@@ -5,13 +5,21 @@
 *Place:* [Folkestone](/19c-folkestone)
 
 >“You’ll find when you get home,” I said, “she has thought of one other thing.”
+
 “What’s that?” said Harris.
+
 “A house at Folkestone for the season.”
+
 “What should she want a house at Folkestone for?” said Harris.
+
 "To live in,” I suggested, “during the summer months.”
+
 “She’s going to her people in Wales,” said Harris, “for the holidays, with the children; we’ve had an invitation.”
-“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am—but I feel a presentiment that I’m not.”
+
+“Possibly,” I said, “she’ll go to Wales before she goes to Folkestone, or maybe she’ll take Wales on her way home; but she’ll want a house at Folkestone for the season, notwithstanding.  I may be mistaken—I hope for your sake that I am — but I feel a presentiment that I’m not.”
+
 “This trip,” said Harris, “is going to be expensive.”
+
 “It was an idiotic suggestion,” I said, “from the beginning.”
 
 [_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
