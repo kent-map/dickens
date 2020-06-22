@@ -30,7 +30,7 @@
 </div>
 
 
-Recalling their holiday in [Folkestone](/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around.’  Despite these reservations Jerome had a performance of his play _ New Lamps for Old_ at the Pleasure Gardens in the spring of 1891 and returned to the town in person to give a lecture on ‘Humour New and Old’ in the autumn of 1893.
+Recalling their holiday in [Folkestone](/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around.’  Despite these reservations Jerome had a performance of his play _New Lamps for Old_ at the Pleasure Gardens in the spring of 1891 and returned to the town in person to give a lecture on ‘Humour New and Old’ in the autumn of 1893.
 
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c-folkestone).
 
