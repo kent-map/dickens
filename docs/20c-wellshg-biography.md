@@ -30,12 +30,12 @@ In 1907 Wells’ became a Justice of the Peace for Folkestone,   received a visi
 
 ### Bibliography 
 
-Roberts, Adam. _H.G Wells: A literary Life Kipps_. Palgrave Macmillan, 2019. Springer E-books. Accessed 22/06/2020 https://link.springer.com/book/10.1007%2F978-3-030-26421-5#about
+Roberts, Adam. _H.G Wells: A literary Life_. Palgrave Macmillan, 2019. [Springer E-books](https://link.springer.com/book/10.1007%2F978-3-030-26421-5#about). Accessed 22/06/2020 
 
-Scott, Bonnie Kime. “Tracing Garden Networks: Katherine Mansfield and Elizabeth Von Arnim.” _Kipps_ Katherine Mansfield and Elizabeth Von Arnim_Kipps_, Edinburgh University Press, 2019. JSTOR, Accessed 22/06/2020 www.jstor.org/stable/10.3366/j.ctvrs90wt.8 
+Scott, Bonnie Kime. “Tracing Garden Networks: Katherine Mansfield and Elizabeth Von Arnim.” _Kipps_ Katherine Mansfield and Elizabeth Von Arnim_Kipps_, Edinburgh University Press, 2019. [JSTOR](www.jstor.org/stable/10.3366/j.ctvrs90wt.8 ), Accessed 22/06/2020 
 
 
-Sherborne, Michael. _Kipps_ H.G. Wells: Another Kind of Life_Kipps_, Peter Owen Publishers, 2013. ProQuest Ebook Central, Accessed 22/06/2020 https://ebookcentral.proquest.com/lib/exeter/detail.action?docID=1563999 
+Sherborne, Michael. _Kipps_ H.G. Wells: Another Kind of Life_Kipps_, Peter Owen Publishers, 2013. [ProQuest Ebook Central](https://ebookcentral.proquest.com/lib/exeter/detail.action?docID=1563999 ), Accessed 22/06/2020 
 
 
 
