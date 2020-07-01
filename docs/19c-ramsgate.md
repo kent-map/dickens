@@ -4,6 +4,9 @@
 
 But this picture of affluence and respectability is compromised by Dickens himself as early as the 1840s. Writing to a friend from nearby Broadstairs he gleefully describes ‘Wild beasts too, at Ramsgate, and a young lady in armour, as goes into the dens while a rustic keeper who speaks through his nose, exclaims, “Beold the abazid power of woobbud!”’[^ref3]  Another humourist, Israel Zangwill, observed wryly in 1896 that ‘When you see – as I saw last Bank Holiday on Ramsgate beach – Edwin and Angelina asleep in each other’s arms, the situation strikes you as too simple for analysis. It is like the loves of the elements, or the propensity of carbon to combine with oxygen.’
 
+
+Feeling active? You may want to try this [walk from Pegwell Bay to Ramsgate](https://explorekent.org/activities/pegwell-bay-to-ramsgate-walk-romans-to-victoriana/)
+
 ### Bibliography
 Burnand, Frances Cowley, illustrated by Phil May. _The Z.Z.G., or Zig Zag Guide: Round and about the bold and beautiful Kentish coast._
 
