@@ -19,6 +19,8 @@ The full tragedy of the scenario may strike an adult – reading this passage in
 
 See also [Mobile Landscapes](/mobile-landscapes)
 
+Feeling active? You may want to try this [Heron Cycle Trail](https://explorekent.org/activities/heron-cycle-trail-the-hoo-peninsula/)
+
 ## Bibliography.
 
 Dickens, Charles. _Great Expectations_. Oxford: Oxford World’s Classics, 1993.
