@@ -18,6 +18,8 @@ The Guildhall itself does not feature again in the novel, but Pip would have to 
 
 See also [Mobile Landscapes](/mobile-landscapes)
 
+Want to see Pip's local town for yourself? You may want to try this [Rochester Walk](https://explorekent.org/activities/rochester-walk-a-feast-of-fine-architecture/)
+
 
 ## Bibliography
 Dickens, Charles. _Great Expectations_ ''Great Expectations.''
