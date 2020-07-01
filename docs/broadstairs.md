@@ -31,6 +31,8 @@ By the late nineteenth century Dickens’s association with the town was being h
 
 
 
+
+
 Feeling active? You may want to try this [Turner and Dickens walk]( https://explorekent.org/activities/turner-dickens-walk/)
 
 ### Bibliography
