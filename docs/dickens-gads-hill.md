@@ -34,6 +34,8 @@ While Dickens had admired the house as a child living in [Chatham](/dickens-chat
 
 See also [Mobile Landscapes](/mobile-landscapes)
 
+Feeling active? You may want to try this [Dickens and Higham walk](https://explorekent.org/activities/charles-dickens-and-higham-walk/)
+
 ## Bibliography
 Dickens, Charles. ‘Travelling Abroad’. http://www.djo.org.uk/all-the-year-round/volume-ii/page-557.html
 
