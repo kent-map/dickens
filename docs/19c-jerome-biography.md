@@ -1,6 +1,6 @@
 # Jerome K. Jerome (1859-1927)
 
-*Event with dates:* Holiday 1890
+*Event:* Holiday 1890
 
 *Place:* [Folkestone](/19c-folkestone)
 
@@ -22,7 +22,10 @@
 
 “It was an idiotic suggestion,” I said, “from the beginning.”
 
+
 [_Three Men on the Bummel_](https://www.gutenberg.org/files/2183/2183-h/2183-h.htm).
+
+
 
 <div align="center" style="float:right; margin: 64px 0 6px 24px;">
   <img src="images/Jerome_K._Jerome_(7893553318).jpg" style="width:100%; max-width:500px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border:1px solid #aaa;" >
