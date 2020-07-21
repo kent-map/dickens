@@ -2,7 +2,7 @@
 
 [Mobile Landscapes](/mobile-landscapes)
 
-**Event with dates** Holiday. 1837, 1840-43, 1845, 1847, 1849-51.
+Holiday. 1837, 1840-43, 1845, 1847, 1849-51.
 
 **Publication(s)** ‘Our Watering Place’ (1851), _David Copperfield_ (1848-50).
 
