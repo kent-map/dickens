@@ -18,3 +18,5 @@ Btu while both Dickens's childhood and final homes were in West Kent, he spent m
 His two most obviously autobiographical novels, _David Copperfield_ (1850) set partly in [Dover](/dickens-dover) and [Canterbury](/david-copperfield-canterbury), and _Great Expectations_ (1861) with its powerful evocation of the estuary marshes, also return to a pre-railway era in their treatment of young men whose lives are shaped by the Kent landscape. His final novel, the uncompleted [_Mystery of Edwin Drood_](http://droodinquiry.com/)  offers a notably more modern representation of, one that is linked to the temptations of London opium dens and rendered dangerous by the urges of sexual jealousy.
 
 After his death the areas of Kent most closely associated with Dickens and his novels became the focus for numerous guide writers and literary 'pilgrims'. As the fresh air movement took hold in the early years of the twentieth century, designated Dickens ‘rambles’ and cycling tours were promoted as a means of engaging with a revered writer while escaping the demands and pollution of London.
+
+See also [Mobile Landscapes](dickens/mobile-landscapes)
