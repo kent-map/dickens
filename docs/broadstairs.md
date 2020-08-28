@@ -30,7 +30,7 @@ While Dickens complained in 1847 that ‘Unless it pours of rain, I cannot write
 By the late nineteenth century Dickens’s association with the town was being heavily promoted to literary tourists and ‘Dickens Road’ had literally put him on the map.
 
 
-
+**Article written by:** Ken Moffat and Carolyn Oulton
 
 
 Feeling active? You may want to try this [Turner and Dickens walk]( https://explorekent.org/activities/turner-dickens-walk/)
