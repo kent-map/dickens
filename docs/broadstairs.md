@@ -1,6 +1,6 @@
 # Broadstairs
 
-[Mobile Landscapes](/mobile-landscapes)
+[Mobile Landscapes](dickens/mobile-landscapes)
 
 Holiday. 1837, 1840-43, 1845, 1847, 1849-51.
 
